@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T16:43:16Z",
+  "lastUpdated": "2026-05-07T20:57:57Z",
   "count": 170,
   "contests": [
     {
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 540,
-      "parsed_at": "2026-05-07T05:38:06.353748",
+      "n_statistics": 542,
+      "parsed_at": "2026-05-07T17:39:07.395872",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -316,21 +316,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-07T11:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-05-07T17:01:00",
-      "event": "Weekly Contest 229",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/weekly-contest-229",
-      "id": 67340365,
-      "n_problems": null,
-      "n_statistics": 124,
-      "parsed_at": "2026-05-07T16:39:05.839699",
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-05-07T15:01:00"
     },
     {
       "duration": 198000,
@@ -751,6 +736,21 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-05-14T13:33:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-05-14T17:01:00",
+      "event": "Weekly Contest 230",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/weekly-contest-230",
+      "id": 67499751,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-05-14T15:01:00"
     },
     {
       "duration": 255600,
