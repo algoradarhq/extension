@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T20:57:57Z",
+  "lastUpdated": "2026-05-08T02:08:00Z",
   "count": 170,
   "contests": [
     {
@@ -618,21 +618,6 @@
       "start": "2026-05-10T12:00:00"
     },
     {
-      "duration": 7200,
-      "end": "2026-05-10T15:35:00",
-      "event": "Repovive Starter Round 1",
-      "host": "repovive.com",
-      "href": "https://repovive.com/contests",
-      "id": 67344519,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "repovive.com",
-      "resource_id": 180,
-      "start": "2026-05-10T13:35:00"
-    },
-    {
       "duration": 10800,
       "end": "2026-05-10T17:00:00",
       "event": "CROATIAN OLYMPIAD IN INFORMATICS",
@@ -646,6 +631,21 @@
       "resource": "hsin.hr/coci",
       "resource_id": 23,
       "start": "2026-05-10T14:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-05-10T16:35:00",
+      "event": "Repovive Starter Round 1",
+      "host": "repovive.com",
+      "href": "https://repovive.com/contests",
+      "id": 67344519,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "repovive.com",
+      "resource_id": 180,
+      "start": "2026-05-10T14:35:00"
     },
     {
       "duration": 1123200,
