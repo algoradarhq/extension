@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-10T02:01:32Z",
-  "count": 175,
+  "lastUpdated": "2026-05-10T07:21:41Z",
+  "count": 173,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 551,
-      "parsed_at": "2026-05-09T17:43:06.027842",
+      "parsed_at": "2026-05-10T05:44:06.103781",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -370,8 +370,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND49",
       "id": 67470804,
       "n_problems": 5,
-      "n_statistics": 44,
-      "parsed_at": "2026-05-09T23:25:06.389422",
+      "n_statistics": 48,
+      "parsed_at": "2026-05-10T05:51:06.469912",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -430,8 +430,8 @@
       "href": "https://dmoj.ca/contest/gtpc26ir",
       "id": 67532809,
       "n_problems": 5,
-      "n_statistics": 4,
-      "parsed_at": "2026-05-09T22:00:08.284803",
+      "n_statistics": 7,
+      "parsed_at": "2026-05-10T04:25:06.430721",
       "problems": null,
       "resource": "dmoj.ca",
       "resource_id": 77,
@@ -453,21 +453,6 @@
       "start": "2026-05-10T01:00:00"
     },
     {
-      "duration": 5400,
-      "end": "2026-05-10T04:00:00",
-      "event": "Weekly Contest 501",
-      "host": "leetcode.com",
-      "href": "https://leetcode.com/contest/weekly-contest-501",
-      "id": 67396852,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "leetcode.com",
-      "resource_id": 102,
-      "start": "2026-05-10T02:30:00"
-    },
-    {
       "duration": 25200,
       "end": "2026-05-10T11:00:00",
       "event": "Программирование - профессионалы (ком. 2026)",
@@ -481,21 +466,6 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-05-10T04:00:00"
-    },
-    {
-      "duration": 0,
-      "end": "2026-05-10T06:00:00",
-      "event": "Problem 996",
-      "host": "projecteuler.net",
-      "href": "https://projecteuler.net/news",
-      "id": 67430026,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "projecteuler.net",
-      "resource_id": 65,
-      "start": "2026-05-10T06:00:00"
     },
     {
       "duration": 284400,
@@ -843,8 +813,8 @@
       "start": "2026-05-16T12:00:00"
     },
     {
-      "duration": 7200,
-      "end": "2026-05-16T16:35:00",
+      "duration": 8100,
+      "end": "2026-05-16T16:50:00",
       "event": "Codeforces Round (Div. 2)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2228",
