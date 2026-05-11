@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-11T02:11:21Z",
-  "count": 163,
+  "lastUpdated": "2026-05-11T08:19:59Z",
+  "count": 164,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 552,
-      "parsed_at": "2026-05-10T17:45:06.670805",
+      "parsed_at": "2026-05-11T05:46:05.888499",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -341,7 +341,7 @@
       "id": 67532809,
       "n_problems": 5,
       "n_statistics": 9,
-      "parsed_at": "2026-05-10T23:40:06.103225",
+      "parsed_at": "2026-05-11T06:05:05.621298",
       "problems": null,
       "resource": "dmoj.ca",
       "resource_id": 77,
@@ -961,6 +961,21 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-05-23T14:35:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-05-24T04:00:00",
+      "event": "Weekly Contest 503",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/weekly-contest-503",
+      "id": 67582427,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2026-05-24T02:30:00"
     },
     {
       "duration": 25200,
