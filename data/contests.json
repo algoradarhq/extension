@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-11T12:34:15Z",
-  "count": 164,
+  "lastUpdated": "2026-05-11T17:19:13Z",
+  "count": 162,
   "contests": [
     {
       "duration": 23612094,
@@ -295,8 +295,8 @@
       "href": "https://www.bubblecup.org/CompetitorsCorner/Problems",
       "id": 67472080,
       "n_problems": 10,
-      "n_statistics": 29,
-      "parsed_at": "2026-05-10T20:25:05.628982",
+      "n_statistics": 33,
+      "parsed_at": "2026-05-11T15:54:06.559115",
       "problems": null,
       "resource": "bubblecup.org",
       "resource_id": 101,
@@ -361,36 +361,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-10T08:00:00"
-    },
-    {
-      "duration": 86400,
-      "end": "2026-05-11T13:00:00",
-      "event": "Midnight Sun CTF 2026 Quals",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/2773/",
-      "id": 67092522,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-05-10T13:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-05-11T15:30:00",
-      "event": "Monday Munch - DSA Challenge 002 (Rated)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DSAMONDAY002",
-      "id": 67540312,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-05-11T12:30:00"
     },
     {
       "duration": 1123200,
