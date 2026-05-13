@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-13T17:08:46Z",
-  "count": 164,
+  "lastUpdated": "2026-05-13T21:18:04Z",
+  "count": 165,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 559,
-      "parsed_at": "2026-05-13T05:50:05.619776",
+      "n_statistics": 565,
+      "parsed_at": "2026-05-13T17:51:06.595419",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -768,6 +768,21 @@
       "start": "2026-05-18T14:35:00"
     },
     {
+      "duration": 7200,
+      "end": "2026-05-19T09:00:00",
+      "event": "МультиОлимпиада «Математика и технологии программирования» (март 2026)",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 67645962,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-05-19T07:00:00"
+    },
+    {
       "duration": 25200,
       "end": "2026-05-20T11:00:00",
       "event": "Подготовка к отбору на IOI 2026",
@@ -1036,6 +1051,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-05-27T14:30:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-05-27T17:00:00",
+      "event": "Beginner Contest 113",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/beginner-contest-113",
+      "id": 67645116,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-05-27T15:30:00"
     },
     {
       "duration": 2400,
@@ -2386,21 +2416,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-11-14T09:00:00"
-    },
-    {
-      "duration": 25200,
-      "end": "2026-11-15T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 67639425,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-11-15T04:00:00"
     },
     {
       "duration": 172800,
