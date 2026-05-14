@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T02:14:46Z",
+  "lastUpdated": "2026-05-14T07:37:10Z",
   "count": 166,
   "contests": [
     {
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 565,
-      "parsed_at": "2026-05-13T17:51:06.595419",
+      "n_statistics": 570,
+      "parsed_at": "2026-05-14T05:52:05.788439",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -295,8 +295,8 @@
       "href": "https://www.bubblecup.org/CompetitorsCorner/Problems",
       "id": 67472080,
       "n_problems": 10,
-      "n_statistics": 44,
-      "parsed_at": "2026-05-13T06:52:05.693381",
+      "n_statistics": 50,
+      "parsed_at": "2026-05-14T02:21:05.837971",
       "problems": null,
       "resource": "bubblecup.org",
       "resource_id": 101,
