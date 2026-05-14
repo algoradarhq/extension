@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-13T21:18:04Z",
-  "count": 165,
+  "lastUpdated": "2026-05-14T02:14:46Z",
+  "count": 166,
   "contests": [
     {
       "duration": 23612094,
@@ -1201,6 +1201,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-05-30T12:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-05-30T16:35:00",
+      "event": "Codeforces Round (Div. 2)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2232",
+      "id": 67654044,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-05-30T14:35:00"
     },
     {
       "duration": 0,
