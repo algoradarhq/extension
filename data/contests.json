@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-19T12:33:40Z",
-  "count": 145,
+  "lastUpdated": "2026-05-19T17:33:55Z",
+  "count": 146,
   "contests": [
     {
       "duration": 23612094,
@@ -280,8 +280,8 @@
       "href": "https://www.codingame.com/contests/spring-challenge-2026-troll-farm",
       "id": 67275504,
       "n_problems": null,
-      "n_statistics": 1669,
-      "parsed_at": "2026-05-19T12:27:08.554106",
+      "n_statistics": 1698,
+      "parsed_at": "2026-05-19T17:15:13.375591",
       "problems": null,
       "resource": "codingame.com",
       "resource_id": 81,
@@ -361,6 +361,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-05-20T04:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-05-20T17:30:00",
+      "event": "Intra-IUT Junior Programming Contest (IJPC) 2026. flying_saucer",
+      "host": "codeforces.com/gyms",
+      "href": "https://codeforces.com/gym/106539",
+      "id": 67783199,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com/gyms",
+      "resource_id": 64,
+      "start": "2026-05-20T13:30:00"
     },
     {
       "duration": 7200,
