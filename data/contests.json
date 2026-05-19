@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-18T21:02:32Z",
-  "count": 148,
+  "lastUpdated": "2026-05-19T02:28:45Z",
+  "count": 147,
   "contests": [
     {
       "duration": 23612094,
@@ -153,21 +153,6 @@
       "start": "2026-03-25T17:38:23"
     },
     {
-      "duration": 4003442,
-      "end": "2026-05-18T23:59:00",
-      "event": "The Gemma 4 Good Hackathon [artificial intelligence, tabular, text]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/gemma-4-good-hackathon",
-      "id": 66669167,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2026-04-02T15:54:58"
-    },
-    {
       "duration": 31536000,
       "end": "2027-04-07T22:32:00",
       "event": "Lincatoria Problems. Jajceslav",
@@ -295,8 +280,8 @@
       "href": "https://www.codingame.com/contests/spring-challenge-2026-troll-farm",
       "id": 67275504,
       "n_problems": null,
-      "n_statistics": 1621,
-      "parsed_at": "2026-05-18T20:51:08.495078",
+      "n_statistics": 1633,
+      "parsed_at": "2026-05-19T02:27:08.282762",
       "problems": null,
       "resource": "codingame.com",
       "resource_id": 81,
