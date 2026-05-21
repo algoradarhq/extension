@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T02:29:53Z",
+  "lastUpdated": "2026-05-21T08:26:44Z",
   "count": 148,
   "contests": [
     {
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 614,
-      "parsed_at": "2026-05-20T18:05:55.411699",
+      "n_statistics": 615,
+      "parsed_at": "2026-05-21T06:06:07.893682",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -280,8 +280,8 @@
       "href": "https://www.codingame.com/contests/spring-challenge-2026-troll-farm",
       "id": 67275504,
       "n_problems": null,
-      "n_statistics": 1814,
-      "parsed_at": "2026-05-21T02:05:08.101375",
+      "n_statistics": 1827,
+      "parsed_at": "2026-05-21T08:05:08.175424",
       "problems": null,
       "resource": "codingame.com",
       "resource_id": 81,
