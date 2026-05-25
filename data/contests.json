@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-25T08:50:31Z",
-  "count": 131,
+  "lastUpdated": "2026-05-25T12:55:54Z",
+  "count": 133,
   "contests": [
     {
       "duration": 23612094,
@@ -279,9 +279,9 @@
       "host": "codechef.com",
       "href": "https://www.codechef.com/DSAMONDAY004",
       "id": 67883126,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 6,
+      "n_statistics": 498,
+      "parsed_at": "2026-05-25T12:55:06.231711",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -766,6 +766,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-06-06T19:00:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-06-07T04:00:00",
+      "event": "Weekly Contest 505",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/weekly-contest-505",
+      "id": 67911668,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2026-06-07T02:30:00"
     },
     {
       "duration": 25200,
@@ -1411,6 +1426,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-08-23T04:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-08-30T00:00:00",
+      "event": "COMPFEST CTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3290/",
+      "id": 67911364,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-08-29T00:00:00"
     },
     {
       "duration": 86400,
