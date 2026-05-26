@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-25T20:57:05Z",
-  "count": 132,
+  "lastUpdated": "2026-05-26T02:15:12Z",
+  "count": 133,
   "contests": [
     {
       "duration": 23612094,
@@ -796,6 +796,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-06-07T10:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-06-09T16:35:00",
+      "event": "Educational Codeforces Round 191 (Rated for Div. 2)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2233",
+      "id": 67924003,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-06-09T14:35:00"
     },
     {
       "duration": 7200,
