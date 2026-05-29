@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-29T02:13:42Z",
-  "count": 135,
+  "lastUpdated": "2026-05-29T08:37:00Z",
+  "count": 136,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 635,
-      "parsed_at": "2026-05-28T18:24:06.644991",
+      "parsed_at": "2026-05-29T06:25:05.720146",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -271,6 +271,21 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-05-05T15:40:14"
+    },
+    {
+      "duration": 482340,
+      "end": "2026-06-03T20:59:00",
+      "event": "Community Code Cup [sport_coding]. Code Cup X",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1774",
+      "id": 67320721,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-05-29T07:00:00"
     },
     {
       "duration": 864000,
