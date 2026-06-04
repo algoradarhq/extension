@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-04T17:38:38Z",
-  "count": 132,
+  "lastUpdated": "2026-06-04T21:24:20Z",
+  "count": 133,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 654,
-      "parsed_at": "2026-06-04T06:37:18.429430",
+      "n_statistics": 657,
+      "parsed_at": "2026-06-04T18:38:08.778347",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -200,7 +200,7 @@
     {
       "duration": 4001697,
       "end": "2026-06-16T23:59:00",
-      "event": "Maze Crawler [games, artificial intelligence, reinforcement learning, custom metric]",
+      "event": "Maze Crawler [games, artificial intelligence, reinforcement learning, simulations, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/maze-crawler",
       "id": 67362465,
@@ -301,6 +301,21 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-06-01T00:00:00"
+    },
+    {
+      "duration": 1263540,
+      "end": "2026-06-19T19:59:00",
+      "event": "C Programming Intensive course. Lesson 1. Input/Output",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/4sfvl4s13h3l137j93b90p91oo",
+      "id": 68114985,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
+      "start": "2026-06-05T05:00:00"
     },
     {
       "duration": 129600,
@@ -529,7 +544,7 @@
     },
     {
       "duration": 7200,
-      "end": "2026-06-07T16:35:00",
+      "end": "2026-06-08T16:35:00",
       "event": "Repovive Standard Round 4",
       "host": "repovive.com",
       "href": "https://repovive.com/contests",
@@ -540,7 +555,7 @@
       "problems": null,
       "resource": "repovive.com",
       "resource_id": 180,
-      "start": "2026-06-07T14:35:00"
+      "start": "2026-06-08T14:35:00"
     },
     {
       "duration": 7200,
