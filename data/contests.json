@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T12:31:05Z",
+  "lastUpdated": "2026-06-05T17:07:35Z",
   "count": 137,
   "contests": [
     {
@@ -333,21 +333,6 @@
       "start": "2026-06-05T10:00:00"
     },
     {
-      "duration": 9000,
-      "end": "2026-06-05T13:30:00",
-      "event": "牛客练习赛154 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/135884",
-      "id": 68087697,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-06-05T11:00:00"
-    },
-    {
       "duration": 259200,
       "end": "2026-06-08T17:00:00",
       "event": "RPCA CTF 2026",
@@ -526,6 +511,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-06-07T11:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-06-07T17:00:00",
+      "event": "Индивидуальные тренировки 2026. День 1",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/94993/enter/?retPage=",
+      "id": 68131540,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-06-07T12:00:00"
     },
     {
       "duration": 8100,
