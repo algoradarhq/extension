@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-06T07:40:45Z",
-  "count": 143,
+  "lastUpdated": "2026-06-06T11:16:59Z",
+  "count": 144,
   "contests": [
     {
       "duration": 23612094,
@@ -309,9 +309,9 @@
       "host": "basecamp.eolymp.com",
       "href": "https://basecamp.eolymp.com/contests/4sfvl4s13h3l137j93b90p91oo",
       "id": 68114985,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": "2026-06-05T11:01:01.260316",
+      "n_problems": 20,
+      "n_statistics": 44,
+      "parsed_at": "2026-06-06T10:25:06.203798",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -355,8 +355,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND53",
       "id": 68087795,
       "n_problems": 4,
-      "n_statistics": 26,
-      "parsed_at": "2026-06-06T07:21:07.831684",
+      "n_statistics": 30,
+      "parsed_at": "2026-06-06T10:34:12.333471",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -376,21 +376,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-06-06T06:30:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-06-06T10:40:00",
-      "event": "CAT 2026 Final. jonathanirvings",
-      "host": "codeforces.com/gyms",
-      "href": "https://codeforces.com/gym/106556",
-      "id": 68036731,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com/gyms",
-      "resource_id": 64,
-      "start": "2026-06-06T06:40:00"
     },
     {
       "duration": 86400,
@@ -2073,6 +2058,21 @@
       "start": "2026-11-20T21:00:00"
     },
     {
+      "duration": 18000,
+      "end": "2026-12-10T07:00:00",
+      "event": "Программирование - профессионалы (лич. 2026-2027)",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 68146025,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-12-10T02:00:00"
+    },
+    {
       "duration": 86400,
       "end": "2026-12-28T14:00:00",
       "event": "ASIS CTF Finals 2026",
@@ -2146,6 +2146,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2027-03-25T02:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2027-04-29T07:00:00",
+      "event": "Программирование - профессионалы (лич. 2026-2027)",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 68146028,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2027-04-29T02:00:00"
     }
   ]
 }
