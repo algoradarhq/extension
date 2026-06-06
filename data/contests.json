@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-06T02:12:42Z",
-  "count": 139,
+  "lastUpdated": "2026-06-06T07:40:45Z",
+  "count": 143,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 660,
-      "parsed_at": "2026-06-05T18:40:10.263974",
+      "n_statistics": 661,
+      "parsed_at": "2026-06-06T06:41:06.584235",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -355,8 +355,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND53",
       "id": 68087795,
       "n_problems": 4,
-      "n_statistics": 9,
-      "parsed_at": "2026-06-06T00:55:09.795003",
+      "n_statistics": 26,
+      "parsed_at": "2026-06-06T07:21:07.831684",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -556,6 +556,21 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-06-07T14:35:00"
+    },
+    {
+      "duration": 1263540,
+      "end": "2026-06-22T19:59:00",
+      "event": "C Programming Intensive course. Lesson 2. Conditional Statement - Part 1",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/9la0mctuj53b33im75413bhgi0",
+      "id": 68145141,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
+      "start": "2026-06-08T05:00:00"
     },
     {
       "duration": 7200,
@@ -1968,6 +1983,21 @@
       "start": "2026-11-01T04:00:00"
     },
     {
+      "duration": 18000,
+      "end": "2026-11-05T16:20:00",
+      "event": "Программирование - начинающие 2026-2027",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 68145278,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-11-05T11:20:00"
+    },
+    {
       "duration": 15300,
       "end": "2026-11-06T22:30:00",
       "event": "BlackAlps CTF 2026",
@@ -2086,6 +2116,36 @@
       "resource": "repovive.com",
       "resource_id": 180,
       "start": "2027-01-01T00:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2027-01-14T07:00:00",
+      "event": "Программирование - начинающие 2026-2027",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 68145281,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2027-01-14T02:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2027-03-25T07:00:00",
+      "event": "Программирование - начинающие 2026-2027",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 68145282,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2027-03-25T02:00:00"
     }
   ]
 }
