@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-06T20:54:13Z",
-  "count": 111,
+  "lastUpdated": "2026-06-07T02:38:57Z",
+  "count": 110,
   "contests": [
     {
       "duration": 23612094,
@@ -318,21 +318,6 @@
       "start": "2026-06-05T05:00:00"
     },
     {
-      "duration": 129600,
-      "end": "2026-06-06T22:00:00",
-      "event": "GPN CTF 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3041/",
-      "id": 64726993,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-06-05T10:00:00"
-    },
-    {
       "duration": 259200,
       "end": "2026-06-08T17:00:00",
       "event": "RPCA CTF 2026",
@@ -356,7 +341,7 @@
       "id": 68087795,
       "n_problems": 4,
       "n_statistics": 62,
-      "parsed_at": "2026-06-06T20:15:08.567783",
+      "parsed_at": "2026-06-06T23:28:07.493745",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -484,21 +469,6 @@
     },
     {
       "duration": 7200,
-      "end": "2026-06-08T16:35:00",
-      "event": "Repovive Standard Round 4",
-      "host": "repovive.com",
-      "href": "https://repovive.com/contests",
-      "id": 68087598,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "repovive.com",
-      "resource_id": 180,
-      "start": "2026-06-08T14:35:00"
-    },
-    {
-      "duration": 7200,
       "end": "2026-06-09T16:35:00",
       "event": "Educational Codeforces Round 191 (Rated for Div. 2)",
       "host": "codeforces.com",
@@ -510,6 +480,21 @@
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
+      "start": "2026-06-09T14:35:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-06-09T16:35:00",
+      "event": "Repovive Standard Round 4",
+      "host": "repovive.com",
+      "href": "https://repovive.com/contests",
+      "id": 68087598,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "repovive.com",
+      "resource_id": 180,
       "start": "2026-06-09T14:35:00"
     },
     {
