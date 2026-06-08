@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-07T21:00:50Z",
-  "count": 110,
+  "lastUpdated": "2026-06-08T02:43:03Z",
+  "count": 111,
   "contests": [
     {
       "duration": 23612094,
@@ -600,6 +600,21 @@
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
+      "start": "2026-06-14T12:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-06-14T17:00:00",
+      "event": "Индивидуальные тренировки 2026. День 2",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/95099/enter/?retPage=",
+      "id": 68175913,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
       "start": "2026-06-14T12:00:00"
     },
     {
