@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-09T21:40:59Z",
-  "count": 112,
+  "lastUpdated": "2026-06-10T02:33:39Z",
+  "count": 113,
   "contests": [
     {
       "duration": 24389694,
@@ -646,6 +646,21 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-06-17T15:05:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-06-18T17:35:00",
+      "event": "Order Capital Round 2 (Codeforces Round, Div. 1 + Div. 2)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2237",
+      "id": 68214097,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-06-18T14:35:00"
     },
     {
       "duration": 86400,
