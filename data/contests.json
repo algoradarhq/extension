@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T02:33:39Z",
+  "lastUpdated": "2026-06-10T08:42:27Z",
   "count": 113,
   "contests": [
     {
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 673,
-      "parsed_at": "2026-06-09T18:48:08.673732",
+      "parsed_at": "2026-06-10T06:49:07.036028",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -295,8 +295,8 @@
       "href": "https://basecamp.eolymp.com/contests/4sfvl4s13h3l137j93b90p91oo",
       "id": 68114985,
       "n_problems": 20,
-      "n_statistics": 75,
-      "parsed_at": "2026-06-09T08:56:07.712244",
+      "n_statistics": 81,
+      "parsed_at": "2026-06-10T08:20:07.817262",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -311,7 +311,7 @@
       "id": 68170554,
       "n_problems": 11,
       "n_statistics": 19,
-      "parsed_at": "2026-06-09T19:37:29.249808",
+      "parsed_at": "2026-06-10T06:50:07.739381",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -350,7 +350,7 @@
     {
       "duration": 7200,
       "end": "2026-06-10T16:30:00",
-      "event": "Starters 242",
+      "event": "Starters 242 (Rated till 5 star)",
       "host": "codechef.com",
       "href": "https://www.codechef.com/START242",
       "id": 68087794,
