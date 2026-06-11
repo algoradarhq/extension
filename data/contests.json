@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-11T18:06:33Z",
-  "count": 128,
+  "lastUpdated": "2026-06-11T21:53:43Z",
+  "count": 129,
   "contests": [
     {
       "duration": 24389694,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 676,
-      "parsed_at": "2026-06-11T06:51:07.453441",
+      "parsed_at": "2026-06-11T18:52:08.124280",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -346,6 +346,21 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-06-10T05:00:00"
+    },
+    {
+      "duration": 7104441,
+      "end": "2026-09-01T23:59:00",
+      "event": "AI Agent Security - Multi-Step Tool Attacks [cyber security, custom metric]",
+      "host": "kaggle.com",
+      "href": "https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks",
+      "id": 68248443,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kaggle.com",
+      "resource_id": 74,
+      "start": "2026-06-11T18:31:39"
     },
     {
       "duration": 1263540,
