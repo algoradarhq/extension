@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-12T12:49:03Z",
-  "count": 130,
+  "lastUpdated": "2026-06-12T17:31:34Z",
+  "count": 129,
   "contests": [
     {
       "duration": 24389694,
@@ -310,8 +310,8 @@
       "href": "https://lightoj.com/contest/grandcontest1",
       "id": 68170554,
       "n_problems": 11,
-      "n_statistics": 28,
-      "parsed_at": "2026-06-12T03:38:09.789529",
+      "n_statistics": 34,
+      "parsed_at": "2026-06-12T14:51:14.705170",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -376,36 +376,6 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-06-12T05:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-06-12T14:00:00",
-      "event": "牛客挑战赛89 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/136706",
-      "id": 68122303,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-06-12T11:00:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2026-06-12T17:05:00",
-      "event": "Codeforces Round 1103 (Div. 3)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2236",
-      "id": 68188111,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-06-12T14:35:00"
     },
     {
       "duration": 172800,
@@ -991,6 +961,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-06-27T12:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-06-28T16:00:00",
+      "event": "MntcrlCTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3282/",
+      "id": 68265031,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-06-27T16:00:00"
     },
     {
       "duration": 0,
