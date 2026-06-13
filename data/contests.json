@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-13T16:08:14Z",
-  "count": 130,
+  "lastUpdated": "2026-06-13T21:02:48Z",
+  "count": 132,
   "contests": [
     {
       "duration": 24389694,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 678,
-      "parsed_at": "2026-06-13T06:55:08.744111",
+      "n_statistics": 679,
+      "parsed_at": "2026-06-13T18:56:06.901901",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -181,6 +181,21 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-04-16T19:01:30"
+    },
+    {
+      "duration": 5076730,
+      "end": "2026-06-19T07:00:00",
+      "event": "5-Day AI Agents: Intensive Vibe Coding Course With Google [learn]",
+      "host": "kaggle.com",
+      "href": "https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google",
+      "id": 67365246,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kaggle.com",
+      "resource_id": 74,
+      "start": "2026-04-21T12:47:50"
     },
     {
       "duration": 4001697,
@@ -370,8 +385,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND54",
       "id": 68222483,
       "n_problems": 5,
-      "n_statistics": 32,
-      "parsed_at": "2026-06-13T13:47:19.083303",
+      "n_statistics": 53,
+      "parsed_at": "2026-06-13T20:13:07.397615",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -571,6 +586,21 @@
       "resource": "repovive.com",
       "resource_id": 180,
       "start": "2026-06-14T14:35:00"
+    },
+    {
+      "duration": 1267140,
+      "end": "2026-06-29T19:59:00",
+      "event": "C Programming Intensive course. Lesson 3. Loops - Part 2",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/fq3r8mkq910ihdedaf478mc2jc",
+      "id": 68285684,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
+      "start": "2026-06-15T04:00:00"
     },
     {
       "duration": 10800,
