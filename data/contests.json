@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-13T21:02:48Z",
-  "count": 132,
+  "lastUpdated": "2026-06-14T02:43:36Z",
+  "count": 130,
   "contests": [
     {
       "duration": 24389694,
@@ -311,7 +311,7 @@
       "id": 68170554,
       "n_problems": 11,
       "n_statistics": 38,
-      "parsed_at": "2026-06-13T13:16:05.758624",
+      "parsed_at": "2026-06-14T00:28:06.849098",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -385,8 +385,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND54",
       "id": 68222483,
       "n_problems": 5,
-      "n_statistics": 53,
-      "parsed_at": "2026-06-13T20:13:07.397615",
+      "n_statistics": 55,
+      "parsed_at": "2026-06-14T02:39:09.519180",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -466,36 +466,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-06-13T14:00:00"
-    },
-    {
-      "duration": 0,
-      "end": "2026-06-13T22:00:00",
-      "event": "Problem 1001",
-      "host": "projecteuler.net",
-      "href": "https://projecteuler.net/news",
-      "id": 68159952,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "projecteuler.net",
-      "resource_id": 65,
-      "start": "2026-06-13T22:00:00"
-    },
-    {
-      "duration": 0,
-      "end": "2026-06-13T22:00:00",
-      "event": "Problem 1002",
-      "host": "projecteuler.net",
-      "href": "https://projecteuler.net/news",
-      "id": 68159953,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "projecteuler.net",
-      "resource_id": 65,
-      "start": "2026-06-13T22:00:00"
     },
     {
       "duration": 86400,
