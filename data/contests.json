@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-16T10:01:31Z",
-  "count": 127,
+  "lastUpdated": "2026-06-16T18:51:45Z",
+  "count": 129,
   "contests": [
     {
       "duration": 24389694,
@@ -451,6 +451,36 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-06-15T08:24:00"
+    },
+    {
+      "duration": 7736340,
+      "end": "2026-09-13T23:59:00",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Strategy [games, artificial intelligence, reinforcement learning]",
+      "host": "kaggle.com",
+      "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle-challenge-strategy",
+      "id": 68321437,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kaggle.com",
+      "resource_id": 74,
+      "start": "2026-06-16T11:00:00"
+    },
+    {
+      "duration": 5317140,
+      "end": "2026-08-16T23:59:00",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Simulation [games, artificial intelligence, reinforcement learning, custom metric]",
+      "host": "kaggle.com",
+      "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle",
+      "id": 68321438,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kaggle.com",
+      "resource_id": 74,
+      "start": "2026-06-16T11:00:00"
     },
     {
       "duration": 43200,
