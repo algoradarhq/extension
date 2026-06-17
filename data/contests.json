@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-17T17:44:55Z",
-  "count": 129,
+  "lastUpdated": "2026-06-17T21:52:58Z",
+  "count": 128,
   "contests": [
     {
       "duration": 24389694,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 682,
-      "parsed_at": "2026-06-17T07:03:07.302340",
+      "n_statistics": 685,
+      "parsed_at": "2026-06-17T19:03:08.642861",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -496,21 +496,6 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-06-17T05:00:00"
-    },
-    {
-      "duration": 9900,
-      "end": "2026-06-17T17:50:00",
-      "event": "Community Code Cup [sport_coding]. Code Cup X - I тур",
-      "host": "cups.online",
-      "href": "https://cups.online/rounds/1774",
-      "id": 67320721,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "cups.online",
-      "resource_id": 138,
-      "start": "2026-06-17T15:05:00"
     },
     {
       "duration": 2592000,
