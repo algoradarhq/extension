@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-19T17:11:24Z",
-  "count": 139,
+  "lastUpdated": "2026-06-19T21:01:19Z",
+  "count": 140,
   "contests": [
     {
       "duration": 24389694,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 689,
-      "parsed_at": "2026-06-19T07:06:14.697466",
+      "parsed_at": "2026-06-19T19:07:09.009836",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -211,21 +211,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-06-01T00:00:00"
-    },
-    {
-      "duration": 1263540,
-      "end": "2026-06-19T19:59:00",
-      "event": "C Programming Intensive course. Lesson 1. Input/Output",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/4sfvl4s13h3l137j93b90p91oo",
-      "id": 68114985,
-      "n_problems": 20,
-      "n_statistics": 134,
-      "parsed_at": "2026-06-19T02:59:08.908865",
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-06-05T05:00:00"
     },
     {
       "duration": 1263540,
@@ -678,9 +663,24 @@
       "start": "2026-06-21T11:00:00"
     },
     {
-      "duration": 9000,
-      "end": "2026-06-21T17:05:00",
-      "event": "Repovive Premier Round 5",
+      "duration": 10800,
+      "end": "2026-06-21T17:00:00",
+      "event": "Индивидуальные тренировки 2026. День 3",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/95391/enter/?retPage=",
+      "id": 68386035,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-06-21T12:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-06-21T16:35:00",
+      "event": "Repovive Standard Round 5",
       "host": "repovive.com",
       "href": "https://repovive.com/contests",
       "id": 68303737,
@@ -975,6 +975,21 @@
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
+      "start": "2026-06-28T14:35:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2026-06-28T17:05:00",
+      "event": "Repovive Premier Round 5",
+      "host": "repovive.com",
+      "href": "https://repovive.com/contests",
+      "id": 68387916,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "repovive.com",
+      "resource_id": 180,
       "start": "2026-06-28T14:35:00"
     },
     {
