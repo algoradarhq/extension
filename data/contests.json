@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-19T03:00:03Z",
-  "count": 137,
+  "lastUpdated": "2026-06-19T09:23:59Z",
+  "count": 140,
   "contests": [
     {
       "duration": 24389694,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 687,
-      "parsed_at": "2026-06-18T19:05:09.764504",
+      "n_statistics": 689,
+      "parsed_at": "2026-06-19T07:06:14.697466",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -168,21 +168,6 @@
       "start": "2026-04-16T19:01:30"
     },
     {
-      "duration": 5076730,
-      "end": "2026-06-19T07:00:00",
-      "event": "5-Day AI Agents: Intensive Vibe Coding Course With Google [learn]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google",
-      "id": 67365246,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2026-04-21T12:47:50"
-    },
-    {
       "duration": 5211297,
       "end": "2026-06-30T23:59:00",
       "event": "Maze Crawler [games, artificial intelligence, reinforcement learning, simulations, custom metric]",
@@ -250,8 +235,8 @@
       "href": "https://basecamp.eolymp.com/contests/9la0mctuj53b33im75413bhgi0",
       "id": 68145141,
       "n_problems": 20,
-      "n_statistics": 75,
-      "parsed_at": "2026-06-18T05:04:06.623299",
+      "n_statistics": 76,
+      "parsed_at": "2026-06-19T04:28:08.455642",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -265,8 +250,8 @@
       "href": "https://basecamp.eolymp.com/contests/240s78s6692q96bfnruoh4gfno",
       "id": 68203225,
       "n_problems": 20,
-      "n_statistics": 41,
-      "parsed_at": "2026-06-18T06:15:07.937822",
+      "n_statistics": 43,
+      "parsed_at": "2026-06-19T05:39:08.701894",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -295,8 +280,8 @@
       "href": "https://basecamp.eolymp.com/contests/iiqlue84196tpbp3tt39t65lv8",
       "id": 68247151,
       "n_problems": 19,
-      "n_statistics": 27,
-      "parsed_at": "2026-06-18T07:26:06.705633",
+      "n_statistics": 30,
+      "parsed_at": "2026-06-19T06:50:07.984485",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -310,8 +295,8 @@
       "href": "https://basecamp.eolymp.com/contests/fq3r8mkq910ihdedaf478mc2jc",
       "id": 68285684,
       "n_problems": 19,
-      "n_statistics": 20,
-      "parsed_at": "2026-06-18T08:25:06.767100",
+      "n_statistics": 22,
+      "parsed_at": "2026-06-19T07:53:07.827563",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -1128,6 +1113,21 @@
       "start": "2026-07-04T14:30:00"
     },
     {
+      "duration": 216000,
+      "end": "2026-07-07T14:00:00",
+      "event": "UOJ Long Round #4",
+      "host": "uoj.ac",
+      "href": "https://uoj.ac/contest/108",
+      "id": 68376527,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "uoj.ac",
+      "resource_id": 172,
+      "start": "2026-07-05T02:00:00"
+    },
+    {
       "duration": 0,
       "end": "2026-07-05T07:00:00",
       "event": "Problem 1005",
@@ -1173,6 +1173,21 @@
       "start": "2026-07-08T14:30:00"
     },
     {
+      "duration": 1800,
+      "end": "2026-07-10T11:30:00",
+      "event": "UOJ NOI Round #10 笔试",
+      "host": "uoj.ac",
+      "href": "https://uoj.ac/contest/109",
+      "id": 68376528,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "uoj.ac",
+      "resource_id": 172,
+      "start": "2026-07-10T11:00:00"
+    },
+    {
       "duration": 172800,
       "end": "2026-07-12T18:00:00",
       "event": "L3akCTF 2026",
@@ -1188,6 +1203,21 @@
       "start": "2026-07-10T18:00:00"
     },
     {
+      "duration": 18000,
+      "end": "2026-07-11T05:30:00",
+      "event": "UOJ NOI Round #10 Day1",
+      "host": "uoj.ac",
+      "href": "https://uoj.ac/contest/110",
+      "id": 68376529,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "uoj.ac",
+      "resource_id": 172,
+      "start": "2026-07-11T00:30:00"
+    },
+    {
       "duration": 6000,
       "end": "2026-07-11T13:40:00",
       "event": "AtCoder Beginner Contest 466",
@@ -1201,6 +1231,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-07-11T12:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-07-12T05:30:00",
+      "event": "UOJ NOI Round #10 Day2",
+      "host": "uoj.ac",
+      "href": "https://uoj.ac/contest/111",
+      "id": 68376530,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "uoj.ac",
+      "resource_id": 172,
+      "start": "2026-07-12T00:30:00"
     },
     {
       "duration": 0,
