@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-20T16:11:10Z",
-  "count": 141,
+  "lastUpdated": "2026-06-20T21:04:39Z",
+  "count": 142,
   "contests": [
     {
       "duration": 24389694,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 689,
-      "parsed_at": "2026-06-20T07:08:09.703998",
+      "parsed_at": "2026-06-20T19:09:11.274879",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -550,12 +550,27 @@
       "href": "https://www.codechef.com/DEVWEEKEND55",
       "id": 68341783,
       "n_problems": 5,
-      "n_statistics": 22,
-      "parsed_at": "2026-06-20T13:47:10.791159",
+      "n_statistics": 32,
+      "parsed_at": "2026-06-20T20:22:08.860235",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-06-19T18:30:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-06-20T22:15:00",
+      "event": "II SBC São Paulo Programming Marathon. racsosabe",
+      "host": "codeforces.com/gyms",
+      "href": "https://codeforces.com/gym/106598",
+      "id": 68406316,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com/gyms",
+      "resource_id": 64,
+      "start": "2026-06-20T17:15:00"
     },
     {
       "duration": 0,
