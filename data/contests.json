@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-19T21:01:19Z",
-  "count": 140,
+  "lastUpdated": "2026-06-20T02:32:15Z",
+  "count": 143,
   "contests": [
     {
       "duration": 24389694,
@@ -474,9 +474,9 @@
       "host": "open.kattis.com",
       "href": "https://imc2.kattis.com/contests/imc2-2",
       "id": 68319804,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 1,
+      "n_statistics": 49,
+      "parsed_at": "2026-06-19T22:11:10.092437",
       "problems": null,
       "resource": "open.kattis.com",
       "resource_id": 91,
@@ -564,9 +564,9 @@
       "host": "codechef.com",
       "href": "https://www.codechef.com/DEVWEEKEND55",
       "id": 68341783,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 5,
+      "n_statistics": 1,
+      "parsed_at": "2026-06-20T00:55:09.602100",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -1158,6 +1158,21 @@
       "start": "2026-07-06T00:00:00"
     },
     {
+      "duration": 122400,
+      "end": "2026-07-08T10:00:00",
+      "event": "World Tour Finals 2026 Heuristic",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/awtf2026heuristic",
+      "id": 68393065,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-07-07T00:00:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-07-08T16:30:00",
       "event": "Starters 246",
@@ -1171,6 +1186,36 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-07-08T14:30:00"
+    },
+    {
+      "duration": 25200,
+      "end": "2026-07-09T09:00:00",
+      "event": "World Tour Finals 2026 Algorithm",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/awtf2026algo",
+      "id": 68393066,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-07-09T02:00:00"
+    },
+    {
+      "duration": 25200,
+      "end": "2026-07-09T09:00:00",
+      "event": "World Tour Finals 2026 Algorithm（Open Contest）",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/awtf2026algo-open",
+      "id": 68393067,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-07-09T02:00:00"
     },
     {
       "duration": 1800,
