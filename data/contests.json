@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-22T18:40:24Z",
-  "count": 142,
+  "lastUpdated": "2026-06-22T21:55:26Z",
+  "count": 141,
   "contests": [
     {
       "duration": 24389694,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 690,
-      "parsed_at": "2026-06-22T07:12:08.612601",
+      "n_statistics": 691,
+      "parsed_at": "2026-06-22T19:13:08.426544",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -211,21 +211,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-06-01T00:00:00"
-    },
-    {
-      "duration": 1263540,
-      "end": "2026-06-22T19:59:00",
-      "event": "C Programming Intensive course. Lesson 2. Conditional Statement - Part 1",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/9la0mctuj53b33im75413bhgi0",
-      "id": 68145141,
-      "n_problems": 20,
-      "n_statistics": 84,
-      "parsed_at": "2026-06-22T02:40:08.787545",
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-06-08T05:00:00"
     },
     {
       "duration": 1263540,
