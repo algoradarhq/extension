@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-24T16:59:04Z",
-  "count": 146,
+  "lastUpdated": "2026-06-24T21:16:33Z",
+  "count": 147,
   "contests": [
     {
       "duration": 24389694,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 694,
-      "parsed_at": "2026-06-24T07:16:06.889819",
+      "n_statistics": 697,
+      "parsed_at": "2026-06-24T19:17:06.644239",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -196,21 +196,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-06-01T00:00:00"
-    },
-    {
-      "duration": 1263540,
-      "end": "2026-06-24T19:59:00",
-      "event": "C Programming Intensive course. Lesson 2. Conditional Statement - Part 2",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/240s78s6692q96bfnruoh4gfno",
-      "id": 68203225,
-      "n_problems": 20,
-      "n_statistics": 62,
-      "parsed_at": "2026-06-24T02:40:07.631339",
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-06-10T05:00:00"
     },
     {
       "duration": 7104441,
@@ -496,21 +481,6 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-06-24T05:00:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-06-24T17:00:00",
-      "event": "Beginner Contest 115",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/beginner-contest-115",
-      "id": 68227569,
-      "n_problems": null,
-      "n_statistics": 31,
-      "parsed_at": "2026-06-24T16:58:07.153194",
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-06-24T15:30:00"
     },
     {
       "duration": 7200,
@@ -1068,6 +1038,21 @@
       "start": "2026-07-08T14:30:00"
     },
     {
+      "duration": 5400,
+      "end": "2026-07-08T17:00:00",
+      "event": "Beginner Contest 116",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/beginner-contest-116",
+      "id": 68491832,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-07-08T15:30:00"
+    },
+    {
       "duration": 25200,
       "end": "2026-07-09T09:00:00",
       "event": "World Tour Finals 2026 Algorithm",
@@ -1111,6 +1096,21 @@
       "resource": "uoj.ac",
       "resource_id": 172,
       "start": "2026-07-10T11:00:00"
+    },
+    {
+      "duration": 8100,
+      "end": "2026-07-10T16:50:00",
+      "event": "Codeforces Round (Div. 3)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2244",
+      "id": 68492696,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-07-10T14:35:00"
     },
     {
       "duration": 172800,
@@ -1501,6 +1501,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-08-01T07:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-08-02T12:30:00",
+      "event": "HackerRank Orchestrate August'26",
+      "host": "hackerrank.com",
+      "href": "https://hackerrank.com/contests/hackerrank-orchestrate-august26",
+      "id": 68492247,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "hackerrank.com",
+      "resource_id": 63,
+      "start": "2026-08-01T12:30:00"
     },
     {
       "duration": 43200,
