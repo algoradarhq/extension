@@ -1,7 +1,22 @@
 {
-  "lastUpdated": "2026-06-25T08:16:56Z",
-  "count": 148,
+  "lastUpdated": "2026-06-25T12:11:32Z",
+  "count": 153,
   "contests": [
+    {
+      "duration": 32160540,
+      "end": "2026-06-28T18:29:00",
+      "event": "Nutrition Health Survey- Age Prediction Summer Analytics 2025, IIT Guwahati",
+      "host": "aiplanet.com",
+      "href": "https://aiplanet.com/challenges/nutrition-health-survey-age-prediction-summer-analytics-2025-iit-guwahati-07302b63/358/",
+      "id": 60388161,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "aiplanet.com",
+      "resource_id": 124,
+      "start": "2025-06-21T13:00:00"
+    },
     {
       "duration": 24389694,
       "end": "2026-06-25T23:59:00",
@@ -18,8 +33,8 @@
       "start": "2025-09-16T17:04:06"
     },
     {
-      "duration": 31536000,
-      "end": "2026-10-08T07:00:00",
+      "duration": 31586340,
+      "end": "2026-10-08T20:59:00",
       "event": "Russian Olympiad in Artificial Intelligence 2026 [ai]. Training round",
       "host": "cups.online",
       "href": "https://cups.online/rounds/1553",
@@ -460,8 +475,8 @@
       "href": "https://basecamp.eolymp.com/contests/pnk11nd3m90cpb26v7316uv9a8",
       "id": 68427842,
       "n_problems": 19,
-      "n_statistics": 15,
-      "parsed_at": "2026-06-24T09:49:07.156063",
+      "n_statistics": 17,
+      "parsed_at": "2026-06-25T09:13:07.144630",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -475,8 +490,8 @@
       "href": "https://basecamp.eolymp.com/contests/t3rf6bf3o13i1e8tuqt1rt1e00",
       "id": 68445339,
       "n_problems": 20,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_statistics": 4,
+      "parsed_at": "2026-06-25T10:24:18.062834",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -1833,6 +1848,21 @@
       "start": "2026-09-19T03:30:00"
     },
     {
+      "duration": 1346340,
+      "end": "2026-10-06T20:59:00",
+      "event": "Russian Olympiad in Artificial Intelligence 2026 [ai]. Отборочный этап",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1804",
+      "id": 68505129,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-09-21T07:00:00"
+    },
+    {
       "duration": 129600,
       "end": "2026-09-27T15:30:00",
       "event": "H7CTF 2026 Quals",
@@ -2013,6 +2043,21 @@
       "start": "2026-10-03T15:00:00"
     },
     {
+      "duration": 309540,
+      "end": "2026-10-18T20:59:00",
+      "event": "Russian Olympiad in Artificial Intelligence 2026 [ai]. Основной этап, 1 тур",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1805",
+      "id": 68505130,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-10-15T07:00:00"
+    },
+    {
       "duration": 122400,
       "end": "2026-10-19T00:00:00",
       "event": "DEADFACE CTF 2026",
@@ -2026,6 +2071,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-10-17T14:00:00"
+    },
+    {
+      "duration": 136740,
+      "end": "2026-10-21T20:59:00",
+      "event": "Russian Olympiad in Artificial Intelligence 2026 [ai]. Основной этап, 2 тур",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1806",
+      "id": 68505131,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-10-20T07:00:00"
     },
     {
       "duration": 7200,
@@ -2176,6 +2236,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-11-14T09:00:00"
+    },
+    {
+      "duration": 395940,
+      "end": "2026-11-20T20:59:00",
+      "event": "Russian Olympiad in Artificial Intelligence 2026 [ai]. Заключительный этап",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1807",
+      "id": 68505132,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-11-16T07:00:00"
     },
     {
       "duration": 86400,
