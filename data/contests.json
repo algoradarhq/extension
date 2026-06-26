@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-26T12:06:07Z",
-  "count": 158,
+  "lastUpdated": "2026-06-26T16:55:14Z",
+  "count": 157,
   "contests": [
     {
       "duration": 32160540,
@@ -511,21 +511,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-06-26T09:30:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-06-26T13:00:00",
-      "event": "牛客小白月赛134 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/137072",
-      "id": 68317495,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-06-26T11:00:00"
     },
     {
       "duration": 194340,
