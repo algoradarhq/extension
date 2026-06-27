@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T02:14:28Z",
+  "lastUpdated": "2026-06-27T07:43:21Z",
   "count": 158,
   "contests": [
     {
@@ -206,7 +206,7 @@
       "id": 68285684,
       "n_problems": 19,
       "n_statistics": 30,
-      "parsed_at": "2026-06-26T04:11:08.722025",
+      "parsed_at": "2026-06-27T03:39:07.450700",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -386,7 +386,7 @@
       "id": 68319858,
       "n_problems": 20,
       "n_statistics": 31,
-      "parsed_at": "2026-06-26T05:40:07.623829",
+      "parsed_at": "2026-06-27T05:04:06.543633",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -415,8 +415,8 @@
       "href": "https://basecamp.eolymp.com/contests/tiqdiu7fa56l33ok1kj906dlq4",
       "id": 68361907,
       "n_problems": 20,
-      "n_statistics": 18,
-      "parsed_at": "2026-06-26T06:52:08.587419",
+      "n_statistics": 20,
+      "parsed_at": "2026-06-27T06:16:06.753797",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -520,8 +520,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND56",
       "id": 68482930,
       "n_problems": 5,
-      "n_statistics": 2,
-      "parsed_at": "2026-06-27T00:55:08.125711",
+      "n_statistics": 9,
+      "parsed_at": "2026-06-27T07:21:07.199225",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -676,21 +676,6 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-06-28T04:00:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-06-28T11:30:00",
-      "event": "Blitz Round #22",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/lrl3lpdka52i5c91q25vrlrgo0",
-      "id": 68514668,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-06-28T10:00:00"
     },
     {
       "duration": 7200,
@@ -1260,6 +1245,21 @@
       "problems": null,
       "resource": "projecteuler.net",
       "resource_id": 65,
+      "start": "2026-07-12T10:00:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-07-12T11:30:00",
+      "event": "Blitz Round #22",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/lrl3lpdka52i5c91q25vrlrgo0",
+      "id": 68514668,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
       "start": "2026-07-12T10:00:00"
     },
     {
