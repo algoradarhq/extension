@@ -1,22 +1,7 @@
 {
-  "lastUpdated": "2026-06-28T16:02:12Z",
-  "count": 150,
+  "lastUpdated": "2026-06-28T20:51:41Z",
+  "count": 147,
   "contests": [
-    {
-      "duration": 32160540,
-      "end": "2026-06-28T18:29:00",
-      "event": "Nutrition Health Survey- Age Prediction Summer Analytics 2025, IIT Guwahati",
-      "host": "aiplanet.com",
-      "href": "https://aiplanet.com/challenges/nutrition-health-survey-age-prediction-summer-analytics-2025-iit-guwahati-07302b63/358/",
-      "id": 60388161,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "aiplanet.com",
-      "resource_id": 124,
-      "start": "2025-06-21T13:00:00"
-    },
     {
       "duration": 31536000,
       "end": "2026-11-13T00:00:00",
@@ -484,21 +469,6 @@
     },
     {
       "duration": 172800,
-      "end": "2026-06-28T18:30:00",
-      "event": "Weekend Dev Challenge 56: .NET projects",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DEVWEEKEND56",
-      "id": 68482930,
-      "n_problems": 5,
-      "n_statistics": 39,
-      "parsed_at": "2026-06-28T14:17:25.907053",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-06-26T18:30:00"
-    },
-    {
-      "duration": 172800,
       "end": "2026-06-29T08:00:00",
       "event": "SekaiCTF 2026",
       "host": "ctftime.org",
@@ -526,36 +496,6 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-06-27T15:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-06-28T17:00:00",
-      "event": "Индивидуальные тренировки 2026. День 4",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/95636/enter/?retPage=",
-      "id": 68535330,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-06-28T12:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-06-28T16:35:00",
-      "event": "Codeforces Round 1106 (Div. 2)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2238",
-      "id": 68369339,
-      "n_problems": 6,
-      "n_statistics": 9289,
-      "parsed_at": "2026-06-28T15:57:06.626847",
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-06-28T14:35:00"
     },
     {
       "duration": 10800,
@@ -735,6 +675,21 @@
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
+      "start": "2026-07-04T12:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-07-04T17:00:00",
+      "event": "Индивидуальные тренировки 2026. День 5",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/95769/enter/?retPage=",
+      "id": 68539233,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
       "start": "2026-07-04T12:00:00"
     },
     {
