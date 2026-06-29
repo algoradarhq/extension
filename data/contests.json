@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T20:51:41Z",
+  "lastUpdated": "2026-06-29T02:36:26Z",
   "count": 147,
   "contests": [
     {
@@ -530,7 +530,7 @@
     {
       "duration": 8100,
       "end": "2026-06-30T16:50:00",
-      "event": "Codeforces Round (Div. 3)",
+      "event": "Codeforces Round 1107 (Div. 3)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2241",
       "id": 68403846,
