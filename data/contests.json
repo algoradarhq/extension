@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-30T02:30:53Z",
-  "count": 151,
+  "lastUpdated": "2026-06-30T08:23:39Z",
+  "count": 152,
   "contests": [
     {
       "duration": 31536000,
@@ -946,6 +946,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-07-09T02:00:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2026-07-09T09:35:00",
+      "event": "IMPACT 6.0 Final Round Mirror (Rated Div. 2)",
+      "host": "tlx.toki.id",
+      "href": "https://tlx.toki.id/contests/impact-2026-final-mirror",
+      "id": 68567241,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "tlx.toki.id",
+      "resource_id": 103,
+      "start": "2026-07-09T07:05:00"
     },
     {
       "duration": 1800,
