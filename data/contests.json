@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-29T21:16:49Z",
-  "count": 150,
+  "lastUpdated": "2026-06-30T02:30:53Z",
+  "count": 151,
   "contests": [
     {
       "duration": 31536000,
@@ -960,6 +960,21 @@
       "problems": null,
       "resource": "uoj.ac",
       "resource_id": 172,
+      "start": "2026-07-10T11:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-07-10T14:00:00",
+      "event": "牛客挑战赛90 [ACM]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/137418",
+      "id": 68565874,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
       "start": "2026-07-10T11:00:00"
     },
     {
