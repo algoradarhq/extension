@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-01T08:43:31Z",
-  "count": 150,
+  "lastUpdated": "2026-07-01T12:27:13Z",
+  "count": 152,
   "contests": [
     {
       "duration": 31536000,
@@ -430,8 +430,8 @@
       "href": "https://basecamp.eolymp.com/contests/miqof5tt4p4bdes980vs1umd24",
       "id": 68550839,
       "n_problems": 19,
-      "n_statistics": 2,
-      "parsed_at": "2026-06-30T10:27:10.553755",
+      "n_statistics": 6,
+      "parsed_at": "2026-07-01T09:52:06.641003",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -526,6 +526,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-07-03T11:00:00"
+    },
+    {
+      "duration": 172800,
+      "end": "2026-07-05T18:30:00",
+      "event": "Weekend Dev Challenge 57: .NET projects",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DEVWEEKEND57",
+      "id": 68592192,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-07-03T18:30:00"
     },
     {
       "duration": 32400,
@@ -751,6 +766,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-07-06T00:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-07-06T16:30:00",
+      "event": "Monday Munch - DSA Challenge 010 (Rated)",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DSAMONDAY010",
+      "id": 68592812,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-07-06T13:30:00"
     },
     {
       "duration": 7200,
