@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-30T21:22:05Z",
-  "count": 150,
+  "lastUpdated": "2026-07-01T02:37:00Z",
+  "count": 149,
   "contests": [
     {
       "duration": 31536000,
@@ -123,21 +123,6 @@
       "start": "2026-04-16T19:01:30"
     },
     {
-      "duration": 5211297,
-      "end": "2026-06-30T23:59:00",
-      "event": "Maze Crawler [games, artificial intelligence, reinforcement learning, simulations, custom metric]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/maze-crawler",
-      "id": 67362465,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2026-05-01T16:24:03"
-    },
-    {
       "duration": 7978726,
       "end": "2026-08-05T23:59:00",
       "event": "ROGII - Wellbore Geology Prediction [geology, multimodal, evaluation, mean squared error]",
@@ -151,21 +136,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-05-05T15:40:14"
-    },
-    {
-      "duration": 2591940,
-      "end": "2026-06-30T23:59:00",
-      "event": "Predicting Stellar Class [beginner, tabular, balanced accuracy score]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/playground-series-s6e6",
-      "id": 68056218,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2026-06-01T00:00:00"
     },
     {
       "duration": 7104441,
@@ -481,6 +451,21 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-06-29T19:01:13"
+    },
+    {
+      "duration": 2678340,
+      "end": "2026-07-31T23:59:00",
+      "event": "Predicting Student Health Risk [beginner, tabular, balanced accuracy score]",
+      "host": "kaggle.com",
+      "href": "https://www.kaggle.com/competitions/playground-series-s6e7",
+      "id": 68584574,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kaggle.com",
+      "resource_id": 74,
+      "start": "2026-07-01T00:00:00"
     },
     {
       "duration": 7048740,
