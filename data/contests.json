@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-05T16:00:34Z",
-  "count": 145,
+  "lastUpdated": "2026-07-05T20:47:19Z",
+  "count": 142,
   "contests": [
     {
       "duration": 31536000,
@@ -460,8 +460,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 821,
-      "parsed_at": "2026-07-05T07:11:06.840367",
+      "n_statistics": 832,
+      "parsed_at": "2026-07-05T19:12:07.697239",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -481,21 +481,6 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-07-03T05:00:00"
-    },
-    {
-      "duration": 172800,
-      "end": "2026-07-05T18:30:00",
-      "event": "Weekend Dev Challenge 57: LLD Projects",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DEVWEEKEND57",
-      "id": 68592192,
-      "n_problems": 16,
-      "n_statistics": 101,
-      "parsed_at": "2026-07-05T15:32:06.763085",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-07-03T18:30:00"
     },
     {
       "duration": 172800,
@@ -541,36 +526,6 @@
       "resource": "uoj.ac",
       "resource_id": 172,
       "start": "2026-07-05T02:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-07-05T17:00:00",
-      "event": "Индивидуальные тренировки 2026. День 6",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/96357/enter/?retPage=",
-      "id": 68662978,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-07-05T12:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-07-05T16:35:00",
-      "event": "Repovive Starter Round 4",
-      "host": "repovive.com",
-      "href": "https://repovive.com/contests",
-      "id": 68534498,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "repovive.com",
-      "resource_id": 180,
-      "start": "2026-07-05T14:35:00"
     },
     {
       "duration": 172800,
