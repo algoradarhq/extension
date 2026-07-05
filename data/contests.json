@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-04T20:43:01Z",
-  "count": 150,
+  "lastUpdated": "2026-07-05T02:07:37Z",
+  "count": 149,
   "contests": [
     {
       "duration": 31536000,
@@ -490,8 +490,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND57",
       "id": 68592192,
       "n_problems": 16,
-      "n_statistics": 59,
-      "parsed_at": "2026-07-04T20:14:07.610370",
+      "n_statistics": 60,
+      "parsed_at": "2026-07-04T23:27:06.544859",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -541,21 +541,6 @@
       "resource": "midnightcodecup.org",
       "resource_id": 173,
       "start": "2026-07-04T10:00:00"
-    },
-    {
-      "duration": 43200,
-      "end": "2026-07-05T01:00:00",
-      "event": "Fluid Attacks' CTF 2026-2",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3325/",
-      "id": 68225942,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-07-04T13:00:00"
     },
     {
       "duration": 216000,
