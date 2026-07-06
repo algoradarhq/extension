@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-06T17:34:44Z",
-  "count": 143,
+  "lastUpdated": "2026-07-06T21:21:29Z",
+  "count": 142,
   "contests": [
     {
       "duration": 31536000,
@@ -334,21 +334,6 @@
     },
     {
       "duration": 1263540,
-      "end": "2026-07-06T19:59:00",
-      "event": "CPIC. Lesson 4. Arrays - Part 2",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/pnk11nd3m90cpb26v7316uv9a8",
-      "id": 68427842,
-      "n_problems": 19,
-      "n_statistics": 37,
-      "parsed_at": "2026-07-06T09:34:13.246372",
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-06-22T05:00:00"
-    },
-    {
-      "duration": 1263540,
       "end": "2026-07-08T19:59:00",
       "event": "CPIC. Lesson 4. Arrays - Part 3",
       "host": "basecamp.eolymp.com",
@@ -460,8 +445,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 833,
-      "parsed_at": "2026-07-06T07:13:07.229336",
+      "n_statistics": 848,
+      "parsed_at": "2026-07-06T19:14:06.514244",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
