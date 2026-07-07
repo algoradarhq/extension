@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-07T12:21:41Z",
-  "count": 143,
+  "lastUpdated": "2026-07-07T17:06:04Z",
+  "count": 145,
   "contests": [
     {
       "duration": 31536000,
@@ -371,7 +371,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 4,
-      "parsed_at": "2026-07-07T02:36:09.592011",
+      "parsed_at": "2026-07-07T14:37:06.574014",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -468,21 +468,6 @@
       "start": "2026-07-03T05:00:00"
     },
     {
-      "duration": 216000,
-      "end": "2026-07-07T14:00:00",
-      "event": "UOJ Long Round #4",
-      "host": "uoj.ac",
-      "href": "https://uoj.ac/contest/108",
-      "id": 68376527,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "uoj.ac",
-      "resource_id": 172,
-      "start": "2026-07-05T02:00:00"
-    },
-    {
       "duration": 172800,
       "end": "2026-07-08T00:00:00",
       "event": "LYKNCTF",
@@ -506,7 +491,7 @@
       "id": 68393065,
       "n_problems": 1,
       "n_statistics": 12,
-      "parsed_at": "2026-07-07T12:10:07.220805",
+      "parsed_at": "2026-07-07T14:27:08.350281",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
@@ -723,6 +708,21 @@
       "start": "2026-07-11T12:00:00"
     },
     {
+      "duration": 10800,
+      "end": "2026-07-11T17:35:00",
+      "event": "1 yil kubogi",
+      "host": "robocontest.uz",
+      "href": "https://robocontest.uz/olympiads/3951",
+      "id": 68722338,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "robocontest.uz",
+      "resource_id": 137,
+      "start": "2026-07-11T14:35:00"
+    },
+    {
       "duration": 86400,
       "end": "2026-07-12T16:00:00",
       "event": "BroncoCTF 2026",
@@ -873,6 +873,21 @@
       "start": "2026-07-12T14:35:00"
     },
     {
+      "duration": 604800,
+      "end": "2026-07-20T14:35:00",
+      "event": "Weekly Challenge 1: Approximation",
+      "host": "repovive.com",
+      "href": "https://repovive.com/contests",
+      "id": 68722276,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "repovive.com",
+      "resource_id": 180,
+      "start": "2026-07-13T14:35:00"
+    },
+    {
       "duration": 8100,
       "end": "2026-07-14T16:50:00",
       "event": "Codeforces Round (Div. 3)",
@@ -901,6 +916,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-07-15T14:30:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-07-16T17:35:00",
+      "event": "Spectral::Cup 2026 Round 3 (Codeforces Round, Div. 1 + Div. 2)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2245",
+      "id": 68724585,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-07-16T14:35:00"
     },
     {
       "duration": 18000,
