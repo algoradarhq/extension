@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-09T08:18:28Z",
-  "count": 147,
+  "lastUpdated": "2026-07-09T12:26:25Z",
+  "count": 144,
   "contests": [
     {
       "duration": 31536000,
@@ -453,64 +453,19 @@
       "start": "2026-07-07T17:53:04"
     },
     {
-      "duration": 25200,
-      "end": "2026-07-09T09:00:00",
-      "event": "World Tour Finals 2026 Algorithm",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awtf2026algo",
-      "id": 68393066,
-      "n_problems": 5,
-      "n_statistics": 11,
-      "parsed_at": "2026-07-09T08:15:11.582788",
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-07-09T02:00:00"
-    },
-    {
-      "duration": 25200,
-      "end": "2026-07-09T09:00:00",
-      "event": "World Tour Finals 2026 Algorithm（Open Contest）",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awtf2026algo-open",
-      "id": 68393067,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-07-09T02:00:00"
-    },
-    {
       "duration": 604740,
       "end": "2026-07-16T02:59:00",
       "event": "Contest 6 (Basic, Conditional and Loop) [protected, icpc, individual]",
       "host": "lightoj.com",
       "href": "https://lightoj.com/contest/contestibasicloop",
       "id": 68746878,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 5,
+      "n_statistics": 4,
+      "parsed_at": "2026-07-09T09:00:10.455042",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
       "start": "2026-07-09T03:00:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2026-07-09T09:35:00",
-      "event": "IMPACT 6.0 Final Round Mirror (Rated Div. 2)",
-      "host": "tlx.toki.id",
-      "href": "https://tlx.toki.id/contests/impact-2026-final-mirror",
-      "id": 68567241,
-      "n_problems": 7,
-      "n_statistics": 142,
-      "parsed_at": "2026-07-09T08:10:08.884797",
-      "problems": null,
-      "resource": "tlx.toki.id",
-      "resource_id": 103,
-      "start": "2026-07-09T07:05:00"
     },
     {
       "duration": 7200,
@@ -770,7 +725,7 @@
     {
       "duration": 8100,
       "end": "2026-07-12T16:50:00",
-      "event": "Codeforces Round (Div. 2)",
+      "event": "Codeforces Round 1108 (Div. 2)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2246",
       "id": 68633798,
@@ -815,7 +770,7 @@
     {
       "duration": 8100,
       "end": "2026-07-14T16:50:00",
-      "event": "Codeforces Round (Div. 3)",
+      "event": "Codeforces Round 1109 (Div. 3)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2244",
       "id": 68492696,
