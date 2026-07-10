@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-10T08:15:08Z",
-  "count": 144,
+  "lastUpdated": "2026-07-10T12:19:15Z",
+  "count": 143,
   "contests": [
     {
       "duration": 31536000,
@@ -466,21 +466,6 @@
       "resource": "lightoj.com",
       "resource_id": 122,
       "start": "2026-07-09T03:00:00"
-    },
-    {
-      "duration": 1800,
-      "end": "2026-07-10T11:30:00",
-      "event": "UOJ NOI Round #10 笔试",
-      "host": "uoj.ac",
-      "href": "https://uoj.ac/contest/109",
-      "id": 68376528,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "uoj.ac",
-      "resource_id": 172,
-      "start": "2026-07-10T11:00:00"
     },
     {
       "duration": 10800,
