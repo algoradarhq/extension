@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T16:49:36Z",
+  "lastUpdated": "2026-07-10T20:59:33Z",
   "count": 142,
   "contests": [
     {
@@ -318,21 +318,6 @@
       "start": "2026-06-18T12:00:00"
     },
     {
-      "duration": 1263540,
-      "end": "2026-07-10T19:59:00",
-      "event": "CPIC. Lesson 5. Strings - Part 1",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/g1rfsm4gi10qp9msffq40p4sj8",
-      "id": 68506752,
-      "n_problems": 20,
-      "n_statistics": 27,
-      "parsed_at": "2026-07-10T07:13:07.063628",
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-06-26T05:00:00"
-    },
-    {
       "duration": 5637540,
       "end": "2026-08-31T20:59:00",
       "event": "Внутри LLM: собери RAG-пайплайн (дорешивание) [ml]. Итоговое задание курса \"Внутри LLM: как думает ChatGPT?\" (дорешивание)",
@@ -415,8 +400,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 895,
-      "parsed_at": "2026-07-10T07:21:07.291295",
+      "n_statistics": 907,
+      "parsed_at": "2026-07-10T19:22:07.982946",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -460,8 +445,8 @@
       "href": "https://lightoj.com/contest/contestibasicloop",
       "id": 68746878,
       "n_problems": 5,
-      "n_statistics": 12,
-      "parsed_at": "2026-07-10T07:25:07.183371",
+      "n_statistics": 13,
+      "parsed_at": "2026-07-10T18:37:06.935081",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -691,6 +676,21 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-07-12T14:35:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-07-13T17:00:00",
+      "event": "Зеркало: CYF Junior 2026. Отборочный этап",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/96677/enter/?retPage=standings",
+      "id": 68787687,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-07-13T12:00:00"
     },
     {
       "duration": 10800,
