@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-10T12:19:15Z",
-  "count": 143,
+  "lastUpdated": "2026-07-10T16:49:36Z",
+  "count": 142,
   "contests": [
     {
       "duration": 31536000,
@@ -310,8 +310,8 @@
       "href": "https://imc2.kattis.com/contests/imc2-2",
       "id": 68319804,
       "n_problems": 1,
-      "n_statistics": 133,
-      "parsed_at": "2026-07-08T14:23:06.545859",
+      "n_statistics": 137,
+      "parsed_at": "2026-07-10T14:24:06.812971",
       "problems": null,
       "resource": "open.kattis.com",
       "resource_id": 91,
@@ -341,7 +341,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 4,
-      "parsed_at": "2026-07-10T02:42:06.996786",
+      "parsed_at": "2026-07-10T14:42:21.719356",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -466,21 +466,6 @@
       "resource": "lightoj.com",
       "resource_id": 122,
       "start": "2026-07-09T03:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-07-10T14:00:00",
-      "event": "牛客挑战赛90 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/137418",
-      "id": 68565874,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-07-10T11:00:00"
     },
     {
       "duration": 172800,
