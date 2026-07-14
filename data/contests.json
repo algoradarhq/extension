@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-14T16:07:37Z",
-  "count": 131,
+  "lastUpdated": "2026-07-14T20:50:05Z",
+  "count": 130,
   "contests": [
     {
       "duration": 31536000,
@@ -453,21 +453,6 @@
       "start": "2026-07-13T14:35:00"
     },
     {
-      "duration": 8100,
-      "end": "2026-07-14T16:50:00",
-      "event": "Codeforces Round 1109 (Div. 3)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2244",
-      "id": 68492696,
-      "n_problems": 7,
-      "n_statistics": 12149,
-      "parsed_at": "2026-07-14T16:00:15.567552",
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-07-14T14:35:00"
-    },
-    {
       "duration": 7200,
       "end": "2026-07-15T16:30:00",
       "event": "Starters 247",
@@ -695,7 +680,7 @@
     {
       "duration": 7200,
       "end": "2026-07-18T16:35:00",
-      "event": "Codeforces Round (Div. 2)",
+      "event": "Codeforces Round 1111 (Div. 2)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2247",
       "id": 68635073,
