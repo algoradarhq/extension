@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-15T11:21:33Z",
-  "count": 130,
+  "lastUpdated": "2026-07-15T16:12:41Z",
+  "count": 132,
   "contests": [
     {
       "duration": 31536000,
@@ -326,7 +326,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 6,
-      "parsed_at": "2026-07-15T02:50:18.710914",
+      "parsed_at": "2026-07-15T14:51:18.296760",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -455,13 +455,13 @@
     {
       "duration": 7200,
       "end": "2026-07-15T16:30:00",
-      "event": "Starters 247",
+      "event": "Starters 247 (Rated till 5 star)",
       "host": "codechef.com",
       "href": "https://www.codechef.com/START247",
       "id": 68356715,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 8,
+      "n_statistics": 24175,
+      "parsed_at": "2026-07-15T15:52:10.962956",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -766,6 +766,21 @@
       "resource": "repovive.com",
       "resource_id": 180,
       "start": "2026-07-19T14:35:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-07-20T16:30:00",
+      "event": "Monday Munch - DSA Challenge 012 (Rated)",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DSAMONDAY012",
+      "id": 68880972,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-07-20T13:30:00"
     },
     {
       "duration": 86400,
@@ -1201,6 +1216,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-08-09T12:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-08-12T16:30:00",
+      "event": "Starters 251",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/START251",
+      "id": 68880967,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-08-12T14:30:00"
     },
     {
       "duration": 32400,
