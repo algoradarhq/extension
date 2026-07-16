@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-16T11:26:27Z",
-  "count": 131,
+  "lastUpdated": "2026-07-16T16:09:28Z",
+  "count": 137,
   "contests": [
     {
       "duration": 31536000,
@@ -70,8 +70,8 @@
       "href": "https://codeforces.com/gym/106465",
       "id": 66803787,
       "n_problems": 1,
-      "n_statistics": 915,
-      "parsed_at": "2026-07-13T14:22:07.138050",
+      "n_statistics": 934,
+      "parsed_at": "2026-07-16T14:22:12.721414",
       "problems": null,
       "resource": "codeforces.com/gyms",
       "resource_id": 64,
@@ -295,8 +295,8 @@
       "href": "https://imc2.kattis.com/contests/imc2-2",
       "id": 68319804,
       "n_problems": 1,
-      "n_statistics": 150,
-      "parsed_at": "2026-07-14T14:25:09.236361",
+      "n_statistics": 157,
+      "parsed_at": "2026-07-16T14:26:07.148095",
       "problems": null,
       "resource": "open.kattis.com",
       "resource_id": 91,
@@ -311,7 +311,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 6,
-      "parsed_at": "2026-07-16T02:52:16.851460",
+      "parsed_at": "2026-07-16T14:53:28.448977",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -409,18 +409,18 @@
     },
     {
       "duration": 9000,
-      "end": "2026-07-16T17:05:00",
+      "end": "2026-07-16T17:15:00",
       "event": "Spectral::Cup 2026 Round 3 (Codeforces Round 1110, Div. 1 + Div. 2)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2245",
       "id": 68724585,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 9,
+      "n_statistics": 9843,
+      "parsed_at": "2026-07-16T16:03:14.944006",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
-      "start": "2026-07-16T14:35:00"
+      "start": "2026-07-16T14:45:00"
     },
     {
       "duration": 7200,
@@ -430,8 +430,8 @@
       "href": "https://www.naukri.com/code360/contests/weekly-contest-239",
       "id": 68766083,
       "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_statistics": 113,
+      "parsed_at": "2026-07-16T16:06:57.722796",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
@@ -451,6 +451,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-07-17T04:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-07-17T10:00:00",
+      "event": "「FAOI」Round 13 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/332970",
+      "id": 68899174,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-07-17T06:00:00"
     },
     {
       "duration": 172800,
@@ -540,6 +555,21 @@
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
+      "start": "2026-07-18T06:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-07-18T10:00:00",
+      "event": "Algo Beat Contest 009 &「MROI」Round 1 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/326863",
+      "id": 68899173,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
       "start": "2026-07-18T06:00:00"
     },
     {
@@ -646,6 +676,21 @@
       "resource": "leetcode.com",
       "resource_id": 102,
       "start": "2026-07-19T02:30:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-07-19T10:00:00",
+      "event": "[ICPC 2025 Shanghai R] ICPC 2025 区域赛上海站重现赛 [guzhi, icpc, squad]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/335418",
+      "id": 68899172,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-07-19T05:00:00"
     },
     {
       "duration": 18000,
@@ -888,6 +933,21 @@
       "start": "2026-07-25T12:00:00"
     },
     {
+      "duration": 18000,
+      "end": "2026-07-26T10:00:00",
+      "event": "[ICPC2017 Xi' an R] ICPC 2017 区域赛西安站重现赛 [guzhi, icpc, squad]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/339238",
+      "id": 68899171,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-07-26T05:00:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-07-26T13:00:00",
       "event": "牛客周赛 Round 154 [IOI]",
@@ -900,6 +960,21 @@
       "problems": null,
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
+      "start": "2026-07-26T11:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-07-26T13:00:00",
+      "event": "【LGR-294-Div.4】洛谷入门赛 #50 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/338569",
+      "id": 68899170,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
       "start": "2026-07-26T11:00:00"
     },
     {
@@ -1006,6 +1081,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-08-01T04:00:00"
+    },
+    {
+      "duration": 12600,
+      "end": "2026-08-01T09:30:00",
+      "event": "【LGR-292-Div.3】洛谷基础赛 #37 & MSOI Round 1 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/325521",
+      "id": 68899169,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-08-01T06:00:00"
     },
     {
       "duration": 115200,
