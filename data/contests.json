@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-17T20:43:04Z",
-  "count": 137,
+  "lastUpdated": "2026-07-18T01:40:16Z",
+  "count": 138,
   "contests": [
     {
       "duration": 31536000,
@@ -355,8 +355,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 946,
-      "parsed_at": "2026-07-17T09:06:07.586542",
+      "n_statistics": 952,
+      "parsed_at": "2026-07-17T21:07:07.021235",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -429,9 +429,9 @@
       "host": "codechef.com",
       "href": "https://www.codechef.com/DEVWEEKEND59",
       "id": 68860642,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 12,
+      "n_statistics": 6,
+      "parsed_at": "2026-07-18T00:55:07.589680",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -946,6 +946,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-07-29T14:30:00"
+    },
+    {
+      "duration": 172800,
+      "end": "2026-08-02T07:00:00",
+      "event": "BushBash CTF",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3372/",
+      "id": 68930069,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-07-31T07:00:00"
     },
     {
       "duration": 864000,
