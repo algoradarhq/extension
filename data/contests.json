@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-18T20:37:13Z",
-  "count": 133,
+  "lastUpdated": "2026-07-19T01:48:02Z",
+  "count": 132,
   "contests": [
     {
       "duration": 31536000,
@@ -340,8 +340,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 953,
-      "parsed_at": "2026-07-18T09:08:07.879941",
+      "n_statistics": 954,
+      "parsed_at": "2026-07-18T21:09:42.925998",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -415,8 +415,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND59",
       "id": 68860642,
       "n_problems": 12,
-      "n_statistics": 151,
-      "parsed_at": "2026-07-18T20:12:08.006467",
+      "n_statistics": 155,
+      "parsed_at": "2026-07-18T23:25:07.067541",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -451,21 +451,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-07-18T09:00:00"
-    },
-    {
-      "duration": 32400,
-      "end": "2026-07-18T21:00:00",
-      "event": "ENOWARS 10",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3324/",
-      "id": 68225941,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-07-18T12:00:00"
     },
     {
       "duration": 5400,
