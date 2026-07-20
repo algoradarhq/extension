@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-20T07:51:48Z",
-  "count": 126,
+  "lastUpdated": "2026-07-20T12:09:01Z",
+  "count": 129,
   "contests": [
     {
       "duration": 31536000,
@@ -340,8 +340,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 959,
-      "parsed_at": "2026-07-19T21:11:06.350894",
+      "n_statistics": 962,
+      "parsed_at": "2026-07-20T09:11:09.181180",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -708,6 +708,21 @@
       "start": "2026-07-26T14:35:00"
     },
     {
+      "duration": 18000,
+      "end": "2026-07-29T09:00:00",
+      "event": "2026牛客暑期多校训练营4 [ACM]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/133879",
+      "id": 68983264,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-07-29T04:00:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-07-29T16:30:00",
       "event": "Starters 249",
@@ -721,6 +736,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-07-29T14:30:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-07-31T09:00:00",
+      "event": "2026牛客暑期多校训练营5 [ACM]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/133880",
+      "id": 68983265,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-07-31T04:00:00"
     },
     {
       "duration": 14400,
@@ -931,6 +961,21 @@
       "resource": "leetcode.com",
       "resource_id": 102,
       "start": "2026-08-01T14:30:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-08-02T04:00:00",
+      "event": "Weekly Contest 513",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/weekly-contest-513",
+      "id": 68982643,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2026-08-02T02:30:00"
     },
     {
       "duration": 7200,
