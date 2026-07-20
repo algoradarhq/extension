@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-20T02:04:42Z",
-  "count": 125,
+  "lastUpdated": "2026-07-20T07:51:48Z",
+  "count": 126,
   "contests": [
     {
       "duration": 31536000,
@@ -295,8 +295,8 @@
       "href": "https://cups.online/rounds/1810",
       "id": 68516925,
       "n_problems": 1,
-      "n_statistics": 8,
-      "parsed_at": "2026-07-19T14:59:15.936906",
+      "n_statistics": 9,
+      "parsed_at": "2026-07-20T03:00:18.685447",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -931,6 +931,21 @@
       "resource": "leetcode.com",
       "resource_id": 102,
       "start": "2026-08-01T14:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-08-02T13:00:00",
+      "event": "牛客周赛 Round 155 [IOI]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/138240",
+      "id": 68977439,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-08-02T11:00:00"
     },
     {
       "duration": 7200,
