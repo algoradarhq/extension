@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-22T01:46:56Z",
-  "count": 135,
+  "lastUpdated": "2026-07-22T07:29:12Z",
+  "count": 136,
   "contests": [
     {
       "duration": 31536000,
@@ -296,7 +296,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 10,
-      "parsed_at": "2026-07-21T15:03:13.116358",
+      "parsed_at": "2026-07-22T03:04:10.912366",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -361,6 +361,21 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-07-07T17:53:04"
+    },
+    {
+      "duration": 1209600,
+      "end": "2026-08-03T12:00:00",
+      "event": "The 2026 UCup Summer Online Challenge sponsored by Huawei",
+      "host": "challenge.ucup.ac",
+      "href": "https://challenge.ucup.ac/contest/6a34e3642e7c341f7f0a5dee",
+      "id": 69020957,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "challenge.ucup.ac",
+      "resource_id": 183,
+      "start": "2026-07-20T12:00:00"
     },
     {
       "duration": 18000,
