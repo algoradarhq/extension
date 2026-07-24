@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T12:44:40Z",
+  "lastUpdated": "2026-07-24T20:55:01Z",
   "count": 135,
   "contests": [
     {
@@ -296,7 +296,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 13,
-      "parsed_at": "2026-07-24T03:07:10.954385",
+      "parsed_at": "2026-07-24T15:08:14.229325",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -378,18 +378,18 @@
       "start": "2026-07-20T12:00:00"
     },
     {
-      "duration": 18000,
-      "end": "2026-07-24T17:00:00",
-      "event": "Индивидуальные тренировки 2026. День 8",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/97326/enter/?retPage=",
-      "id": 69063643,
+      "duration": 259200,
+      "end": "2026-07-27T12:00:00",
+      "event": "ICFP Programming Contest 2026",
+      "host": "icfpconference.org",
+      "href": "https://icfpcontest2026.com/",
+      "id": 69084413,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
       "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
+      "resource": "icfpconference.org",
+      "resource_id": 40,
       "start": "2026-07-24T12:00:00"
     },
     {
@@ -559,7 +559,7 @@
     },
     {
       "duration": 7200,
-      "end": "2026-07-26T14:00:00",
+      "end": "2026-07-26T13:00:00",
       "event": "Weekend Practice #24",
       "host": "basecamp.eolymp.com",
       "href": "https://basecamp.eolymp.com/contests/mklrvldb3d06t2e17mki47m788",
@@ -570,7 +570,7 @@
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
-      "start": "2026-07-26T12:00:00"
+      "start": "2026-07-26T11:00:00"
     },
     {
       "duration": 9000,
