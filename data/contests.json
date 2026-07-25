@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T15:56:40Z",
+  "lastUpdated": "2026-07-25T20:40:15Z",
   "count": 134,
   "contests": [
     {
@@ -400,8 +400,8 @@
       "href": "https://lightoj.com/contest/contest7loopandarray",
       "id": 69081479,
       "n_problems": 8,
-      "n_statistics": 3,
-      "parsed_at": "2026-07-25T09:12:09.944917",
+      "n_statistics": 4,
+      "parsed_at": "2026-07-25T20:25:07.041134",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -415,8 +415,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND60",
       "id": 69010429,
       "n_problems": 11,
-      "n_statistics": 90,
-      "parsed_at": "2026-07-25T13:47:07.137589",
+      "n_statistics": 154,
+      "parsed_at": "2026-07-25T20:13:06.846492",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -465,21 +465,6 @@
       "problems": null,
       "resource": "ctftime.org",
       "resource_id": 70,
-      "start": "2026-07-25T12:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-07-25T17:00:00",
-      "event": "Индивидуальные тренировки 2026. День 9",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/97564/enter/?retPage=",
-      "id": 69108018,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
       "start": "2026-07-25T12:00:00"
     },
     {
@@ -556,6 +541,21 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-07-26T11:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-07-26T17:00:00",
+      "event": "Индивидуальные тренировки 2026. День 10",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/97553/enter/?retPage=",
+      "id": 69116578,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-07-26T12:00:00"
     },
     {
       "duration": 9000,
