@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T07:09:45Z",
+  "lastUpdated": "2026-07-25T11:01:32Z",
   "count": 136,
   "contests": [
     {
@@ -341,7 +341,7 @@
       "id": 62459761,
       "n_problems": 8,
       "n_statistics": 994,
-      "parsed_at": "2026-07-24T21:18:09.762598",
+      "parsed_at": "2026-07-25T09:19:10.672361",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -400,8 +400,8 @@
       "href": "https://lightoj.com/contest/contest7loopandarray",
       "id": 69081479,
       "n_problems": 8,
-      "n_statistics": 1,
-      "parsed_at": "2026-07-24T22:00:09.530662",
+      "n_statistics": 3,
+      "parsed_at": "2026-07-25T09:12:09.944917",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -415,8 +415,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND60",
       "id": 69010429,
       "n_problems": 11,
-      "n_statistics": 19,
-      "parsed_at": "2026-07-25T04:08:07.722808",
+      "n_statistics": 69,
+      "parsed_at": "2026-07-25T10:34:07.311362",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
