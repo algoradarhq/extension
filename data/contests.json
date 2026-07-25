@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-25T11:01:32Z",
-  "count": 136,
+  "lastUpdated": "2026-07-25T15:56:40Z",
+  "count": 134,
   "contests": [
     {
       "duration": 31536000,
@@ -70,8 +70,8 @@
       "href": "https://codeforces.com/gym/106465",
       "id": 66803787,
       "n_problems": 2,
-      "n_statistics": 974,
-      "parsed_at": "2026-07-22T14:24:11.655847",
+      "n_statistics": 995,
+      "parsed_at": "2026-07-25T14:25:07.632758",
       "problems": null,
       "resource": "codeforces.com/gyms",
       "resource_id": 64,
@@ -296,7 +296,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 13,
-      "parsed_at": "2026-07-25T03:09:14.688243",
+      "parsed_at": "2026-07-25T15:10:11.823008",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -415,8 +415,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND60",
       "id": 69010429,
       "n_problems": 11,
-      "n_statistics": 69,
-      "parsed_at": "2026-07-25T10:34:07.311362",
+      "n_statistics": 90,
+      "parsed_at": "2026-07-25T13:47:07.137589",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -453,21 +453,6 @@
       "start": "2026-07-25T03:10:00"
     },
     {
-      "duration": 18000,
-      "end": "2026-07-25T12:35:00",
-      "event": "Game of Coders 5.0 | Finals Round. _Sherbiny",
-      "host": "codeforces.com/gyms",
-      "href": "https://codeforces.com/gym/106628",
-      "id": 68968553,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com/gyms",
-      "resource_id": 64,
-      "start": "2026-07-25T07:35:00"
-    },
-    {
       "duration": 86400,
       "end": "2026-07-26T12:00:00",
       "event": "D^3CTF 2026",
@@ -483,18 +468,18 @@
       "start": "2026-07-25T12:00:00"
     },
     {
-      "duration": 6000,
-      "end": "2026-07-25T13:40:00",
-      "event": "AtCoder Beginner Contest 468",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/abc468",
-      "id": 68437903,
+      "duration": 18000,
+      "end": "2026-07-25T17:00:00",
+      "event": "Индивидуальные тренировки 2026. День 9",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/97564/enter/?retPage=",
+      "id": 69108018,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
       "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
       "start": "2026-07-25T12:00:00"
     },
     {
@@ -571,21 +556,6 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-07-26T11:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-07-26T17:00:00",
-      "event": "Индивидуальные тренировки 2026. День 9",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/97553/enter/?retPage=",
-      "id": 69092118,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-07-26T12:00:00"
     },
     {
       "duration": 9000,
