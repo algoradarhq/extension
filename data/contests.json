@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T01:50:00Z",
+  "lastUpdated": "2026-07-25T07:09:45Z",
   "count": 136,
   "contests": [
     {
@@ -296,7 +296,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 13,
-      "parsed_at": "2026-07-24T15:08:14.229325",
+      "parsed_at": "2026-07-25T03:09:14.688243",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -415,8 +415,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND60",
       "id": 69010429,
       "n_problems": 11,
-      "n_statistics": 14,
-      "parsed_at": "2026-07-25T00:55:07.943917",
+      "n_statistics": 19,
+      "parsed_at": "2026-07-25T04:08:07.722808",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -586,21 +586,6 @@
       "resource": "contest.yandex.ru/CYF",
       "resource_id": 112,
       "start": "2026-07-26T12:00:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2026-07-26T17:00:00",
-      "event": "RoboContest Round #112",
-      "host": "robocontest.uz",
-      "href": "https://robocontest.uz/olympiads/3941",
-      "id": 68702754,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "robocontest.uz",
-      "resource_id": 137,
-      "start": "2026-07-26T14:30:00"
     },
     {
       "duration": 9000,
@@ -781,6 +766,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-07-31T12:00:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2026-07-31T17:00:00",
+      "event": "RoboContest Round #112",
+      "host": "robocontest.uz",
+      "href": "https://robocontest.uz/olympiads/3941",
+      "id": 68702754,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "robocontest.uz",
+      "resource_id": 137,
+      "start": "2026-07-31T14:30:00"
     },
     {
       "duration": 172800,
