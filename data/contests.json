@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T20:40:15Z",
+  "lastUpdated": "2026-07-26T01:53:10Z",
   "count": 134,
   "contests": [
     {
@@ -340,8 +340,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 994,
-      "parsed_at": "2026-07-25T09:19:10.672361",
+      "n_statistics": 996,
+      "parsed_at": "2026-07-25T21:20:07.535162",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -415,8 +415,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND60",
       "id": 69010429,
       "n_problems": 11,
-      "n_statistics": 154,
-      "parsed_at": "2026-07-25T20:13:06.846492",
+      "n_statistics": 155,
+      "parsed_at": "2026-07-25T23:26:07.286825",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
