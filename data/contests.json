@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T11:49:54Z",
+  "lastUpdated": "2026-07-28T16:27:52Z",
   "count": 127,
   "contests": [
     {
@@ -70,8 +70,8 @@
       "href": "https://codeforces.com/gym/106465",
       "id": 66803787,
       "n_problems": 2,
-      "n_statistics": 995,
-      "parsed_at": "2026-07-25T14:25:07.632758",
+      "n_statistics": 1005,
+      "parsed_at": "2026-07-28T14:26:06.952662",
       "problems": null,
       "resource": "codeforces.com/gyms",
       "resource_id": 64,
@@ -296,7 +296,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 15,
-      "parsed_at": "2026-07-28T03:15:12.826937",
+      "parsed_at": "2026-07-28T15:16:08.168218",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -386,7 +386,7 @@
       "id": 69081479,
       "n_problems": 8,
       "n_statistics": 6,
-      "parsed_at": "2026-07-28T04:26:07.703022",
+      "parsed_at": "2026-07-28T15:38:06.903722",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
