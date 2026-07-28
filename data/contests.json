@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-28T07:32:48Z",
-  "count": 126,
+  "lastUpdated": "2026-07-28T11:49:54Z",
+  "count": 127,
   "contests": [
     {
       "duration": 31536000,
@@ -340,8 +340,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 1005,
-      "parsed_at": "2026-07-27T21:23:06.586667",
+      "n_statistics": 1009,
+      "parsed_at": "2026-07-28T09:24:08.988937",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -421,6 +421,21 @@
       "resource": "contest.yandex.ru/CYF",
       "resource_id": 112,
       "start": "2026-07-29T12:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-07-29T18:00:00",
+      "event": "EJOI 2026 - Day 2",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/l62h8skt4h29bc83n1rb4qki40",
+      "id": 69185162,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
+      "start": "2026-07-29T14:00:00"
     },
     {
       "duration": 7200,
@@ -648,21 +663,6 @@
       "start": "2026-08-01T08:26:00"
     },
     {
-      "duration": 7200,
-      "end": "2026-08-01T13:35:00",
-      "event": "Codeforces Round 1113 (Div. 2)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2248",
-      "id": 68861532,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-08-01T11:35:00"
-    },
-    {
       "duration": 6000,
       "end": "2026-08-01T13:40:00",
       "event": "AtCoder Beginner Contest 469",
@@ -706,6 +706,21 @@
       "resource": "leetcode.com",
       "resource_id": 102,
       "start": "2026-08-01T14:30:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2026-08-01T17:05:00",
+      "event": "Codeforces Round 1113 (Div. 2)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2248",
+      "id": 68861532,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-08-01T14:35:00"
     },
     {
       "duration": 172800,
