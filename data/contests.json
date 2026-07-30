@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T11:45:04Z",
+  "lastUpdated": "2026-07-30T16:20:09Z",
   "count": 141,
   "contests": [
     {
@@ -296,7 +296,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 16,
-      "parsed_at": "2026-07-30T03:18:14.561805",
+      "parsed_at": "2026-07-30T15:19:13.220441",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -385,8 +385,8 @@
       "href": "https://lightoj.com/contest/contest7loopandarray",
       "id": 69081479,
       "n_problems": 8,
-      "n_statistics": 7,
-      "parsed_at": "2026-07-30T01:14:06.695763",
+      "n_statistics": 9,
+      "parsed_at": "2026-07-30T12:26:08.462469",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -400,8 +400,8 @@
       "href": "https://www.naukri.com/code360/contests/weekly-contest-241",
       "id": 69060594,
       "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_statistics": 157,
+      "parsed_at": "2026-07-30T16:12:08.725196",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
