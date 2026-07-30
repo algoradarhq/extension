@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-29T20:42:29Z",
-  "count": 138,
+  "lastUpdated": "2026-07-30T01:27:53Z",
+  "count": 139,
   "contests": [
     {
       "duration": 31536000,
@@ -341,7 +341,7 @@
       "id": 62459761,
       "n_problems": 8,
       "n_statistics": 1017,
-      "parsed_at": "2026-07-29T09:26:07.064967",
+      "parsed_at": "2026-07-29T21:27:07.092024",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -386,7 +386,7 @@
       "id": 69081479,
       "n_problems": 8,
       "n_statistics": 7,
-      "parsed_at": "2026-07-29T14:02:06.079706",
+      "parsed_at": "2026-07-30T01:14:06.695763",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -781,6 +781,21 @@
       "resource": "luogu.com.cn",
       "resource_id": 162,
       "start": "2026-08-03T05:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-08-03T10:00:00",
+      "event": "DKM-OI Round 1 [ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/331454",
+      "id": 69204375,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-08-03T06:00:00"
     },
     {
       "duration": 10800,
