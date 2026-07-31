@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-31T11:51:46Z",
-  "count": 142,
+  "lastUpdated": "2026-07-31T16:29:38Z",
+  "count": 141,
   "contests": [
     {
       "duration": 31536000,
@@ -70,8 +70,8 @@
       "href": "https://codeforces.com/gym/106465",
       "id": 66803787,
       "n_problems": 2,
-      "n_statistics": 1005,
-      "parsed_at": "2026-07-28T14:26:06.952662",
+      "n_statistics": 1029,
+      "parsed_at": "2026-07-31T14:27:08.998982",
       "problems": null,
       "resource": "codeforces.com/gyms",
       "resource_id": 64,
@@ -296,7 +296,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 16,
-      "parsed_at": "2026-07-31T03:20:12.786432",
+      "parsed_at": "2026-07-31T15:21:15.294483",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -378,21 +378,6 @@
       "start": "2026-07-20T12:00:00"
     },
     {
-      "duration": 604740,
-      "end": "2026-07-31T15:59:00",
-      "event": "Contest - 7 (Topic: Loop and Array) [protected, icpc, individual]",
-      "host": "lightoj.com",
-      "href": "https://lightoj.com/contest/contest7loopandarray",
-      "id": 69081479,
-      "n_problems": 8,
-      "n_statistics": 12,
-      "parsed_at": "2026-07-31T10:50:08.251494",
-      "problems": null,
-      "resource": "lightoj.com",
-      "resource_id": 122,
-      "start": "2026-07-24T16:00:00"
-    },
-    {
       "duration": 5384588,
       "end": "2026-09-30T23:59:00",
       "event": "Kaggriculture [simulations, custom metric]",
@@ -429,9 +414,9 @@
       "host": "atcoder.jp",
       "href": "https://atcoder.jp/contests/ahc069",
       "id": 68572023,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 1,
+      "n_statistics": 1355,
+      "parsed_at": "2026-07-31T16:00:13.539276",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
