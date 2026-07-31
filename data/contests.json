@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T20:56:03Z",
+  "lastUpdated": "2026-07-31T01:54:54Z",
   "count": 142,
   "contests": [
     {
@@ -341,7 +341,7 @@
       "id": 62459761,
       "n_problems": 8,
       "n_statistics": 1018,
-      "parsed_at": "2026-07-30T09:28:08.924822",
+      "parsed_at": "2026-07-30T21:29:08.803414",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -385,8 +385,8 @@
       "href": "https://lightoj.com/contest/contest7loopandarray",
       "id": 69081479,
       "n_problems": 8,
-      "n_statistics": 9,
-      "parsed_at": "2026-07-30T12:26:08.462469",
+      "n_statistics": 10,
+      "parsed_at": "2026-07-30T23:38:08.604924",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
