@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-01T15:52:51Z",
-  "count": 138,
+  "lastUpdated": "2026-08-01T20:40:21Z",
+  "count": 136,
   "contests": [
     {
       "duration": 31536000,
@@ -496,36 +496,6 @@
       "resource": "hackerrank.com",
       "resource_id": 63,
       "start": "2026-08-01T12:30:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-08-01T16:00:00",
-      "event": "Biweekly Contest 188",
-      "host": "leetcode.com",
-      "href": "https://leetcode.com/contest/biweekly-contest-188",
-      "id": 68917998,
-      "n_problems": 4,
-      "n_statistics": 5524,
-      "parsed_at": "2026-08-01T15:07:08.737314",
-      "problems": null,
-      "resource": "leetcode.com",
-      "resource_id": 102,
-      "start": "2026-08-01T14:30:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2026-08-01T17:05:00",
-      "event": "Codeforces Round 1113 (Div. 2)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2248",
-      "id": 68861532,
-      "n_problems": 7,
-      "n_statistics": 8400,
-      "parsed_at": "2026-08-01T15:49:10.464802",
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-08-01T14:35:00"
     },
     {
       "duration": 172800,
