@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-01T20:40:21Z",
-  "count": 136,
+  "lastUpdated": "2026-08-02T01:52:16Z",
+  "count": 137,
   "contests": [
     {
       "duration": 31536000,
@@ -326,7 +326,7 @@
       "id": 62459761,
       "n_problems": 8,
       "n_statistics": 1025,
-      "parsed_at": "2026-08-01T09:32:08.365009",
+      "parsed_at": "2026-08-01T21:33:08.570882",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -400,8 +400,8 @@
       "href": "https://atcoder.jp/contests/ahc069",
       "id": 68572023,
       "n_problems": 1,
-      "n_statistics": 1547,
-      "parsed_at": "2026-08-01T08:01:09.090221",
+      "n_statistics": 1851,
+      "parsed_at": "2026-08-02T00:14:08.244418",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
@@ -1021,6 +1021,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-08-09T12:00:00"
+    },
+    {
+      "duration": 12600,
+      "end": "2026-08-10T09:30:00",
+      "event": "【LGR-296-Div.3】洛谷基础赛 #38 & Algo Beat Contest 017 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/333459",
+      "id": 69285095,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-08-10T06:00:00"
     },
     {
       "duration": 18000,
