@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-02T07:27:08Z",
-  "count": 134,
+  "lastUpdated": "2026-08-02T11:10:30Z",
+  "count": 135,
   "contests": [
     {
       "duration": 31536000,
@@ -95,7 +95,7 @@
     {
       "duration": 7978726,
       "end": "2026-08-05T23:59:00",
-      "event": "ROGII - Wellbore Geology Prediction [evaluation, multimodal, geology, mean squared error]",
+      "event": "ROGII - Wellbore Geology Prediction [geology, multimodal, evaluation, mean squared error]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/rogii-wellbore-geology-prediction",
       "id": 67452318,
@@ -275,7 +275,7 @@
     {
       "duration": 5317140,
       "end": "2026-08-16T23:59:00",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Simulation [reinforcement learning, artificial intelligence, games, custom metric]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Simulation [games, artificial intelligence, reinforcement learning, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle",
       "id": 68321438,
@@ -305,7 +305,7 @@
     {
       "duration": 7966667,
       "end": "2026-09-29T23:59:00",
-      "event": "Biohub - Cell Tracking During Development [object detection, image, video, computer vision, biology, custom metric]",
+      "event": "Biohub - Cell Tracking During Development [biology, computer vision, image, video, object detection, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
       "id": 68560017,
@@ -326,7 +326,7 @@
       "id": 62459761,
       "n_problems": 8,
       "n_statistics": 1025,
-      "parsed_at": "2026-08-01T21:33:08.570882",
+      "parsed_at": "2026-08-02T09:34:09.086213",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -496,21 +496,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-08-02T00:00:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-08-02T10:00:00",
-      "event": "【LGR-293-Div.2】洛谷 8 月月赛 I & CJLOI Round 2 [rated, ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/290490",
-      "id": 69027148,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-08-02T06:00:00"
     },
     {
       "duration": 7200,
@@ -976,6 +961,36 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-08-09T12:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-08-09T16:35:00",
+      "event": "Codeforces Round (Div. 1)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2255",
+      "id": 69294684,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-08-09T14:35:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-08-09T16:35:00",
+      "event": "Codeforces Round (Div. 2)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2256",
+      "id": 69294685,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-08-09T14:35:00"
     },
     {
       "duration": 12600,
