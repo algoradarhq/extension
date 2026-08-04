@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-04T01:29:27Z",
-  "count": 129,
+  "lastUpdated": "2026-08-04T07:30:02Z",
+  "count": 130,
   "contests": [
     {
       "duration": 31536000,
@@ -95,7 +95,7 @@
     {
       "duration": 7978726,
       "end": "2026-08-05T23:59:00",
-      "event": "ROGII - Wellbore Geology Prediction [evaluation, multimodal, geology, mean squared error]",
+      "event": "ROGII - Wellbore Geology Prediction [geology, multimodal, evaluation, mean squared error]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/rogii-wellbore-geology-prediction",
       "id": 67452318,
@@ -275,7 +275,7 @@
     {
       "duration": 5317140,
       "end": "2026-08-16T23:59:00",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Simulation [reinforcement learning, artificial intelligence, games, custom metric]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Simulation [games, artificial intelligence, reinforcement learning, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle",
       "id": 68321438,
@@ -296,7 +296,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 16,
-      "parsed_at": "2026-08-03T15:27:13.954723",
+      "parsed_at": "2026-08-04T03:28:13.140774",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -305,7 +305,7 @@
     {
       "duration": 7966667,
       "end": "2026-09-29T23:59:00",
-      "event": "Biohub - Cell Tracking During Development [object detection, image, video, computer vision, biology, custom metric]",
+      "event": "Biohub - Cell Tracking During Development [biology, computer vision, image, video, object detection, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
       "id": 68560017,
@@ -1051,6 +1051,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-08-16T12:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-08-19T13:00:00",
+      "event": "牛客2026年七夕节比赛 [ACM]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/139172",
+      "id": 69346217,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-08-19T11:00:00"
     },
     {
       "duration": 172800,
