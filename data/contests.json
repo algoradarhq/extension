@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-04T07:30:02Z",
-  "count": 130,
+  "lastUpdated": "2026-08-04T11:56:30Z",
+  "count": 129,
   "contests": [
     {
       "duration": 31536000,
@@ -325,8 +325,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 1032,
-      "parsed_at": "2026-08-03T21:37:08.252430",
+      "n_statistics": 1033,
+      "parsed_at": "2026-08-04T09:38:08.855553",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -391,21 +391,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-08-01T00:00:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-08-04T10:00:00",
-      "event": "DKM-OI Round 1 [rated, ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/344729",
-      "id": 69212853,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-08-04T06:00:00"
     },
     {
       "duration": 18000,
@@ -845,7 +830,7 @@
     {
       "duration": 9000,
       "end": "2026-08-09T17:05:00",
-      "event": "Codeforces Round (Div. 1)",
+      "event": "Codeforces Round 1116 (Div. 1)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2255",
       "id": 69294684,
@@ -860,7 +845,7 @@
     {
       "duration": 9000,
       "end": "2026-08-09T17:05:00",
-      "event": "Codeforces Round (Div. 2)",
+      "event": "Codeforces Round 1116 (Div. 2)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2256",
       "id": 69294685,
