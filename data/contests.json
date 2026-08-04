@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-03T20:55:01Z",
-  "count": 128,
+  "lastUpdated": "2026-08-04T01:29:27Z",
+  "count": 129,
   "contests": [
     {
       "duration": 31536000,
@@ -95,7 +95,7 @@
     {
       "duration": 7978726,
       "end": "2026-08-05T23:59:00",
-      "event": "ROGII - Wellbore Geology Prediction [geology, multimodal, evaluation, mean squared error]",
+      "event": "ROGII - Wellbore Geology Prediction [evaluation, multimodal, geology, mean squared error]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/rogii-wellbore-geology-prediction",
       "id": 67452318,
@@ -275,7 +275,7 @@
     {
       "duration": 5317140,
       "end": "2026-08-16T23:59:00",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Simulation [games, artificial intelligence, reinforcement learning, custom metric]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Simulation [reinforcement learning, artificial intelligence, games, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle",
       "id": 68321438,
@@ -305,7 +305,7 @@
     {
       "duration": 7966667,
       "end": "2026-09-29T23:59:00",
-      "event": "Biohub - Cell Tracking During Development [biology, computer vision, image, video, object detection, custom metric]",
+      "event": "Biohub - Cell Tracking During Development [object detection, image, video, computer vision, biology, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
       "id": 68560017,
@@ -325,8 +325,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 1028,
-      "parsed_at": "2026-08-03T09:36:11.935574",
+      "n_statistics": 1032,
+      "parsed_at": "2026-08-03T21:37:08.252430",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -370,8 +370,8 @@
       "href": "https://atcoder.jp/contests/ahc069",
       "id": 68572023,
       "n_problems": 1,
-      "n_statistics": 2071,
-      "parsed_at": "2026-08-03T08:16:10.121637",
+      "n_statistics": 2114,
+      "parsed_at": "2026-08-04T00:17:08.569482",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
@@ -706,6 +706,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-08-08T12:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-08-08T23:00:00",
+      "event": "2026 USP Try-outs. yancouto",
+      "host": "codeforces.com/gyms",
+      "href": "https://codeforces.com/gym/106636",
+      "id": 69336048,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com/gyms",
+      "resource_id": 64,
+      "start": "2026-08-08T18:00:00"
     },
     {
       "duration": 604800,
