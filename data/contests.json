@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-07T15:44:03Z",
-  "count": 140,
+  "lastUpdated": "2026-08-07T20:29:52Z",
+  "count": 139,
   "contests": [
     {
       "duration": 412693610,
@@ -310,8 +310,8 @@
       "href": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
       "id": 68560017,
       "n_problems": null,
-      "n_statistics": 2057,
-      "parsed_at": "2026-08-06T20:33:09.104371",
+      "n_statistics": 2096,
+      "parsed_at": "2026-08-07T18:41:08.652682",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -370,8 +370,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e8",
       "id": 69258449,
       "n_problems": null,
-      "n_statistics": 962,
-      "parsed_at": "2026-08-07T11:00:12.770038",
+      "n_statistics": 1010,
+      "parsed_at": "2026-08-07T18:27:11.756519",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -436,21 +436,6 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-08-07T05:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-08-07T16:35:00",
-      "event": "Educational Codeforces Round 193 (Rated for Div. 2)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2253",
-      "id": 69162458,
-      "n_problems": 6,
-      "n_statistics": 13565,
-      "parsed_at": "2026-08-07T15:35:08.845152",
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-08-07T14:35:00"
     },
     {
       "duration": 183600,
