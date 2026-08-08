@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-08T10:21:38Z",
-  "count": 139,
+  "lastUpdated": "2026-08-08T15:19:55Z",
+  "count": 137,
   "contests": [
     {
       "duration": 412693610,
@@ -55,8 +55,8 @@
       "href": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2",
       "id": 66453357,
       "n_problems": null,
-      "n_statistics": 1372,
-      "parsed_at": "2026-08-06T08:40:08.959355",
+      "n_statistics": 1399,
+      "parsed_at": "2026-08-08T14:01:08.954616",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -70,8 +70,8 @@
       "href": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
       "id": 66453356,
       "n_problems": null,
-      "n_statistics": 2071,
-      "parsed_at": "2026-08-06T08:40:43.726423",
+      "n_statistics": 2142,
+      "parsed_at": "2026-08-08T14:02:08.517151",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -513,21 +513,6 @@
       "start": "2026-08-08T02:00:00"
     },
     {
-      "duration": 21600,
-      "end": "2026-08-08T11:00:00",
-      "event": "DLESS Round 6：Edu Round（Prize!） [rated, ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/340305",
-      "id": 69008398,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-08-08T05:00:00"
-    },
-    {
       "duration": 86400,
       "end": "2026-08-09T11:30:00",
       "event": "Math×Girl² [rated, ioi]",
@@ -541,21 +526,6 @@
       "resource": "luogu.com.cn",
       "resource_id": 162,
       "start": "2026-08-08T11:30:00"
-    },
-    {
-      "duration": 6000,
-      "end": "2026-08-08T13:40:00",
-      "event": "JPRS Programming Contest 2026#2 (AtCoder Beginner Contest 470)",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/abc470",
-      "id": 69051500,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-08-08T12:00:00"
     },
     {
       "duration": 43200,
