@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-08T20:17:43Z",
-  "count": 136,
+  "lastUpdated": "2026-08-09T00:58:36Z",
+  "count": 135,
   "contests": [
     {
       "duration": 412693610,
@@ -265,8 +265,8 @@
       "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle",
       "id": 68321438,
       "n_problems": null,
-      "n_statistics": 6533,
-      "parsed_at": "2026-08-08T06:10:09.707389",
+      "n_statistics": 6585,
+      "parsed_at": "2026-08-08T20:57:10.368784",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -310,8 +310,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 1057,
-      "parsed_at": "2026-08-08T09:46:08.414018",
+      "n_statistics": 1061,
+      "parsed_at": "2026-08-08T21:47:08.600732",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -355,8 +355,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e8",
       "id": 69258449,
       "n_problems": null,
-      "n_statistics": 1106,
-      "parsed_at": "2026-08-08T16:48:09.903455",
+      "n_statistics": 1127,
+      "parsed_at": "2026-08-09T00:15:12.780855",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -391,21 +391,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-08-06T17:00:00"
-    },
-    {
-      "duration": 172800,
-      "end": "2026-08-09T00:00:00",
-      "event": "RoboHack AI CTF (Robotic Hacking Community at DEFCON 34)",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3305/",
-      "id": 68225939,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-08-07T00:00:00"
     },
     {
       "duration": 745140,
@@ -528,21 +513,6 @@
       "start": "2026-08-08T13:00:00"
     },
     {
-      "duration": 18000,
-      "end": "2026-08-08T23:00:00",
-      "event": "2026 USP Try-outs. yancouto",
-      "host": "codeforces.com/gyms",
-      "href": "https://codeforces.com/gym/106636",
-      "id": 69336048,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com/gyms",
-      "resource_id": 64,
-      "start": "2026-08-08T18:00:00"
-    },
-    {
       "duration": 604800,
       "end": "2026-08-16T00:00:00",
       "event": "38th International Olympiad in Informatics. Uzbekistan",
@@ -634,21 +604,6 @@
     },
     {
       "duration": 7200,
-      "end": "2026-08-09T13:00:00",
-      "event": "Weekend Practice #25",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/e9obuk4fih5jt0s551abcv3ls0",
-      "id": 69324660,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-08-09T11:00:00"
-    },
-    {
-      "duration": 7200,
       "end": "2026-08-09T14:00:00",
       "event": "UNIQUE VISION Programming Contest 2026 Summer (AtCoder Regular Contest 226)",
       "host": "atcoder.jp",
@@ -660,6 +615,21 @@
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
+      "start": "2026-08-09T12:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-08-09T14:00:00",
+      "event": "Weekend Practice #25",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/e9obuk4fih5jt0s551abcv3ls0",
+      "id": 69324660,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
       "start": "2026-08-09T12:00:00"
     },
     {
@@ -946,6 +916,21 @@
       "resource": "luogu.com.cn",
       "resource_id": 162,
       "start": "2026-08-16T06:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-08-16T12:00:00",
+      "event": "Test Weekend Practice",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/r8ubp290292qd473qn626f1jfc",
+      "id": 69472236,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
+      "start": "2026-08-16T10:00:00"
     },
     {
       "duration": 7200,
