@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T06:06:00Z",
+  "lastUpdated": "2026-08-10T10:58:09Z",
   "count": 119,
   "contests": [
     {
@@ -100,8 +100,8 @@
       "href": "https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks",
       "id": 68248443,
       "n_problems": null,
-      "n_statistics": 814,
-      "parsed_at": "2026-08-09T13:45:09.880032",
+      "n_statistics": 962,
+      "parsed_at": "2026-08-10T09:30:18.163646",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -310,8 +310,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 1062,
-      "parsed_at": "2026-08-09T21:49:09.959525",
+      "n_statistics": 1067,
+      "parsed_at": "2026-08-10T09:50:09.853207",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -331,21 +331,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-07-30T16:15:52"
-    },
-    {
-      "duration": 864000,
-      "end": "2026-08-10T10:00:00",
-      "event": "RECRUIT Nihonbashi Half Marathon 2026 Summer (AtCoder Heuristic Contest 069)",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/ahc069",
-      "id": 68572023,
-      "n_problems": 1,
-      "n_statistics": 2720,
-      "parsed_at": "2026-08-10T00:25:09.056498",
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-07-31T10:00:00"
     },
     {
       "duration": 2678340,
@@ -436,21 +421,6 @@
       "resource": "uoj.ac",
       "resource_id": 172,
       "start": "2026-08-09T04:00:00"
-    },
-    {
-      "duration": 12600,
-      "end": "2026-08-10T09:30:00",
-      "event": "【LGR-296-Div.3】洛谷基础赛 #38 & Algo Beat Contest 017 [rated, ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/333459",
-      "id": 69285095,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-08-10T06:00:00"
     },
     {
       "duration": 10800,
@@ -766,6 +736,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-08-19T04:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-08-19T10:00:00",
+      "event": "【LGR-297-Div.2】洛谷 8 月月赛 II & __OI R1 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/293999",
+      "id": 69511072,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-08-19T06:00:00"
     },
     {
       "duration": 7200,
@@ -1096,6 +1081,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-09-06T04:10:00"
+    },
+    {
+      "duration": 1209600,
+      "end": "2026-09-21T08:00:00",
+      "event": "Summer Challenge 2026",
+      "host": "codingame.com",
+      "href": "https://www.codingame.com/contests/summer-challenge-2026-back-track-king",
+      "id": 69509854,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codingame.com",
+      "resource_id": 81,
+      "start": "2026-09-07T08:00:00"
     },
     {
       "duration": 172800,
