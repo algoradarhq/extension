@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-12T01:06:37Z",
-  "count": 119,
+  "lastUpdated": "2026-08-12T06:07:03Z",
+  "count": 120,
   "contests": [
     {
       "duration": 412693610,
@@ -65,7 +65,7 @@
     {
       "duration": 19203637,
       "end": "2026-11-02T23:59:00",
-      "event": "ARC Prize 2026 - ARC-AGI-3 [general knowledge and reasoning, artificial intelligence, custom metric]",
+      "event": "ARC Prize 2026 - ARC-AGI-3 [artificial intelligence, general knowledge and reasoning, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
       "id": 66453356,
@@ -245,7 +245,7 @@
     {
       "duration": 7736340,
       "end": "2026-09-13T23:59:00",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Strategy [reinforcement learning, games, artificial intelligence]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Strategy [games, artificial intelligence, reinforcement learning]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle-challenge-strategy",
       "id": 68321437,
@@ -260,7 +260,7 @@
     {
       "duration": 5317140,
       "end": "2026-08-16T23:59:00",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Simulation [artificial intelligence, games, reinforcement learning, custom metric]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Simulation [games, artificial intelligence, reinforcement learning, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle",
       "id": 68321438,
@@ -281,7 +281,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 22,
-      "parsed_at": "2026-08-11T15:50:21.975817",
+      "parsed_at": "2026-08-12T03:51:20.907526",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -290,7 +290,7 @@
     {
       "duration": 7966667,
       "end": "2026-09-29T23:59:00",
-      "event": "Biohub - Cell Tracking During Development [object detection, computer vision, biology, image, video, custom metric]",
+      "event": "Biohub - Cell Tracking During Development [biology, computer vision, image, video, object detection, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
       "id": 68560017,
@@ -335,13 +335,13 @@
     {
       "duration": 2678340,
       "end": "2026-08-31T23:59:00",
-      "event": "Predicting Smartphone Addiction [tabular, beginner, roc auc score]",
+      "event": "Predicting Smartphone Addiction [beginner, tabular, roc auc score]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/playground-series-s6e8",
       "id": 69258449,
       "n_problems": null,
-      "n_statistics": 1477,
-      "parsed_at": "2026-08-11T19:18:09.063539",
+      "n_statistics": 1499,
+      "parsed_at": "2026-08-12T02:45:08.450309",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -355,8 +355,8 @@
       "href": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection",
       "id": 69383566,
       "n_problems": null,
-      "n_statistics": 1120,
-      "parsed_at": "2026-08-11T10:37:07.093262",
+      "n_statistics": 1215,
+      "parsed_at": "2026-08-12T05:26:07.258941",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -415,8 +415,8 @@
       "href": "https://uoj.ac/contest/113",
       "id": 69267868,
       "n_problems": 2,
-      "n_statistics": 45,
-      "parsed_at": "2026-08-10T19:37:07.533579",
+      "n_statistics": 51,
+      "parsed_at": "2026-08-12T05:14:07.118268",
       "problems": null,
       "resource": "uoj.ac",
       "resource_id": 172,
@@ -455,7 +455,7 @@
     {
       "duration": 7200,
       "end": "2026-08-12T16:30:00",
-      "event": "Starters 251",
+      "event": "Starters 251 (Rated till 6 stars)",
       "host": "codechef.com",
       "href": "https://www.codechef.com/START251",
       "id": 68880967,
@@ -916,6 +916,21 @@
       "resource": "repovive.com",
       "resource_id": 180,
       "start": "2026-08-23T14:35:00"
+    },
+    {
+      "duration": 21600,
+      "end": "2026-08-24T00:30:00",
+      "event": "Summer 2026 Virtual Programming Contest",
+      "host": "teamscode.org",
+      "href": "https://www.teamscode.org/contests/summer-2026/",
+      "id": 69554205,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "teamscode.org",
+      "resource_id": 142,
+      "start": "2026-08-23T18:30:00"
     },
     {
       "duration": 9000,
