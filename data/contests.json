@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-11T20:34:09Z",
-  "count": 120,
+  "lastUpdated": "2026-08-12T01:06:37Z",
+  "count": 119,
   "contests": [
     {
       "duration": 412693610,
@@ -65,7 +65,7 @@
     {
       "duration": 19203637,
       "end": "2026-11-02T23:59:00",
-      "event": "ARC Prize 2026 - ARC-AGI-3 [artificial intelligence, general knowledge and reasoning, custom metric]",
+      "event": "ARC Prize 2026 - ARC-AGI-3 [general knowledge and reasoning, artificial intelligence, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
       "id": 66453356,
@@ -100,8 +100,8 @@
       "href": "https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks",
       "id": 68248443,
       "n_problems": null,
-      "n_statistics": 1079,
-      "parsed_at": "2026-08-11T05:15:09.388044",
+      "n_statistics": 1189,
+      "parsed_at": "2026-08-12T01:00:12.532308",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -245,7 +245,7 @@
     {
       "duration": 7736340,
       "end": "2026-09-13T23:59:00",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Strategy [games, artificial intelligence, reinforcement learning]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Strategy [reinforcement learning, games, artificial intelligence]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle-challenge-strategy",
       "id": 68321437,
@@ -260,13 +260,13 @@
     {
       "duration": 5317140,
       "end": "2026-08-16T23:59:00",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Simulation [games, artificial intelligence, reinforcement learning, custom metric]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Simulation [artificial intelligence, games, reinforcement learning, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle",
       "id": 68321438,
       "n_problems": null,
-      "n_statistics": 6708,
-      "parsed_at": "2026-08-11T08:05:09.083268",
+      "n_statistics": 6735,
+      "parsed_at": "2026-08-11T22:52:07.092376",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -290,7 +290,7 @@
     {
       "duration": 7966667,
       "end": "2026-09-29T23:59:00",
-      "event": "Biohub - Cell Tracking During Development [biology, computer vision, image, video, object detection, custom metric]",
+      "event": "Biohub - Cell Tracking During Development [object detection, computer vision, biology, image, video, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
       "id": 68560017,
@@ -310,8 +310,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 1076,
-      "parsed_at": "2026-08-11T09:52:07.678878",
+      "n_statistics": 1082,
+      "parsed_at": "2026-08-11T21:53:06.986578",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -335,7 +335,7 @@
     {
       "duration": 2678340,
       "end": "2026-08-31T23:59:00",
-      "event": "Predicting Smartphone Addiction [beginner, tabular, roc auc score]",
+      "event": "Predicting Smartphone Addiction [tabular, beginner, roc auc score]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/playground-series-s6e8",
       "id": 69258449,
@@ -1696,21 +1696,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-11-06T18:15:00"
-    },
-    {
-      "duration": 129600,
-      "end": "2026-11-15T21:00:00",
-      "event": "Platypwn 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3082/",
-      "id": 64729351,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-11-14T09:00:00"
     },
     {
       "duration": 432000,
