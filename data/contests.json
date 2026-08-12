@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-12T15:50:51Z",
-  "count": 127,
+  "lastUpdated": "2026-08-12T20:32:45Z",
+  "count": 130,
   "contests": [
     {
       "duration": 412693610,
@@ -281,7 +281,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 22,
-      "parsed_at": "2026-08-12T03:51:20.907526",
+      "parsed_at": "2026-08-12T15:52:21.053281",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -340,8 +340,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e8",
       "id": 69258449,
       "n_problems": null,
-      "n_statistics": 1552,
-      "parsed_at": "2026-08-12T10:12:07.452281",
+      "n_statistics": 1601,
+      "parsed_at": "2026-08-12T17:39:07.461439",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -421,21 +421,6 @@
       "resource": "uoj.ac",
       "resource_id": 172,
       "start": "2026-08-09T04:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-08-12T16:30:00",
-      "event": "Starters 251 (Rated till 6 stars)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/START251",
-      "id": 68880967,
-      "n_problems": 9,
-      "n_statistics": 26086,
-      "parsed_at": "2026-08-12T15:35:09.300157",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-08-12T14:30:00"
     },
     {
       "duration": 36000,
@@ -586,6 +571,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-08-15T00:00:01"
+    },
+    {
+      "duration": 54000,
+      "end": "2026-08-15T18:30:00",
+      "event": "Trace Athena OSINT CTF",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3391/",
+      "id": 69570439,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-08-15T03:30:00"
     },
     {
       "duration": 86400,
@@ -931,6 +931,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-08-22T01:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-08-23T07:00:00",
+      "event": "E0F CTF",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3400/",
+      "id": 69570438,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-08-22T07:00:00"
     },
     {
       "duration": 129600,
@@ -1353,6 +1368,21 @@
       "start": "2026-09-19T03:30:00"
     },
     {
+      "duration": 36000,
+      "end": "2026-09-19T16:00:00",
+      "event": "OmniCTF 2026 Finals",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3401/",
+      "id": 69570437,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-09-19T06:00:00"
+    },
+    {
       "duration": 86400,
       "end": "2026-09-20T12:00:00",
       "event": "07CTF 2026",
@@ -1771,6 +1801,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-10-24T06:30:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-10-31T06:30:00",
+      "event": "Hacker's Gambit 2026 (Round 2 – Grand Finale)",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3381/",
+      "id": 69570436,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-10-30T06:30:00"
     },
     {
       "duration": 259200,
