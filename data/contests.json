@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T01:07:11Z",
+  "lastUpdated": "2026-08-14T06:06:44Z",
   "count": 131,
   "contests": [
     {
@@ -281,7 +281,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 22,
-      "parsed_at": "2026-08-13T15:54:26.085190",
+      "parsed_at": "2026-08-14T03:55:25.601134",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -295,8 +295,8 @@
       "href": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
       "id": 68560017,
       "n_problems": null,
-      "n_statistics": 2291,
-      "parsed_at": "2026-08-13T07:29:10.949937",
+      "n_statistics": 2322,
+      "parsed_at": "2026-08-14T05:37:12.217302",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
