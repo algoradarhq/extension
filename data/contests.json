@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T10:49:08Z",
+  "lastUpdated": "2026-08-14T15:41:49Z",
   "count": 129,
   "contests": [
     {
@@ -65,7 +65,7 @@
     {
       "duration": 19203637,
       "end": "2026-11-02T23:59:00",
-      "event": "ARC Prize 2026 - ARC-AGI-3 [general knowledge and reasoning, artificial intelligence, custom metric]",
+      "event": "ARC Prize 2026 - ARC-AGI-3 [artificial intelligence, general knowledge and reasoning, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
       "id": 66453356,
@@ -100,8 +100,8 @@
       "href": "https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks",
       "id": 68248443,
       "n_problems": null,
-      "n_statistics": 1319,
-      "parsed_at": "2026-08-13T16:30:15.056873",
+      "n_statistics": 1379,
+      "parsed_at": "2026-08-14T12:15:15.056025",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -245,7 +245,7 @@
     {
       "duration": 7736340,
       "end": "2026-09-13T23:59:00",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Strategy [reinforcement learning, games, artificial intelligence]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Strategy [games, artificial intelligence, reinforcement learning]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle-challenge-strategy",
       "id": 68321437,
@@ -260,7 +260,7 @@
     {
       "duration": 5317140,
       "end": "2026-08-16T23:59:00",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Simulation [artificial intelligence, games, reinforcement learning, custom metric]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Simulation [games, artificial intelligence, reinforcement learning, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle",
       "id": 68321438,
@@ -290,7 +290,7 @@
     {
       "duration": 7966667,
       "end": "2026-09-29T23:59:00",
-      "event": "Biohub - Cell Tracking During Development [object detection, computer vision, biology, image, video, custom metric]",
+      "event": "Biohub - Cell Tracking During Development [biology, computer vision, image, video, object detection, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
       "id": 68560017,
@@ -335,13 +335,13 @@
     {
       "duration": 2678340,
       "end": "2026-08-31T23:59:00",
-      "event": "Predicting Smartphone Addiction [tabular, beginner, roc auc score]",
+      "event": "Predicting Smartphone Addiction [beginner, tabular, roc auc score]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/playground-series-s6e8",
       "id": 69258449,
       "n_problems": null,
-      "n_statistics": 1754,
-      "parsed_at": "2026-08-14T06:54:10.579910",
+      "n_statistics": 1796,
+      "parsed_at": "2026-08-14T14:21:13.827564",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -355,8 +355,8 @@
       "href": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection",
       "id": 69383566,
       "n_problems": null,
-      "n_statistics": 1387,
-      "parsed_at": "2026-08-13T19:04:10.795488",
+      "n_statistics": 1477,
+      "parsed_at": "2026-08-14T13:53:12.940221",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
