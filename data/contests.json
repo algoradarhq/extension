@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-16T10:13:39Z",
-  "count": 122,
+  "lastUpdated": "2026-08-16T15:11:53Z",
+  "count": 119,
   "contests": [
     {
       "duration": 31536000,
@@ -325,8 +325,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e8",
       "id": 69258449,
       "n_problems": null,
-      "n_statistics": 1938,
-      "parsed_at": "2026-08-16T03:36:14.009683",
+      "n_statistics": 1978,
+      "parsed_at": "2026-08-16T11:03:12.659197",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -436,51 +436,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-08-15T00:00:00"
-    },
-    {
-      "duration": 129599,
-      "end": "2026-08-16T12:00:00",
-      "event": "THJCC CTF 2026 summer",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3343/",
-      "id": 68432951,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-08-15T00:00:01"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-08-16T13:00:00",
-      "event": "牛客周赛 Round 157 [IOI]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/139206",
-      "id": 69367991,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-08-16T11:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-08-16T14:00:00",
-      "event": "AtCoder Regular Contest 227",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/arc227",
-      "id": 69010905,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-08-16T12:00:00"
     },
     {
       "duration": 18000,
