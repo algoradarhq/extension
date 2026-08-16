@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-15T20:11:38Z",
-  "count": 125,
+  "lastUpdated": "2026-08-16T00:42:44Z",
+  "count": 124,
   "contests": [
     {
       "duration": 31536000,
@@ -295,8 +295,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 1097,
-      "parsed_at": "2026-08-15T09:59:10.799088",
+      "n_statistics": 1101,
+      "parsed_at": "2026-08-15T22:00:19.119359",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -361,21 +361,6 @@
       "resource": "uoj.ac",
       "resource_id": 172,
       "start": "2026-08-08T02:00:00"
-    },
-    {
-      "duration": 36000,
-      "end": "2026-08-16T00:00:00",
-      "event": "38th International Olympiad in Informatics. Uzbekistan",
-      "host": "stats.ioinformatics.org",
-      "href": "https://stats.ioinformatics.org/olympiads/2026",
-      "id": 68506496,
-      "n_problems": 6,
-      "n_statistics": 472,
-      "parsed_at": "2026-08-15T19:41:10.882432",
-      "problems": null,
-      "resource": "stats.ioinformatics.org",
-      "resource_id": 82,
-      "start": "2026-08-09T00:00:00"
     },
     {
       "duration": 2419200,
@@ -541,21 +526,6 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-08-16T12:00:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2026-08-16T17:05:00",
-      "event": "Repovive Premier Round 7",
-      "host": "repovive.com",
-      "href": "https://repovive.com/contests",
-      "id": 69369796,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "repovive.com",
-      "resource_id": 180,
-      "start": "2026-08-16T14:35:00"
     },
     {
       "duration": 18000,
@@ -873,12 +843,12 @@
       "start": "2026-08-23T11:00:00"
     },
     {
-      "duration": 7200,
-      "end": "2026-08-23T16:35:00",
-      "event": "Repovive Starter Round 7",
+      "duration": 9000,
+      "end": "2026-08-23T17:05:00",
+      "event": "Repovive Premier Round 7",
       "host": "repovive.com",
       "href": "https://repovive.com/contests",
-      "id": 69370957,
+      "id": 69369796,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
@@ -1021,6 +991,21 @@
       "resource": "leetcode.com",
       "resource_id": 102,
       "start": "2026-08-29T14:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-08-30T16:35:00",
+      "event": "Repovive Starter Round 7",
+      "host": "repovive.com",
+      "href": "https://repovive.com/contests",
+      "id": 69370957,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "repovive.com",
+      "resource_id": 180,
+      "start": "2026-08-30T14:35:00"
     },
     {
       "duration": 9000,
