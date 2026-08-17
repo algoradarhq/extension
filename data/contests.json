@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-17T00:41:04Z",
-  "count": 117,
+  "lastUpdated": "2026-08-17T05:26:20Z",
+  "count": 116,
   "contests": [
     {
       "duration": 31536000,
@@ -50,7 +50,7 @@
     {
       "duration": 19203637,
       "end": "2026-11-02T23:59:00",
-      "event": "ARC Prize 2026 - ARC-AGI-3 [general knowledge and reasoning, artificial intelligence, custom metric]",
+      "event": "ARC Prize 2026 - ARC-AGI-3 [artificial intelligence, general knowledge and reasoning, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
       "id": 66453356,
@@ -230,7 +230,7 @@
     {
       "duration": 7736340,
       "end": "2026-09-13T23:59:00",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Strategy [reinforcement learning, games, artificial intelligence]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Strategy [games, artificial intelligence, reinforcement learning]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle-challenge-strategy",
       "id": 68321437,
@@ -251,7 +251,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 24,
-      "parsed_at": "2026-08-16T16:00:30.290091",
+      "parsed_at": "2026-08-17T04:01:27.028367",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -260,7 +260,7 @@
     {
       "duration": 7966667,
       "end": "2026-09-29T23:59:00",
-      "event": "Biohub - Cell Tracking During Development [object detection, computer vision, biology, image, video, custom metric]",
+      "event": "Biohub - Cell Tracking During Development [biology, computer vision, image, video, object detection, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
       "id": 68560017,
@@ -305,13 +305,13 @@
     {
       "duration": 2678340,
       "end": "2026-08-31T23:59:00",
-      "event": "Predicting Smartphone Addiction [tabular, beginner, roc auc score]",
+      "event": "Predicting Smartphone Addiction [beginner, tabular, roc auc score]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/playground-series-s6e8",
       "id": 69258449,
       "n_problems": null,
-      "n_statistics": 2013,
-      "parsed_at": "2026-08-16T18:30:16.251920",
+      "n_statistics": 2039,
+      "parsed_at": "2026-08-17T01:57:12.414228",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -391,21 +391,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-08-14T12:00:00"
-    },
-    {
-      "duration": 190800,
-      "end": "2026-08-17T05:00:00",
-      "event": "HackHowl 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3318/",
-      "id": 68231310,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-08-15T00:00:00"
     },
     {
       "duration": 18000,
