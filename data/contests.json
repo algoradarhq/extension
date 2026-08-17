@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-17T05:26:20Z",
-  "count": 116,
+  "lastUpdated": "2026-08-17T10:21:48Z",
+  "count": 119,
   "contests": [
     {
       "duration": 31536000,
@@ -243,6 +243,21 @@
       "start": "2026-06-16T11:00:00"
     },
     {
+      "duration": 6613140,
+      "end": "2026-08-31T23:59:00",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Simulation [games, artificial intelligence, reinforcement learning, custom metric]",
+      "host": "kaggle.com",
+      "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle",
+      "id": 68321438,
+      "n_problems": null,
+      "n_statistics": 6870,
+      "parsed_at": "2026-08-17T00:50:09.982324",
+      "problems": null,
+      "resource": "kaggle.com",
+      "resource_id": 74,
+      "start": "2026-06-16T11:00:00"
+    },
+    {
       "duration": 5637540,
       "end": "2026-08-31T20:59:00",
       "event": "Внутри LLM: собери RAG-пайплайн (дорешивание) [ml]. Итоговое задание курса \"Внутри LLM: как думает ChatGPT?\" (дорешивание)",
@@ -280,8 +295,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 1103,
-      "parsed_at": "2026-08-16T22:02:13.078875",
+      "n_statistics": 1106,
+      "parsed_at": "2026-08-17T10:03:14.701318",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -295,8 +310,8 @@
       "href": "https://www.kaggle.com/competitions/kaggriculture",
       "id": 69223579,
       "n_problems": null,
-      "n_statistics": 4776,
-      "parsed_at": "2026-08-16T18:22:10.835278",
+      "n_statistics": 4875,
+      "parsed_at": "2026-08-17T09:20:15.757855",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -310,8 +325,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e8",
       "id": 69258449,
       "n_problems": null,
-      "n_statistics": 2039,
-      "parsed_at": "2026-08-17T01:57:12.414228",
+      "n_statistics": 2073,
+      "parsed_at": "2026-08-17T09:24:12.825992",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -391,21 +406,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-08-14T12:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-08-17T10:00:00",
-      "event": "[ICPC2017 Urumqi R] ICPC 2017 区域赛乌鲁木齐站重现赛 [guzhi, icpc, squad]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/349025",
-      "id": 69565657,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-08-17T05:00:00"
     },
     {
       "duration": 10800,
@@ -693,6 +693,21 @@
       "start": "2026-08-23T02:30:00"
     },
     {
+      "duration": 18000,
+      "end": "2026-08-23T10:00:00",
+      "event": "[ICPC 2026 Xi'an I] ICPC 2026 邀请赛西安站重现赛 [guzhi, icpc, squad]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/350606",
+      "id": 69686557,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-08-23T05:00:00"
+    },
+    {
       "duration": 10800,
       "end": "2026-08-23T08:10:00",
       "event": "第七回日本最強プログラマー学生選手権 -決勝-",
@@ -720,6 +735,21 @@
       "problems": null,
       "resource": "luogu.com.cn",
       "resource_id": 162,
+      "start": "2026-08-23T11:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-08-23T13:00:00",
+      "event": "牛客周赛 Round 158 [IOI]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/139659",
+      "id": 69687107,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
       "start": "2026-08-23T11:00:00"
     },
     {
@@ -871,6 +901,21 @@
       "resource": "leetcode.com",
       "resource_id": 102,
       "start": "2026-08-29T14:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-08-30T13:00:00",
+      "event": "牛客周赛 Round 159 [IOI]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/139660",
+      "id": 69687109,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-08-30T11:00:00"
     },
     {
       "duration": 7200,
