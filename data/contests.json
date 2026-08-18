@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T15:21:27Z",
+  "lastUpdated": "2026-08-18T20:12:11Z",
   "count": 121,
   "contests": [
     {
@@ -250,8 +250,8 @@
       "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle",
       "id": 68321438,
       "n_problems": null,
-      "n_statistics": 6870,
-      "parsed_at": "2026-08-18T00:51:12.433086",
+      "n_statistics": 6809,
+      "parsed_at": "2026-08-18T19:14:10.528451",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -266,7 +266,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 24,
-      "parsed_at": "2026-08-18T04:04:08.779974",
+      "parsed_at": "2026-08-18T16:04:27.322543",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
