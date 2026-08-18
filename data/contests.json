@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-18T05:19:40Z",
-  "count": 116,
+  "lastUpdated": "2026-08-18T10:18:11Z",
+  "count": 117,
   "contests": [
     {
       "duration": 31536000,
@@ -50,7 +50,7 @@
     {
       "duration": 19203637,
       "end": "2026-11-02T23:59:00",
-      "event": "ARC Prize 2026 - ARC-AGI-3 [general knowledge and reasoning, artificial intelligence, custom metric]",
+      "event": "ARC Prize 2026 - ARC-AGI-3 [artificial intelligence, general knowledge and reasoning, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
       "id": 66453356,
@@ -230,7 +230,7 @@
     {
       "duration": 7736340,
       "end": "2026-09-13T23:59:00",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Strategy [reinforcement learning, games, artificial intelligence]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Strategy [games, artificial intelligence, reinforcement learning]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle-challenge-strategy",
       "id": 68321437,
@@ -245,7 +245,7 @@
     {
       "duration": 6613140,
       "end": "2026-08-31T23:59:00",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Simulation [artificial intelligence, games, reinforcement learning, custom metric]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Simulation [games, artificial intelligence, reinforcement learning, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle",
       "id": 68321438,
@@ -275,7 +275,7 @@
     {
       "duration": 7966667,
       "end": "2026-09-29T23:59:00",
-      "event": "Biohub - Cell Tracking During Development [object detection, computer vision, biology, image, video, custom metric]",
+      "event": "Biohub - Cell Tracking During Development [biology, computer vision, image, video, object detection, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
       "id": 68560017,
@@ -295,8 +295,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 1111,
-      "parsed_at": "2026-08-17T22:04:10.301228",
+      "n_statistics": 1113,
+      "parsed_at": "2026-08-18T10:05:12.539514",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -320,13 +320,13 @@
     {
       "duration": 2678340,
       "end": "2026-08-31T23:59:00",
-      "event": "Predicting Smartphone Addiction [tabular, beginner, roc auc score]",
+      "event": "Predicting Smartphone Addiction [beginner, tabular, roc auc score]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/playground-series-s6e8",
       "id": 69258449,
       "n_problems": null,
-      "n_statistics": 2134,
-      "parsed_at": "2026-08-18T00:20:17.182501",
+      "n_statistics": 2162,
+      "parsed_at": "2026-08-18T07:47:10.046704",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -451,6 +451,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-08-19T11:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-08-19T16:30:00",
+      "event": "Starters 252",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/START252",
+      "id": 69709716,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-08-19T14:30:00"
     },
     {
       "duration": 5400,
