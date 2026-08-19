@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T00:40:34Z",
+  "lastUpdated": "2026-08-19T05:20:18Z",
   "count": 127,
   "contests": [
     {
@@ -50,7 +50,7 @@
     {
       "duration": 19203637,
       "end": "2026-11-02T23:59:00",
-      "event": "ARC Prize 2026 - ARC-AGI-3 [general knowledge and reasoning, artificial intelligence, custom metric]",
+      "event": "ARC Prize 2026 - ARC-AGI-3 [artificial intelligence, general knowledge and reasoning, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
       "id": 66453356,
@@ -230,7 +230,7 @@
     {
       "duration": 7736340,
       "end": "2026-09-13T23:59:00",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Strategy [reinforcement learning, games, artificial intelligence]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Strategy [games, artificial intelligence, reinforcement learning]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle-challenge-strategy",
       "id": 68321437,
@@ -245,7 +245,7 @@
     {
       "duration": 6613140,
       "end": "2026-08-31T23:59:00",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Simulation [artificial intelligence, games, reinforcement learning, custom metric]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Simulation [games, artificial intelligence, reinforcement learning, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle",
       "id": 68321438,
@@ -266,7 +266,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 24,
-      "parsed_at": "2026-08-18T16:04:27.322543",
+      "parsed_at": "2026-08-19T04:05:23.216022",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -275,7 +275,7 @@
     {
       "duration": 7966667,
       "end": "2026-09-29T23:59:00",
-      "event": "Biohub - Cell Tracking During Development [object detection, computer vision, biology, image, video, custom metric]",
+      "event": "Biohub - Cell Tracking During Development [biology, computer vision, image, video, object detection, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
       "id": 68560017,
@@ -320,7 +320,7 @@
     {
       "duration": 2678340,
       "end": "2026-08-31T23:59:00",
-      "event": "Predicting Smartphone Addiction [tabular, beginner, roc auc score]",
+      "event": "Predicting Smartphone Addiction [beginner, tabular, roc auc score]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/playground-series-s6e8",
       "id": 69258449,
@@ -370,8 +370,8 @@
       "href": "https://uoj.ac/contest/113",
       "id": 69267868,
       "n_problems": 2,
-      "n_statistics": 77,
-      "parsed_at": "2026-08-17T19:42:14.374059",
+      "n_statistics": 81,
+      "parsed_at": "2026-08-19T05:19:16.552372",
       "problems": null,
       "resource": "uoj.ac",
       "resource_id": 172,
