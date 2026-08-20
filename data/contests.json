@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T00:40:26Z",
+  "lastUpdated": "2026-08-20T05:21:28Z",
   "count": 125,
   "contests": [
     {
@@ -266,7 +266,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 24,
-      "parsed_at": "2026-08-19T16:06:25.058269",
+      "parsed_at": "2026-08-20T04:06:42.022497",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -325,8 +325,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e8",
       "id": 69258449,
       "n_problems": null,
-      "n_statistics": 2351,
-      "parsed_at": "2026-08-19T21:02:12.513210",
+      "n_statistics": 2368,
+      "parsed_at": "2026-08-20T04:29:12.711345",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -340,8 +340,8 @@
       "href": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection",
       "id": 69383566,
       "n_problems": null,
-      "n_statistics": 1939,
-      "parsed_at": "2026-08-19T06:47:10.745603",
+      "n_statistics": 2010,
+      "parsed_at": "2026-08-20T01:36:14.924318",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
