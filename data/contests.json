@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-21T10:19:45Z",
-  "count": 130,
+  "lastUpdated": "2026-08-21T15:23:12Z",
+  "count": 129,
   "contests": [
     {
       "duration": 31536000,
@@ -280,8 +280,8 @@
       "href": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
       "id": 68560017,
       "n_problems": null,
-      "n_statistics": 2562,
-      "parsed_at": "2026-08-20T16:33:15.833377",
+      "n_statistics": 2592,
+      "parsed_at": "2026-08-21T14:41:14.038588",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -340,8 +340,8 @@
       "href": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection",
       "id": 69383566,
       "n_problems": null,
-      "n_statistics": 2064,
-      "parsed_at": "2026-08-20T20:25:13.300521",
+      "n_statistics": 2111,
+      "parsed_at": "2026-08-21T15:14:16.720473",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -391,21 +391,6 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-08-14T11:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-08-21T13:00:00",
-      "event": "牛客小白月赛136 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/139208",
-      "id": 69368274,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-08-21T11:00:00"
     },
     {
       "duration": 172800,
