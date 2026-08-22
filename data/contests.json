@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-22T10:13:03Z",
-  "count": 130,
+  "lastUpdated": "2026-08-22T15:10:54Z",
+  "count": 129,
   "contests": [
     {
       "duration": 31536000,
@@ -280,8 +280,8 @@
       "href": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
       "id": 68560017,
       "n_problems": null,
-      "n_statistics": 2592,
-      "parsed_at": "2026-08-21T14:41:14.038588",
+      "n_statistics": 2622,
+      "parsed_at": "2026-08-22T12:49:18.654493",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -295,8 +295,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 1143,
-      "parsed_at": "2026-08-21T22:12:12.636729",
+      "n_statistics": 1148,
+      "parsed_at": "2026-08-22T10:13:11.139514",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -408,21 +408,6 @@
       "start": "2026-08-21T12:00:00"
     },
     {
-      "duration": 86400,
-      "end": "2026-08-22T14:00:00",
-      "event": "PwnSec CTF 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3159/",
-      "id": 69382347,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-08-21T14:00:00"
-    },
-    {
       "duration": 129600,
       "end": "2026-08-23T04:00:00",
       "event": "z0d1ak CTF Qualifiers",
@@ -468,21 +453,6 @@
       "start": "2026-08-22T01:00:00"
     },
     {
-      "duration": 28800,
-      "end": "2026-08-22T11:15:00",
-      "event": "$N1PH€RS 3.0 CTF",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3397/",
-      "id": 69728337,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-08-22T03:15:00"
-    },
-    {
       "duration": 86400,
       "end": "2026-08-23T07:00:00",
       "event": "E0F CTF",
@@ -513,23 +483,8 @@
       "start": "2026-08-22T08:00:00"
     },
     {
-      "duration": 6000,
-      "end": "2026-08-22T13:40:00",
-      "event": "AtCoder Beginner Contest 472",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/abc472",
-      "id": 69156601,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-08-22T12:00:00"
-    },
-    {
       "duration": 18000,
-      "end": "2026-08-22T17:00:00",
+      "end": "2026-08-22T17:15:00",
       "event": "Индивидуальные тренировки 2026. День 19",
       "host": "contest.yandex.ru/CYF",
       "href": "https://official.contest.yandex.ru/CYF/contest/98378/enter/?retPage=",
@@ -540,7 +495,7 @@
       "problems": null,
       "resource": "contest.yandex.ru/CYF",
       "resource_id": 112,
-      "start": "2026-08-22T12:00:00"
+      "start": "2026-08-22T12:15:00"
     },
     {
       "duration": 14400,
@@ -916,6 +871,21 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-08-29T14:35:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-08-30T04:00:00",
+      "event": "Weekly Contest 517",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/weekly-contest-517",
+      "id": 69818178,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2026-08-30T02:30:00"
     },
     {
       "duration": 16200,
@@ -1308,6 +1278,21 @@
       "start": "2026-09-19T12:00:00"
     },
     {
+      "duration": 9000,
+      "end": "2026-09-20T14:30:00",
+      "event": "AtCoder Regular Contest++ 230",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/arc230",
+      "id": 69816770,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-09-20T12:00:00"
+    },
+    {
       "duration": 1346340,
       "end": "2026-10-06T20:59:00",
       "event": "Russian Olympiad in Artificial Intelligence 2026 [ai]. Qualifying round",
@@ -1351,21 +1336,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-09-26T03:30:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-09-26T09:00:00",
-      "event": "組合せゲーム 24 題",
-      "host": "atcoder.jp?lang=ja",
-      "href": "https://atcoder.jp/contests/game-24",
-      "id": 69813614,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-09-26T04:00:00"
     },
     {
       "duration": 18000,
@@ -1606,6 +1576,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-10-03T15:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-10-04T09:00:00",
+      "event": "組合せゲーム 24 題",
+      "host": "atcoder.jp?lang=ja",
+      "href": "https://atcoder.jp/contests/game-24",
+      "id": 69813614,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-10-04T04:00:00"
     },
     {
       "duration": 345600,
