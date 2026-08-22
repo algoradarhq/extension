@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T00:40:28Z",
+  "lastUpdated": "2026-08-22T05:18:05Z",
   "count": 129,
   "contests": [
     {
@@ -266,7 +266,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 24,
-      "parsed_at": "2026-08-21T16:09:32.477591",
+      "parsed_at": "2026-08-22T04:10:31.376287",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -325,8 +325,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e8",
       "id": 69258449,
       "n_problems": null,
-      "n_statistics": 2508,
-      "parsed_at": "2026-08-21T17:44:11.351410",
+      "n_statistics": 2522,
+      "parsed_at": "2026-08-22T01:11:13.583321",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
