@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-23T00:43:30Z",
-  "count": 128,
+  "lastUpdated": "2026-08-23T05:20:09Z",
+  "count": 126,
   "contests": [
     {
       "duration": 31536000,
@@ -50,7 +50,7 @@
     {
       "duration": 19203637,
       "end": "2026-11-02T23:59:00",
-      "event": "ARC Prize 2026 - ARC-AGI-3 [artificial intelligence, general knowledge and reasoning, custom metric]",
+      "event": "ARC Prize 2026 - ARC-AGI-3 [general knowledge and reasoning, artificial intelligence, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
       "id": 66453356,
@@ -230,7 +230,7 @@
     {
       "duration": 7736340,
       "end": "2026-09-13T23:59:00",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Strategy [games, artificial intelligence, reinforcement learning]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Strategy [reinforcement learning, games, artificial intelligence]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle-challenge-strategy",
       "id": 68321437,
@@ -245,7 +245,7 @@
     {
       "duration": 6613140,
       "end": "2026-08-31T23:59:00",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Simulation [games, artificial intelligence, reinforcement learning, custom metric]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Simulation [artificial intelligence, games, reinforcement learning, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle",
       "id": 68321438,
@@ -266,7 +266,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 24,
-      "parsed_at": "2026-08-22T16:11:29.376736",
+      "parsed_at": "2026-08-23T04:12:33.291684",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -275,7 +275,7 @@
     {
       "duration": 7966667,
       "end": "2026-09-29T23:59:00",
-      "event": "Biohub - Cell Tracking During Development [biology, computer vision, image, video, object detection, custom metric]",
+      "event": "Biohub - Cell Tracking During Development [object detection, computer vision, biology, image, video, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
       "id": 68560017,
@@ -320,7 +320,7 @@
     {
       "duration": 2678340,
       "end": "2026-08-31T23:59:00",
-      "event": "Predicting Smartphone Addiction [beginner, tabular, roc auc score]",
+      "event": "Predicting Smartphone Addiction [tabular, beginner, roc auc score]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/playground-series-s6e8",
       "id": 69258449,
@@ -340,8 +340,8 @@
       "href": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection",
       "id": 69383566,
       "n_problems": null,
-      "n_statistics": 2149,
-      "parsed_at": "2026-08-22T10:03:12.055363",
+      "n_statistics": 2203,
+      "parsed_at": "2026-08-23T04:52:16.708450",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -385,8 +385,8 @@
       "href": "https://codeforces.com/contests/2251",
       "id": 69331675,
       "n_problems": 1,
-      "n_statistics": 3389,
-      "parsed_at": "2026-08-22T09:58:10.689043",
+      "n_statistics": 3491,
+      "parsed_at": "2026-08-23T02:47:16.012481",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
@@ -408,21 +408,6 @@
       "start": "2026-08-21T12:00:00"
     },
     {
-      "duration": 129600,
-      "end": "2026-08-23T04:00:00",
-      "event": "z0d1ak CTF Qualifiers",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3370/",
-      "id": 69382346,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-08-21T16:00:00"
-    },
-    {
       "duration": 179898,
       "end": "2026-08-23T20:29:00",
       "event": "Placement Prep Weekends - 04",
@@ -436,21 +421,6 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-08-21T18:30:42"
-    },
-    {
-      "duration": 86400,
-      "end": "2026-08-23T01:00:00",
-      "event": "Haruulzangi CTF 2026 Qualifier",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3379/",
-      "id": 69189772,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-08-22T01:00:00"
     },
     {
       "duration": 86400,
@@ -483,34 +453,34 @@
       "start": "2026-08-22T08:00:00"
     },
     {
-      "duration": 14400,
-      "end": "2026-08-23T05:00:00",
-      "event": "PECAN+ CTF 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3411/",
-      "id": 69728336,
+      "duration": 18000,
+      "end": "2026-09-05T04:00:00",
+      "event": "2026 International Olympiad in Informatics Day 1 (Mirror)",
+      "host": "dmoj.ca",
+      "href": "https://dmoj.ca/contest/ioi26d1",
+      "id": 69830825,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
       "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-08-23T01:00:00"
+      "resource": "dmoj.ca",
+      "resource_id": 77,
+      "start": "2026-08-23T01:30:00"
     },
     {
-      "duration": 5400,
-      "end": "2026-08-23T04:00:00",
-      "event": "Weekly Contest 516",
-      "host": "leetcode.com",
-      "href": "https://leetcode.com/contest/weekly-contest-516",
-      "id": 69657231,
+      "duration": 18000,
+      "end": "2026-09-05T04:00:00",
+      "event": "2026 International Olympiad in Informatics Day 2 (Mirror)",
+      "host": "dmoj.ca",
+      "href": "https://dmoj.ca/contest/ioi26d2",
+      "id": 69830826,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
       "problems": null,
-      "resource": "leetcode.com",
-      "resource_id": 102,
-      "start": "2026-08-23T02:30:00"
+      "resource": "dmoj.ca",
+      "resource_id": 77,
+      "start": "2026-08-23T01:30:00"
     },
     {
       "duration": 18000,
