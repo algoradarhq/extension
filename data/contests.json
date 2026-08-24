@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-23T20:11:23Z",
-  "count": 119,
+  "lastUpdated": "2026-08-24T00:42:26Z",
+  "count": 117,
   "contests": [
     {
       "duration": 31536000,
@@ -295,8 +295,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 1154,
-      "parsed_at": "2026-08-23T10:15:17.264499",
+      "n_statistics": 1163,
+      "parsed_at": "2026-08-23T22:16:12.662294",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -325,8 +325,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e8",
       "id": 69258449,
       "n_problems": null,
-      "n_statistics": 2655,
-      "parsed_at": "2026-08-23T14:26:15.353698",
+      "n_statistics": 2694,
+      "parsed_at": "2026-08-23T21:53:10.677316",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -340,8 +340,8 @@
       "href": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection",
       "id": 69383566,
       "n_problems": null,
-      "n_statistics": 2203,
-      "parsed_at": "2026-08-23T04:52:16.708450",
+      "n_statistics": 2256,
+      "parsed_at": "2026-08-23T23:41:15.494262",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -393,21 +393,6 @@
       "start": "2026-08-14T11:00:00"
     },
     {
-      "duration": 179898,
-      "end": "2026-08-23T20:29:00",
-      "event": "Placement Prep Weekends - 04",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/PLACEPREP04",
-      "id": 69716952,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-08-21T18:30:42"
-    },
-    {
       "duration": 18000,
       "end": "2026-09-05T04:00:00",
       "event": "2026 International Olympiad in Informatics Day 1 (Mirror)",
@@ -436,21 +421,6 @@
       "resource": "dmoj.ca",
       "resource_id": 77,
       "start": "2026-08-23T01:30:00"
-    },
-    {
-      "duration": 21600,
-      "end": "2026-08-24T00:30:00",
-      "event": "Summer 2026 Virtual Programming Contest",
-      "host": "teamscode.org",
-      "href": "https://www.teamscode.org/contests/summer-2026/",
-      "id": 69554205,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "teamscode.org",
-      "resource_id": 142,
-      "start": "2026-08-23T18:30:00"
     },
     {
       "duration": 10800,
