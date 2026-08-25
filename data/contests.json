@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-25T05:22:52Z",
-  "count": 123,
+  "lastUpdated": "2026-08-25T10:21:33Z",
+  "count": 127,
   "contests": [
     {
       "duration": 31536000,
@@ -280,8 +280,8 @@
       "href": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
       "id": 68560017,
       "n_problems": null,
-      "n_statistics": 2676,
-      "parsed_at": "2026-08-24T09:05:11.004705",
+      "n_statistics": 2687,
+      "parsed_at": "2026-08-25T07:13:08.482362",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -295,8 +295,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 1169,
-      "parsed_at": "2026-08-24T22:18:09.481721",
+      "n_statistics": 1172,
+      "parsed_at": "2026-08-25T10:19:08.885338",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -423,21 +423,6 @@
       "start": "2026-08-23T01:30:00"
     },
     {
-      "duration": 14400,
-      "end": "2026-08-25T10:10:00",
-      "event": "KismetOI Round 7「春影赛」 [rated, ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/319258",
-      "id": 69844675,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-08-25T06:10:00"
-    },
-    {
       "duration": 18000,
       "end": "2026-08-25T15:00:00",
       "event": "EPT Solving Cup 6.0. eyadhjarray111",
@@ -496,6 +481,21 @@
       "resource": "naukri.com/code360",
       "resource_id": 136,
       "start": "2026-08-27T15:01:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-08-28T10:00:00",
+      "event": "[ICPC2018 Nanjing R] ICPC 2018 区域赛南京站重现赛 [guzhi, icpc, squad]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/353126",
+      "id": 69889139,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-08-28T05:00:00"
     },
     {
       "duration": 9000,
@@ -768,6 +768,21 @@
       "start": "2026-08-31T14:30:00"
     },
     {
+      "duration": 7200,
+      "end": "2026-09-02T16:30:00",
+      "event": "Starters 254",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/START254",
+      "id": 69889683,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-09-02T14:30:00"
+    },
+    {
       "duration": 5400,
       "end": "2026-09-02T17:00:00",
       "event": "Beginner Contest 120",
@@ -781,6 +796,21 @@
       "resource": "naukri.com/code360",
       "resource_id": 136,
       "start": "2026-09-02T15:30:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-09-03T10:00:00",
+      "event": "[ICPC2018 Shenyang R] ICPC 2018 区域赛沈阳站重现赛 [guzhi, icpc, squad]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/353127",
+      "id": 69889136,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-09-03T05:00:00"
     },
     {
       "duration": 10800,
@@ -886,6 +916,21 @@
       "resource": "codingame.com",
       "resource_id": 81,
       "start": "2026-09-07T08:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-09-10T10:00:00",
+      "event": "[ICPC2018 Xuzhou R] ICPC 2018 区域赛徐州站重现赛 [guzhi, icpc, squad]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/353128",
+      "id": 69889135,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-09-10T05:00:00"
     },
     {
       "duration": 172800,
@@ -1005,6 +1050,21 @@
       "problems": null,
       "resource": "ctftime.org",
       "resource_id": 70,
+      "start": "2026-09-17T05:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-09-17T10:00:00",
+      "event": "[ICPC2018 Jiaozuo R] ICPC 2018 区域赛焦作站重现赛 [guzhi, icpc, squad]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/353129",
+      "id": 69889134,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
       "start": "2026-09-17T05:00:00"
     },
     {
