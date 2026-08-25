@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-25T15:32:55Z",
-  "count": 126,
+  "lastUpdated": "2026-08-25T20:17:28Z",
+  "count": 127,
   "contests": [
     {
       "duration": 31536000,
@@ -251,7 +251,7 @@
       "id": 68321438,
       "n_problems": null,
       "n_statistics": 6804,
-      "parsed_at": "2026-08-24T22:18:09.971640",
+      "parsed_at": "2026-08-25T16:41:09.032139",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -266,7 +266,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 25,
-      "parsed_at": "2026-08-25T04:16:25.832615",
+      "parsed_at": "2026-08-25T16:17:23.217891",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -325,8 +325,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e8",
       "id": 69258449,
       "n_problems": null,
-      "n_statistics": 2858,
-      "parsed_at": "2026-08-25T11:08:09.953714",
+      "n_statistics": 2897,
+      "parsed_at": "2026-08-25T18:35:09.108136",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -856,6 +856,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-09-05T12:00:00"
+    },
+    {
+      "duration": 8100,
+      "end": "2026-09-05T16:50:00",
+      "event": "Codeforces Round (Div. 3)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2259",
+      "id": 69899174,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-09-05T14:35:00"
     },
     {
       "duration": 32400,
