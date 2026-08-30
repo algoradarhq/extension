@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-29T22:07:21Z",
-  "count": 132,
+  "lastUpdated": "2026-08-30T02:31:17Z",
+  "count": 131,
   "contests": [
     {
       "duration": 31536000,
@@ -295,8 +295,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 1214,
-      "parsed_at": "2026-08-29T10:27:09.015206",
+      "n_statistics": 1223,
+      "parsed_at": "2026-08-29T22:28:09.024935",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -421,21 +421,6 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-08-28T18:30:26"
-    },
-    {
-      "duration": 86400,
-      "end": "2026-08-30T00:00:00",
-      "event": "COMPFEST CTF 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3290/",
-      "id": 67911364,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-08-29T00:00:00"
     },
     {
       "duration": 86400,
