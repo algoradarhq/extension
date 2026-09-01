@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-01T18:03:24Z",
-  "count": 118,
+  "lastUpdated": "2026-09-01T22:11:26Z",
+  "count": 117,
   "contests": [
     {
       "duration": 31536000,
@@ -250,8 +250,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e9",
       "id": 70060647,
       "n_problems": null,
-      "n_statistics": 157,
-      "parsed_at": "2026-09-01T13:13:08.774638",
+      "n_statistics": 235,
+      "parsed_at": "2026-09-01T20:26:11.284332",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -436,21 +436,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-09-06T00:00:00"
-    },
-    {
-      "duration": 12600,
-      "end": "2026-09-06T04:00:00",
-      "event": "LWLV OI Round 1 [ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/333729",
-      "id": 70065637,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-09-06T00:30:00"
     },
     {
       "duration": 5400,
