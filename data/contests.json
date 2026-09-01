@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-01T09:39:34Z",
-  "count": 117,
+  "lastUpdated": "2026-09-01T14:23:51Z",
+  "count": 118,
   "contests": [
     {
       "duration": 31536000,
@@ -130,8 +130,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 1242,
-      "parsed_at": "2026-08-31T22:32:09.717036",
+      "n_statistics": 1243,
+      "parsed_at": "2026-09-01T10:33:09.938359",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -250,8 +250,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e9",
       "id": 70060647,
       "n_problems": null,
-      "n_statistics": 65,
-      "parsed_at": "2026-09-01T06:00:11.085389",
+      "n_statistics": 157,
+      "parsed_at": "2026-09-01T13:13:08.774638",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -361,6 +361,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-09-04T16:00:00"
+    },
+    {
+      "duration": 16200,
+      "end": "2026-09-05T10:30:00",
+      "event": "【MX-X31】梦熊 X 组 · 四元赛 & FAOI-R14 [guzhi, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/354754",
+      "id": 70073885,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-09-05T06:00:00"
     },
     {
       "duration": 86400,
