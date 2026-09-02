@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T18:14:03Z",
+  "lastUpdated": "2026-09-02T22:09:49Z",
   "count": 134,
   "contests": [
     {
@@ -191,7 +191,7 @@
       "id": 69830825,
       "n_problems": 3,
       "n_statistics": 7,
-      "parsed_at": "2026-09-01T22:19:09.632825",
+      "parsed_at": "2026-09-02T19:18:11.214084",
       "problems": null,
       "resource": "dmoj.ca",
       "resource_id": 77,
@@ -206,7 +206,7 @@
       "id": 69830826,
       "n_problems": 3,
       "n_statistics": 3,
-      "parsed_at": "2026-09-01T22:19:08.031037",
+      "parsed_at": "2026-09-02T19:18:09.569221",
       "problems": null,
       "resource": "dmoj.ca",
       "resource_id": 77,
