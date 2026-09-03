@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T09:18:00Z",
+  "lastUpdated": "2026-09-03T13:59:47Z",
   "count": 135,
   "contests": [
     {
@@ -100,8 +100,8 @@
       "href": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
       "id": 68560017,
       "n_problems": null,
-      "n_statistics": 2993,
-      "parsed_at": "2026-09-02T14:25:08.375466",
+      "n_statistics": 3031,
+      "parsed_at": "2026-09-03T12:33:09.600253",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -115,8 +115,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 1299,
-      "parsed_at": "2026-09-02T22:36:09.890400",
+      "n_statistics": 1398,
+      "parsed_at": "2026-09-03T10:37:09.329720",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -220,8 +220,8 @@
       "href": "https://basecamp.eolymp.com/contests/kv9tu29ckp0kd07c29ae7304fo",
       "id": 70020122,
       "n_problems": 10,
-      "n_statistics": 19,
-      "parsed_at": "2026-09-03T00:51:13.881053",
+      "n_statistics": 20,
+      "parsed_at": "2026-09-03T11:40:09.824249",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -241,21 +241,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-09-01T00:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-09-03T10:00:00",
-      "event": "[ICPC2018 Shenyang R] ICPC 2018 区域赛沈阳站重现赛 [guzhi, icpc, squad]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/353127",
-      "id": 69889136,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-09-03T05:00:00"
     },
     {
       "duration": 7200,
@@ -481,6 +466,21 @@
       "resource": "luogu.com.cn",
       "resource_id": 162,
       "start": "2026-09-06T06:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-09-06T08:05:00",
+      "event": "BNPCHS 2026 Final Round Mirror (Rated Div. 2)",
+      "host": "tlx.toki.id",
+      "href": "https://tlx.toki.id/contests/bnpchs-2026-final-mirror",
+      "id": 70122996,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "tlx.toki.id",
+      "resource_id": 103,
+      "start": "2026-09-06T06:05:00"
     },
     {
       "duration": 5400,
