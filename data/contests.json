@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T18:14:21Z",
+  "lastUpdated": "2026-09-03T22:00:25Z",
   "count": 135,
   "contests": [
     {
@@ -130,8 +130,8 @@
       "href": "https://www.kaggle.com/competitions/kaggriculture",
       "id": 69223579,
       "n_problems": null,
-      "n_statistics": 7408,
-      "parsed_at": "2026-09-03T05:26:09.786363",
+      "n_statistics": 7508,
+      "parsed_at": "2026-09-03T20:24:09.021330",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
