@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T13:52:31Z",
+  "lastUpdated": "2026-09-04T17:53:51Z",
   "count": 140,
   "contests": [
     {
@@ -241,36 +241,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-09-01T00:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-09-04T14:00:00",
-      "event": "牛客挑战赛91 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/139935",
-      "id": 69866256,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-09-04T11:00:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2026-09-04T17:00:00",
-      "event": "RoboContest Round #112",
-      "host": "robocontest.uz",
-      "href": "https://robocontest.uz/olympiads/3941",
-      "id": 68702754,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "robocontest.uz",
-      "resource_id": 137,
-      "start": "2026-09-04T14:30:00"
     },
     {
       "duration": 172800,
@@ -721,6 +691,36 @@
       "resource": "leetcode.com",
       "resource_id": 102,
       "start": "2026-09-12T14:30:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-09-12T17:35:00",
+      "event": "Codeforces Round (Div. 1)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2262",
+      "id": 70152159,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-09-12T14:35:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-09-12T17:35:00",
+      "event": "Codeforces Round (Div. 2)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2263",
+      "id": 70152160,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-09-12T14:35:00"
     },
     {
       "duration": 25200,
