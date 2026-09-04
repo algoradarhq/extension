@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-04T02:03:50Z",
-  "count": 135,
+  "lastUpdated": "2026-09-04T09:11:35Z",
+  "count": 139,
   "contests": [
     {
       "duration": 31536000,
@@ -40,8 +40,8 @@
       "href": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2",
       "id": 66453357,
       "n_problems": null,
-      "n_statistics": 1749,
-      "parsed_at": "2026-09-02T00:53:08.534104",
+      "n_statistics": 1789,
+      "parsed_at": "2026-09-04T06:14:09.290669",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -55,8 +55,8 @@
       "href": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
       "id": 66453356,
       "n_problems": null,
-      "n_statistics": 2681,
-      "parsed_at": "2026-09-02T00:53:27.890948",
+      "n_statistics": 2749,
+      "parsed_at": "2026-09-04T06:14:28.196654",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -235,8 +235,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e9",
       "id": 70060647,
       "n_problems": null,
-      "n_statistics": 608,
-      "parsed_at": "2026-09-03T22:56:10.193520",
+      "n_statistics": 630,
+      "parsed_at": "2026-09-04T06:09:09.024433",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -429,6 +429,21 @@
       "host": "atcoder.jp",
       "href": "https://atcoder.jp/contests/abc474",
       "id": 69004622,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-09-06T04:10:00"
+    },
+    {
+      "duration": 6000,
+      "end": "2026-09-06T05:50:00",
+      "event": "第七回日本最強プログラマー学生選手権～Advance～",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/jsc2026advance-final",
+      "id": 70140125,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
@@ -978,6 +993,21 @@
       "start": "2026-09-19T12:00:00"
     },
     {
+      "duration": 6000,
+      "end": "2026-09-19T13:40:00",
+      "event": "JIJ Programming Contest 2026（AtCoder Beginner Contest 476）",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/abc476",
+      "id": 70142963,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-09-19T12:00:00"
+    },
+    {
       "duration": 25200,
       "end": "2026-09-20T11:00:00",
       "event": "Программирование - профессионалы (ком. 2026)",
@@ -1488,9 +1518,9 @@
       "start": "2026-10-12T04:00:00"
     },
     {
-      "duration": 309540,
-      "end": "2026-10-18T20:59:00",
-      "event": "Russian Olympiad in Artificial Intelligence 2026 [ai]. Main stage, 1 round",
+      "duration": 223140,
+      "end": "2026-10-16T20:59:00",
+      "event": "Russian Olympiad in Artificial Intelligence 2026 [ai]. Main stage, Round 1 without proctoring",
       "host": "cups.online",
       "href": "https://cups.online/rounds/1805",
       "id": 68505130,
@@ -1500,7 +1530,7 @@
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
-      "start": "2026-10-15T07:00:00"
+      "start": "2026-10-14T07:00:00"
     },
     {
       "duration": 122400,
@@ -1548,6 +1578,21 @@
       "start": "2026-10-18T04:00:00"
     },
     {
+      "duration": 7200,
+      "end": "2026-10-18T09:00:00",
+      "event": "Russian Olympiad in Artificial Intelligence 2026 [ai]. Main stage, 2 round with proctoring",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1806",
+      "id": 68505131,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-10-18T07:00:00"
+    },
+    {
       "duration": 39600,
       "end": "2026-10-20T14:00:00",
       "event": "SAS CTF 2026 Finals",
@@ -1561,21 +1606,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-10-20T03:00:00"
-    },
-    {
-      "duration": 136740,
-      "end": "2026-10-21T20:59:00",
-      "event": "Russian Olympiad in Artificial Intelligence 2026 [ai]. Main stage, 2 round",
-      "host": "cups.online",
-      "href": "https://cups.online/rounds/1806",
-      "id": 68505131,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "cups.online",
-      "resource_id": 138,
-      "start": "2026-10-20T07:00:00"
     },
     {
       "duration": 7200,
@@ -1833,9 +1863,24 @@
       "start": "2026-11-15T04:00:00"
     },
     {
-      "duration": 432000,
-      "end": "2026-11-21T07:00:00",
-      "event": "Russian Olympiad in Artificial Intelligence 2026 [ai]. Final stage",
+      "duration": 7200,
+      "end": "2026-11-16T17:00:00",
+      "event": "Russian Olympiad in Artificial Intelligence 2026 [ai]. Пробный тур заключительного этапа",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1858",
+      "id": 70143372,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-11-16T15:00:00"
+    },
+    {
+      "duration": 115200,
+      "end": "2026-11-18T15:00:00",
+      "event": "Russian Olympiad in Artificial Intelligence 2026 [ai]. Final stage: individual round",
       "host": "cups.online",
       "href": "https://cups.online/rounds/1807",
       "id": 68505132,
@@ -1845,7 +1890,22 @@
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
-      "start": "2026-11-16T07:00:00"
+      "start": "2026-11-17T07:00:00"
+    },
+    {
+      "duration": 36000,
+      "end": "2026-11-19T17:00:00",
+      "event": "Russian Olympiad in Artificial Intelligence 2026 [ai]. Final stage: team round",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1859",
+      "id": 70143730,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-11-19T07:00:00"
     },
     {
       "duration": 172800,
