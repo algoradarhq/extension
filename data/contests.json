@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-05T17:01:35Z",
-  "count": 143,
+  "lastUpdated": "2026-09-05T21:48:04Z",
+  "count": 144,
   "contests": [
     {
       "duration": 31536000,
@@ -130,8 +130,8 @@
       "href": "https://www.kaggle.com/competitions/kaggriculture",
       "id": 69223579,
       "n_problems": null,
-      "n_statistics": 7645,
-      "parsed_at": "2026-09-05T02:20:09.540080",
+      "n_statistics": 7748,
+      "parsed_at": "2026-09-05T17:18:10.232944",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -175,8 +175,8 @@
       "href": "https://basecamp.eolymp.com/contests/kv9tu29ckp0kd07c29ae7304fo",
       "id": 70020122,
       "n_problems": 10,
-      "n_statistics": 30,
-      "parsed_at": "2026-09-05T06:54:09.748591",
+      "n_statistics": 31,
+      "parsed_at": "2026-09-05T17:42:11.343021",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -190,8 +190,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e9",
       "id": 70060647,
       "n_problems": null,
-      "n_statistics": 808,
-      "parsed_at": "2026-09-05T11:01:09.908599",
+      "n_statistics": 846,
+      "parsed_at": "2026-09-05T18:14:08.934041",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -241,21 +241,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-09-05T10:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-09-05T20:15:00",
-      "event": "2026 Argentinian Programming Tournament (TAP). MateoCV",
-      "host": "codeforces.com/gyms",
-      "href": "https://codeforces.com/gym/106682",
-      "id": 70064875,
-      "n_problems": 14,
-      "n_statistics": 240,
-      "parsed_at": "2026-09-05T14:04:15.297672",
-      "problems": null,
-      "resource": "codeforces.com/gyms",
-      "resource_id": 64,
-      "start": "2026-09-05T15:15:00"
     },
     {
       "duration": 32400,
@@ -406,6 +391,21 @@
       "resource": "repovive.com",
       "resource_id": 180,
       "start": "2026-09-06T14:35:00"
+    },
+    {
+      "duration": 583140,
+      "end": "2026-09-13T19:59:00",
+      "event": "USACO 2015 February",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/0lpj91qej958ndgva7u2bh26f0",
+      "id": 70179175,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
+      "start": "2026-09-07T02:00:00"
     },
     {
       "duration": 1209600,
@@ -706,6 +706,21 @@
       "resource": "repovive.com",
       "resource_id": 180,
       "start": "2026-09-13T14:35:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-09-13T19:05:00",
+      "event": "Codeforces Round (Div. 2)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2264",
+      "id": 70180161,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-09-13T17:05:00"
     },
     {
       "duration": 7200,
