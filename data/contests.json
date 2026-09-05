@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T13:06:34Z",
+  "lastUpdated": "2026-09-05T17:01:35Z",
   "count": 143,
   "contests": [
     {
@@ -243,34 +243,19 @@
       "start": "2026-09-05T10:00:00"
     },
     {
-      "duration": 7200,
-      "end": "2026-09-05T14:00:00",
-      "event": "AtCoder Regular Contest-- 229",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/arc229",
-      "id": 69784724,
-      "n_problems": 6,
-      "n_statistics": 3854,
-      "parsed_at": "2026-09-05T13:02:09.487554",
+      "duration": 18000,
+      "end": "2026-09-05T20:15:00",
+      "event": "2026 Argentinian Programming Tournament (TAP). MateoCV",
+      "host": "codeforces.com/gyms",
+      "href": "https://codeforces.com/gym/106682",
+      "id": 70064875,
+      "n_problems": 14,
+      "n_statistics": 240,
+      "parsed_at": "2026-09-05T14:04:15.297672",
       "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-09-05T12:00:00"
-    },
-    {
-      "duration": 8100,
-      "end": "2026-09-05T16:50:00",
-      "event": "Codeforces Round 1119 (Div. 3)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2259",
-      "id": 69899174,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-09-05T14:35:00"
+      "resource": "codeforces.com/gyms",
+      "resource_id": 64,
+      "start": "2026-09-05T15:15:00"
     },
     {
       "duration": 32400,
@@ -646,6 +631,21 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-09-12T14:35:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-09-13T04:00:00",
+      "event": "Weekly Contest 519",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/weekly-contest-519",
+      "id": 70174411,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2026-09-13T02:30:00"
     },
     {
       "duration": 25200,
