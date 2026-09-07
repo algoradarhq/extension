@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T15:23:17Z",
+  "lastUpdated": "2026-09-07T22:23:37Z",
   "count": 131,
   "contests": [
     {
@@ -145,8 +145,8 @@
       "href": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection",
       "id": 69383566,
       "n_problems": null,
-      "n_statistics": 3238,
-      "parsed_at": "2026-09-07T02:23:09.540794",
+      "n_statistics": 3298,
+      "parsed_at": "2026-09-07T21:12:09.856047",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -160,8 +160,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e9",
       "id": 70060647,
       "n_problems": null,
-      "n_statistics": 1092,
-      "parsed_at": "2026-09-07T13:32:09.317632",
+      "n_statistics": 1127,
+      "parsed_at": "2026-09-07T20:45:10.676326",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -175,8 +175,8 @@
       "href": "https://basecamp.eolymp.com/contests/0lpj91qej958ndgva7u2bh26f0",
       "id": 70179175,
       "n_problems": 9,
-      "n_statistics": 2,
-      "parsed_at": "2026-09-07T08:00:12.624917",
+      "n_statistics": 7,
+      "parsed_at": "2026-09-07T18:49:09.973833",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -196,21 +196,6 @@
       "resource": "codingame.com",
       "resource_id": 81,
       "start": "2026-09-07T08:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-09-07T16:30:06",
-      "event": "Monday Munch - DSA Challenge 019 (Rated)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DSAMONDAY019",
-      "id": 70096097,
-      "n_problems": 6,
-      "n_statistics": 5318,
-      "parsed_at": "2026-09-07T15:13:09.488734",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-09-07T13:30:06"
     },
     {
       "duration": 7200,
@@ -450,6 +435,21 @@
       "problems": null,
       "resource": "dl.gsu.by",
       "resource_id": 4,
+      "start": "2026-09-13T04:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-09-13T09:00:00",
+      "event": "Kruskal cup/USTC26级新生程序设计竞赛（同步赛） [guzhi, icpc]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/355745",
+      "id": 70229069,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
       "start": "2026-09-13T04:00:00"
     },
     {
