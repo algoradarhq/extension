@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-07T22:23:37Z",
-  "count": 131,
+  "lastUpdated": "2026-09-08T02:08:20Z",
+  "count": 132,
   "contests": [
     {
       "duration": 31536000,
@@ -115,8 +115,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 1893,
-      "parsed_at": "2026-09-07T10:45:10.051351",
+      "n_statistics": 2016,
+      "parsed_at": "2026-09-07T22:46:08.301884",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -1246,6 +1246,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-10-03T09:00:00"
+    },
+    {
+      "duration": 6000,
+      "end": "2026-10-03T13:40:00",
+      "event": "AtCoder Beginner Contest 478",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/abc478",
+      "id": 70240332,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-10-03T12:00:00"
     },
     {
       "duration": 28800,
