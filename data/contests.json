@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-08T22:10:37Z",
-  "count": 136,
+  "lastUpdated": "2026-09-09T02:12:31Z",
+  "count": 137,
   "contests": [
     {
       "duration": 31536000,
@@ -80,7 +80,7 @@
     {
       "duration": 7736340,
       "end": "2026-09-13T23:59:00",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Strategy [games, artificial intelligence, reinforcement learning]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Strategy [reinforcement learning, games, artificial intelligence]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle-challenge-strategy",
       "id": 68321437,
@@ -95,13 +95,13 @@
     {
       "duration": 7966667,
       "end": "2026-09-29T23:59:00",
-      "event": "Biohub - Cell Tracking During Development [biology, computer vision, image, video, object detection, custom metric]",
+      "event": "Biohub - Cell Tracking During Development [object detection, computer vision, biology, video, image, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
       "id": 68560017,
       "n_problems": null,
-      "n_statistics": 3224,
-      "parsed_at": "2026-09-08T03:13:09.484459",
+      "n_statistics": 3267,
+      "parsed_at": "2026-09-09T01:21:09.172048",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -115,8 +115,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 2239,
-      "parsed_at": "2026-09-08T10:47:11.205011",
+      "n_statistics": 2367,
+      "parsed_at": "2026-09-08T22:48:09.668950",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -140,7 +140,7 @@
     {
       "duration": 6768449,
       "end": "2026-10-22T23:59:00",
-      "event": "RSNA Knee Abnormality Detection [medicine, computer vision, image, text, image classification, roc auc score]",
+      "event": "RSNA Knee Abnormality Detection [image, text, medicine, computer vision, image classification, roc auc score]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection",
       "id": 69383566,
@@ -160,8 +160,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e9",
       "id": 70060647,
       "n_problems": null,
-      "n_statistics": 1247,
-      "parsed_at": "2026-09-08T18:24:10.103398",
+      "n_statistics": 1273,
+      "parsed_at": "2026-09-09T01:37:09.582654",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -196,6 +196,21 @@
       "resource": "codingame.com",
       "resource_id": 81,
       "start": "2026-09-07T08:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-09-16T04:00:00",
+      "event": "Back to School '26. Rated",
+      "host": "dmoj.ca",
+      "href": "https://dmoj.ca/contest/bts26",
+      "id": 70263940,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dmoj.ca",
+      "resource_id": 77,
+      "start": "2026-09-09T04:00:00"
     },
     {
       "duration": 7200,
