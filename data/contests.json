@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-09T02:12:31Z",
-  "count": 137,
+  "lastUpdated": "2026-09-09T09:17:59Z",
+  "count": 138,
   "contests": [
     {
       "duration": 31536000,
@@ -160,8 +160,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e9",
       "id": 70060647,
       "n_problems": null,
-      "n_statistics": 1273,
-      "parsed_at": "2026-09-09T01:37:09.582654",
+      "n_statistics": 1307,
+      "parsed_at": "2026-09-09T08:50:09.704706",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -176,7 +176,7 @@
       "id": 70179175,
       "n_problems": 9,
       "n_statistics": 11,
-      "parsed_at": "2026-09-08T16:27:10.982165",
+      "parsed_at": "2026-09-09T03:15:09.943095",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -190,8 +190,8 @@
       "href": "https://www.codingame.com/contests/summer-challenge-2026-back-track-king",
       "id": 69509854,
       "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_statistics": 808,
+      "parsed_at": "2026-09-09T08:52:09.791680",
       "problems": null,
       "resource": "codingame.com",
       "resource_id": 81,
@@ -213,9 +213,24 @@
       "start": "2026-09-09T04:00:00"
     },
     {
+      "duration": 604800,
+      "end": "2026-09-16T09:40:00",
+      "event": "Тестовая олимпиада клуба ФМШ",
+      "host": "acmp.ru",
+      "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46715",
+      "id": 70272427,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "acmp.ru",
+      "resource_id": 5,
+      "start": "2026-09-09T09:40:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-09-09T16:30:00",
-      "event": "Starters 255",
+      "event": "Starters 255 (Rated still 6 stars)",
       "host": "codechef.com",
       "href": "https://www.codechef.com/START255",
       "id": 69937674,
@@ -303,19 +318,19 @@
       "start": "2026-09-11T12:00:00"
     },
     {
-      "duration": 14400,
-      "end": "2026-09-12T04:00:00",
-      "event": "『LBA-OI』Round 5——奶龙牛来，欢乐开怀！ [ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/310534",
-      "id": 70253801,
+      "duration": 181715,
+      "end": "2026-09-13T20:59:00",
+      "event": "Placement Prep Weekends - 07",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/PLACEPREP07",
+      "id": 70271825,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
       "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-09-12T00:00:00"
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-09-11T18:30:25"
     },
     {
       "duration": 12600,
@@ -470,7 +485,7 @@
     {
       "duration": 18000,
       "end": "2026-09-13T09:00:00",
-      "event": "Kruskal cup/USTC26级新生程序设计竞赛（同步赛） [guzhi, icpc]",
+      "event": "Kruskal Cup / USTC 26级新生程序设计竞赛（同步赛） [guzhi, icpc]",
       "host": "luogu.com.cn",
       "href": "https://www.luogu.com.cn/contest/355745",
       "id": 70229069,
