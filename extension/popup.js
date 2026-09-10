@@ -125,20 +125,26 @@ function displayContests(contests) {
 function createContestCard(contest) {
   const card = document.createElement('div');
   card.className = 'contest-card';
-  card.onclick = () => window.open(contest.url, '_blank');
+  card.onclick = () => {
+    if (/^https?:\/\//i.test(contest.url)) {
+      window.open(contest.url, '_blank');
+    } else {
+      console.error('Blocked contest URL with disallowed scheme:', contest.url);
+    }
+  };
   
   const platformName = getPlatformName(contest.platform);
   const timeUntil = getTimeUntil(contest.start);
   
   card.innerHTML = `
     <div class="contest-header">
-      <span class="contest-platform">${platformName}</span>
-      <span class="contest-date">${contest.startDate}</span>
+      <span class="contest-platform">${escapeHtml(platformName)}</span>
+      <span class="contest-date">${escapeHtml(contest.startDate)}</span>
     </div>
     <div class="contest-name">${escapeHtml(contest.name)}</div>
     <div class="contest-time">
-      <span> ${contest.startTime}</span>
-      <span> ${timeUntil}</span>
+      <span> ${escapeHtml(contest.startTime)}</span>
+      <span> ${escapeHtml(timeUntil)}</span>
     </div>
   `;
   
