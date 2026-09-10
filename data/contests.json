@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T13:56:55Z",
+  "lastUpdated": "2026-09-10T17:57:29Z",
   "count": 143,
   "contests": [
     {
@@ -130,8 +130,8 @@
       "href": "https://www.kaggle.com/competitions/kaggriculture",
       "id": 69223579,
       "n_problems": null,
-      "n_statistics": 8429,
-      "parsed_at": "2026-09-10T02:04:08.944062",
+      "n_statistics": 8539,
+      "parsed_at": "2026-09-10T17:02:10.184954",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -190,8 +190,8 @@
       "href": "https://www.codingame.com/contests/summer-challenge-2026-back-track-king",
       "id": 69509854,
       "n_problems": null,
-      "n_statistics": 1031,
-      "parsed_at": "2026-09-10T13:54:10.529376",
+      "n_statistics": 1054,
+      "parsed_at": "2026-09-10T17:48:10.697932",
       "problems": null,
       "resource": "codingame.com",
       "resource_id": 81,
@@ -221,26 +221,11 @@
       "id": 70272427,
       "n_problems": 8,
       "n_statistics": 26,
-      "parsed_at": "2026-09-10T03:03:10.718038",
+      "parsed_at": "2026-09-10T14:16:09.323271",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
       "start": "2026-09-09T09:50:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-09-10T17:01:00",
-      "event": "Weekly Contest 247",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/weekly-contest-247",
-      "id": 70127938,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-09-10T15:01:00"
     },
     {
       "duration": 172800,
@@ -305,7 +290,7 @@
     {
       "duration": 14400,
       "end": "2026-09-12T04:00:00",
-      "event": "『LBA-OI』Round 5——奶龙牛来，欢乐开怀！ [ioi]",
+      "event": "『LBA-OI』Round 5 [ioi]",
       "host": "luogu.com.cn",
       "href": "https://www.luogu.com.cn/contest/310534",
       "id": 70302290,
@@ -661,6 +646,21 @@
       "resource": "tlx.toki.id",
       "resource_id": 103,
       "start": "2026-09-17T07:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-09-17T17:01:00",
+      "event": "Weekly Contest 248",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/weekly-contest-248",
+      "id": 70308652,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-09-17T15:01:00"
     },
     {
       "duration": 14400,
