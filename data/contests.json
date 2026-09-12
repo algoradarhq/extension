@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-12T02:12:22Z",
-  "count": 146,
+  "lastUpdated": "2026-09-12T08:56:09Z",
+  "count": 145,
   "contests": [
     {
       "duration": 31536000,
@@ -80,7 +80,7 @@
     {
       "duration": 7736340,
       "end": "2026-09-13T23:59:00",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Strategy [reinforcement learning, games, artificial intelligence]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Strategy [games, artificial intelligence, reinforcement learning]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle-challenge-strategy",
       "id": 68321437,
@@ -95,7 +95,7 @@
     {
       "duration": 7966667,
       "end": "2026-09-29T23:59:00",
-      "event": "Biohub - Cell Tracking During Development [object detection, computer vision, biology, video, image, custom metric]",
+      "event": "Biohub - Cell Tracking During Development [biology, computer vision, image, video, object detection, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
       "id": 68560017,
@@ -140,7 +140,7 @@
     {
       "duration": 6768449,
       "end": "2026-10-22T23:59:00",
-      "event": "RSNA Knee Abnormality Detection [image, text, medicine, computer vision, image classification, roc auc score]",
+      "event": "RSNA Knee Abnormality Detection [medicine, computer vision, image, text, image classification, roc auc score]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection",
       "id": 69383566,
@@ -175,8 +175,8 @@
       "href": "https://basecamp.eolymp.com/contests/0lpj91qej958ndgva7u2bh26f0",
       "id": 70179175,
       "n_problems": 9,
-      "n_statistics": 16,
-      "parsed_at": "2026-09-11T20:05:08.817104",
+      "n_statistics": 17,
+      "parsed_at": "2026-09-12T06:53:09.212375",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -190,8 +190,8 @@
       "href": "https://www.codingame.com/contests/summer-challenge-2026-back-track-king",
       "id": 69509854,
       "n_problems": null,
-      "n_statistics": 1175,
-      "parsed_at": "2026-09-12T01:52:08.968042",
+      "n_statistics": 1185,
+      "parsed_at": "2026-09-12T08:48:09.684475",
       "problems": null,
       "resource": "codingame.com",
       "resource_id": 81,
@@ -271,21 +271,6 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-09-11T18:30:25"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-09-12T04:00:00",
-      "event": "『LBA-OI』Round 5 [ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/310534",
-      "id": 70302290,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-09-12T00:00:00"
     },
     {
       "duration": 12600,
