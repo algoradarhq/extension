@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T19:41:03Z",
+  "lastUpdated": "2026-09-14T22:51:16Z",
   "count": 145,
   "contests": [
     {
@@ -130,8 +130,8 @@
       "href": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection",
       "id": 69383566,
       "n_problems": null,
-      "n_statistics": 3703,
-      "parsed_at": "2026-09-14T03:44:08.606133",
+      "n_statistics": 3750,
+      "parsed_at": "2026-09-14T22:33:09.184918",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -160,8 +160,8 @@
       "href": "https://www.codingame.com/contests/summer-challenge-2026-back-track-king",
       "id": 69509854,
       "n_problems": null,
-      "n_statistics": 1362,
-      "parsed_at": "2026-09-14T19:18:09.450390",
+      "n_statistics": 1371,
+      "parsed_at": "2026-09-14T22:46:09.106560",
       "problems": null,
       "resource": "codingame.com",
       "resource_id": 81,
@@ -206,7 +206,7 @@
       "id": 70354633,
       "n_problems": null,
       "n_statistics": null,
-      "parsed_at": "2026-09-14T11:00:14.516105",
+      "parsed_at": "2026-09-14T21:37:09.959522",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
