@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T19:48:47Z",
+  "lastUpdated": "2026-09-21T22:55:27Z",
   "count": 155,
   "contests": [
     {
@@ -100,8 +100,8 @@
       "href": "https://www.kaggle.com/competitions/kaggriculture",
       "id": 69223579,
       "n_problems": null,
-      "n_statistics": 9695,
-      "parsed_at": "2026-09-21T07:28:08.964712",
+      "n_statistics": 9766,
+      "parsed_at": "2026-09-21T22:26:08.823384",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -365,7 +365,7 @@
     {
       "duration": 7200,
       "end": "2026-09-25T16:35:00",
-      "event": "Codeforces Round (Div. 2)",
+      "event": "Codeforces Round 1123 (Div. 2)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2267",
       "id": 70430873,
