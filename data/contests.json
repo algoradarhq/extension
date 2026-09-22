@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T14:14:59Z",
+  "lastUpdated": "2026-09-22T18:24:49Z",
   "count": 165,
   "contests": [
     {
@@ -130,8 +130,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e9",
       "id": 70060647,
       "n_problems": null,
-      "n_statistics": 2674,
-      "parsed_at": "2026-09-22T07:09:09.681345",
+      "n_statistics": 2698,
+      "parsed_at": "2026-09-22T14:22:09.768729",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
