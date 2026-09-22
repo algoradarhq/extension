@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-22T02:28:44Z",
-  "count": 155,
+  "lastUpdated": "2026-09-22T09:33:43Z",
+  "count": 156,
   "contests": [
     {
       "duration": 31536000,
@@ -130,8 +130,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e9",
       "id": 70060647,
       "n_problems": null,
-      "n_statistics": 2646,
-      "parsed_at": "2026-09-21T23:56:09.584666",
+      "n_statistics": 2674,
+      "parsed_at": "2026-09-22T07:09:09.681345",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -1696,6 +1696,21 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-10-17T14:35:00"
+    },
+    {
+      "duration": 12600,
+      "end": "2026-10-18T04:00:00",
+      "event": "【LGR-308】SCP 2026 第二轮（复赛 J 组）模拟 [rated, oi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/264620",
+      "id": 70622721,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-10-18T00:30:00"
     },
     {
       "duration": 25200,
