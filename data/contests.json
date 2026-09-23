@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-23T02:28:53Z",
-  "count": 166,
+  "lastUpdated": "2026-09-23T09:38:29Z",
+  "count": 169,
   "contests": [
     {
       "duration": 31536000,
@@ -100,8 +100,8 @@
       "href": "https://www.kaggle.com/competitions/kaggriculture",
       "id": 69223579,
       "n_problems": null,
-      "n_statistics": 9809,
-      "parsed_at": "2026-09-22T13:24:09.672638",
+      "n_statistics": 9863,
+      "parsed_at": "2026-09-23T04:22:08.416294",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -130,8 +130,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e9",
       "id": 70060647,
       "n_problems": null,
-      "n_statistics": 2727,
-      "parsed_at": "2026-09-22T21:35:08.840770",
+      "n_statistics": 2745,
+      "parsed_at": "2026-09-23T04:48:10.870354",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -181,6 +181,21 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-09-21T07:00:00"
+    },
+    {
+      "duration": 568740,
+      "end": "2026-09-29T20:59:00",
+      "event": "Углублённые рекомендательные системы (дубликат). ДЗ по теме Нейронные сети для ранжирования",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1749",
+      "id": 66788154,
+      "n_problems": 0,
+      "n_statistics": 1,
+      "parsed_at": "2026-04-28T05:11:06.561956",
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-09-23T07:00:00"
     },
     {
       "duration": 7200,
@@ -378,6 +393,21 @@
       "start": "2026-09-25T14:35:00"
     },
     {
+      "duration": 181709,
+      "end": "2026-09-27T20:59:00",
+      "event": "Placement Prep Weekends - 09",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/PLACEPREP09",
+      "id": 70653952,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-09-25T18:30:31"
+    },
+    {
       "duration": 129600,
       "end": "2026-09-27T15:30:00",
       "event": "H7CTF 2026 Quals",
@@ -541,6 +571,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-09-26T22:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-09-27T03:00:00",
+      "event": "COMPFEST 18 Final Mirror (Rated)",
+      "host": "tlx.toki.id",
+      "href": "https://tlx.toki.id/contests/compfest-18-scpc-final-mirror",
+      "id": 70652548,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "tlx.toki.id",
+      "resource_id": 103,
+      "start": "2026-09-27T00:00:00"
     },
     {
       "duration": 5400,
@@ -961,6 +1006,21 @@
       "resource": "acm.bsu.by",
       "resource_id": 97,
       "start": "2026-09-28T13:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-09-28T16:30:00",
+      "event": "Monday Munch - DSA Challenge 022 (Rated)",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DSAMONDAY022",
+      "id": 70656008,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-09-28T13:30:00"
     },
     {
       "duration": 18000,
@@ -1399,6 +1459,21 @@
     },
     {
       "duration": 7200,
+      "end": "2026-10-04T13:00:00",
+      "event": "牛客周赛 Round 164 [IOI]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/141142",
+      "id": 70628018,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-10-04T11:00:00"
+    },
+    {
+      "duration": 7200,
       "end": "2026-10-04T14:00:00",
       "event": "AtCoder Regular Contest 231",
       "host": "atcoder.jp",
@@ -1666,21 +1741,6 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-10-11T04:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-10-11T13:00:00",
-      "event": "牛客周赛 Round 164 [IOI]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/141142",
-      "id": 70628018,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-10-11T11:00:00"
     },
     {
       "duration": 6000,
@@ -2296,21 +2356,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-11-20T18:00:00"
-    },
-    {
-      "duration": 172800,
-      "end": "2026-11-22T21:00:00",
-      "event": "SwampCTF 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3118/",
-      "id": 67092513,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-11-20T21:00:00"
     },
     {
       "duration": 86400,
