@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-22T22:32:12Z",
-  "count": 167,
+  "lastUpdated": "2026-09-23T02:28:53Z",
+  "count": 166,
   "contests": [
     {
       "duration": 31536000,
@@ -160,8 +160,8 @@
       "href": "https://basecamp.eolymp.com/contests/589o2ah61h46l3oh4gbdavjp8g",
       "id": 70547918,
       "n_problems": 12,
-      "n_statistics": 16,
-      "parsed_at": "2026-09-22T12:25:08.210294",
+      "n_statistics": 20,
+      "parsed_at": "2026-09-22T23:33:08.929109",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -175,8 +175,8 @@
       "href": "https://cups.online/rounds/1804",
       "id": 68505129,
       "n_problems": 6,
-      "n_statistics": 2524,
-      "parsed_at": "2026-09-22T13:02:09.447052",
+      "n_statistics": 2884,
+      "parsed_at": "2026-09-23T01:03:09.583643",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -946,21 +946,6 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-09-28T07:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-09-28T16:00:00",
-      "event": "XIX командный чемпионат школьников (отбор)",
-      "host": "acm.bsu.by",
-      "href": "https://acm.bsu.by/contests/287/standings/",
-      "id": 70639104,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "acm.bsu.by",
-      "resource_id": 97,
-      "start": "2026-09-28T13:00:00"
     },
     {
       "duration": 10800,
