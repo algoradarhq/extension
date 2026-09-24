@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T14:31:20Z",
+  "lastUpdated": "2026-09-24T18:44:44Z",
   "count": 172,
   "contests": [
     {
@@ -85,8 +85,8 @@
       "href": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
       "id": 68560017,
       "n_problems": null,
-      "n_statistics": 3846,
-      "parsed_at": "2026-09-23T19:29:09.068064",
+      "n_statistics": 3873,
+      "parsed_at": "2026-09-24T17:37:09.336048",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -130,8 +130,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e9",
       "id": 70060647,
       "n_problems": null,
-      "n_statistics": 2854,
-      "parsed_at": "2026-09-24T09:40:08.982617",
+      "n_statistics": 2897,
+      "parsed_at": "2026-09-24T16:53:08.254953",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -226,21 +226,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-09-23T15:15:22"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-09-24T17:01:00",
-      "event": "Weekly Contest 249",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/weekly-contest-249",
-      "id": 70494642,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-09-24T15:01:00"
     },
     {
       "duration": 102600,
@@ -1143,6 +1128,21 @@
       "start": "2026-10-01T06:00:00"
     },
     {
+      "duration": 7200,
+      "end": "2026-10-01T17:01:00",
+      "event": "Weekly Contest 250",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/weekly-contest-250",
+      "id": 70693928,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-10-01T15:01:00"
+    },
+    {
       "duration": 18000,
       "end": "2026-10-02T09:00:00",
       "event": "2026牛客国庆集训派对day2 [ACM]",
@@ -1775,7 +1775,7 @@
     {
       "duration": 18000,
       "end": "2026-10-11T13:00:00",
-      "event": "The 2026 ICPC Belarus Qualification",
+      "event": "The 2026 ICPC Belarus Qualification [https://acm.bsu.by/events/icpc2026]",
       "host": "acm.bsu.by",
       "href": "https://acm.bsu.by/contests/288/standings/",
       "id": 70687420,
