@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T19:01:59Z",
+  "lastUpdated": "2026-09-25T22:57:55Z",
   "count": 169,
   "contests": [
     {
@@ -95,7 +95,7 @@
     {
       "duration": 7966667,
       "end": "2026-09-29T23:59:00",
-      "event": "Biohub - Cell Tracking During Development [biology, computer vision, image, video, object detection, custom metric]",
+      "event": "Biohub - Cell Tracking During Development [object detection, biology, computer vision, video, image, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
       "id": 68560017,
@@ -125,13 +125,13 @@
     {
       "duration": 6768449,
       "end": "2026-10-22T23:59:00",
-      "event": "RSNA Knee Abnormality Detection [medicine, computer vision, image, text, image classification, roc auc score]",
+      "event": "RSNA Knee Abnormality Detection [image, text, computer vision, medicine, image classification, roc auc score]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection",
       "id": 69383566,
       "n_problems": null,
-      "n_statistics": 4305,
-      "parsed_at": "2026-09-25T03:10:08.476737",
+      "n_statistics": 4353,
+      "parsed_at": "2026-09-25T21:59:08.758330",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -145,8 +145,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e9",
       "id": 70060647,
       "n_problems": null,
-      "n_statistics": 2977,
-      "parsed_at": "2026-09-25T14:32:08.903748",
+      "n_statistics": 3006,
+      "parsed_at": "2026-09-25T21:45:12.440729",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -215,13 +215,13 @@
     {
       "duration": 6083593,
       "end": "2026-12-02T23:59:00",
-      "event": "Google - The Gemma 4 Developer Agent Competition [artificial intelligence, coding, custom metric]",
+      "event": "Google - The Gemma 4 Developer Agent Competition [coding, artificial intelligence, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
       "id": 70662440,
       "n_problems": null,
-      "n_statistics": 122,
-      "parsed_at": "2026-09-25T05:55:09.437339",
+      "n_statistics": 290,
+      "parsed_at": "2026-09-25T22:50:08.708147",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -1158,21 +1158,6 @@
       "start": "2026-10-03T06:00:00"
     },
     {
-      "duration": 18000,
-      "end": "2026-10-03T13:00:00",
-      "event": "Turkish Programming Contest'26 Qualification Round - For High Schools (unrated, icpc, individual)",
-      "host": "algoleague.com",
-      "href": "https://algoleague.com/contest/turkish-programming-contest26-qualification-round-for-high-schools/",
-      "id": 70276470,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "algoleague.com",
-      "resource_id": 170,
-      "start": "2026-10-03T08:00:00"
-    },
-    {
       "duration": 129600,
       "end": "2026-10-04T21:00:00",
       "event": "Securinets CTF Quals 2026",
@@ -1396,6 +1381,21 @@
       "resource": "acmp.ru",
       "resource_id": 5,
       "start": "2026-10-04T07:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-10-04T13:00:00",
+      "event": "Turkish Programming Contest'26 Qualification Round - For High Schools (unrated, icpc, individual)",
+      "host": "algoleague.com",
+      "href": "https://algoleague.com/contest/turkish-programming-contest26-qualification-round-for-high-schools/",
+      "id": 70276470,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "algoleague.com",
+      "resource_id": 170,
+      "start": "2026-10-04T08:00:00"
     },
     {
       "duration": 5400,
