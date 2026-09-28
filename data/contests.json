@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-28T11:19:54Z",
-  "count": 149,
+  "lastUpdated": "2026-09-28T20:55:33Z",
+  "count": 147,
   "contests": [
     {
       "duration": 31536000,
@@ -40,8 +40,8 @@
       "href": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2",
       "id": 66453357,
       "n_problems": null,
-      "n_statistics": 2194,
-      "parsed_at": "2026-09-26T11:44:09.081430",
+      "n_statistics": 2223,
+      "parsed_at": "2026-09-28T17:05:09.687556",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -55,8 +55,8 @@
       "href": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
       "id": 66453356,
       "n_problems": null,
-      "n_statistics": 3321,
-      "parsed_at": "2026-09-26T11:45:10.356296",
+      "n_statistics": 3423,
+      "parsed_at": "2026-09-28T17:06:09.875020",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -115,8 +115,8 @@
       "href": "https://www.kaggle.com/competitions/kaggriculture",
       "id": 69223579,
       "n_problems": null,
-      "n_statistics": 10085,
-      "parsed_at": "2026-09-28T04:06:09.470798",
+      "n_statistics": 10116,
+      "parsed_at": "2026-09-28T19:04:09.344995",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -145,8 +145,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e9",
       "id": 70060647,
       "n_problems": null,
-      "n_statistics": 3259,
-      "parsed_at": "2026-09-28T07:29:08.717038",
+      "n_statistics": 3299,
+      "parsed_at": "2026-09-28T14:42:09.305493",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -175,8 +175,8 @@
       "href": "https://cups.online/rounds/1804",
       "id": 68505129,
       "n_problems": 6,
-      "n_statistics": 12099,
-      "parsed_at": "2026-09-28T01:13:09.056276",
+      "n_statistics": 14224,
+      "parsed_at": "2026-09-28T13:14:08.587331",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -205,8 +205,8 @@
       "href": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
       "id": 70662440,
       "n_problems": null,
-      "n_statistics": 682,
-      "parsed_at": "2026-09-28T01:33:09.619804",
+      "n_statistics": 772,
+      "parsed_at": "2026-09-28T18:27:09.855890",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -243,21 +243,6 @@
       "start": "2026-09-25T10:10:00"
     },
     {
-      "duration": 172800,
-      "end": "2026-09-28T14:00:00",
-      "event": "SunshineCTF 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3399/",
-      "id": 69560708,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-09-26T14:00:00"
-    },
-    {
       "duration": 572340,
       "end": "2026-10-04T19:59:00",
       "event": "USACO 2016 January",
@@ -288,8 +273,8 @@
       "start": "2026-09-28T06:00:00"
     },
     {
-      "duration": 745140,
-      "end": "2026-10-06T20:59:00",
+      "duration": 658740,
+      "end": "2026-10-05T20:59:00",
       "event": "Выходи решать!. Физика (5-7 класс)",
       "host": "cups.online",
       "href": "https://cups.online/rounds/1735",
@@ -408,8 +393,8 @@
       "start": "2026-09-28T06:00:00"
     },
     {
-      "duration": 1004340,
-      "end": "2026-10-09T20:59:00",
+      "duration": 2390340,
+      "end": "2026-10-25T21:59:00",
       "event": "Хакатон «Формула выбора» 2026. Трек «Новички»",
       "host": "cups.online",
       "href": "https://cups.online/rounds/1811",
@@ -423,8 +408,8 @@
       "start": "2026-09-28T06:00:00"
     },
     {
-      "duration": 1004340,
-      "end": "2026-10-09T20:59:00",
+      "duration": 2390340,
+      "end": "2026-10-25T21:59:00",
       "event": "Хакатон «Формула выбора» 2026. Трек «Продвинутые»",
       "host": "cups.online",
       "href": "https://cups.online/rounds/1812",
@@ -438,8 +423,8 @@
       "start": "2026-09-28T06:00:00"
     },
     {
-      "duration": 1004340,
-      "end": "2026-10-09T20:59:00",
+      "duration": 2390340,
+      "end": "2026-10-25T21:59:00",
       "event": "Хакатон «Формула выбора» 2026. Трек «СПО»",
       "host": "cups.online",
       "href": "https://cups.online/rounds/1813",
@@ -513,36 +498,6 @@
       "start": "2026-09-28T06:00:00"
     },
     {
-      "duration": 10800,
-      "end": "2026-09-28T16:00:00",
-      "event": "XIX командный чемпионат школьников (отбор) // uni.bsu.by/arrangements/progr_team",
-      "host": "acm.bsu.by",
-      "href": "https://acm.bsu.by/contests/289/standings/",
-      "id": 70640174,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "acm.bsu.by",
-      "resource_id": 97,
-      "start": "2026-09-28T13:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-09-28T16:30:00",
-      "event": "Monday Munch - DSA Challenge 022 (Rated)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DSAMONDAY022",
-      "id": 70656008,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-09-28T13:30:00"
-    },
-    {
       "duration": 18000,
       "end": "2026-09-29T10:00:00",
       "event": "华东理工大学 2026 年程序设计竞赛秋季校赛（同步赛） [guzhi, icpc, squad]",
@@ -556,6 +511,21 @@
       "resource": "luogu.com.cn",
       "resource_id": 162,
       "start": "2026-09-29T05:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-09-29T17:00:00",
+      "event": "Индивидуальные тренировки 2026. День 23",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/100300/enter/?retPage=",
+      "id": 70808090,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-09-29T12:00:00"
     },
     {
       "duration": 9000,
@@ -618,21 +588,6 @@
       "start": "2026-09-30T14:30:00"
     },
     {
-      "duration": 5460,
-      "end": "2026-09-30T17:01:00",
-      "event": "Beginner Contest 122",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/beginner-contest-122",
-      "id": 70467595,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-09-30T15:30:00"
-    },
-    {
       "duration": 18000,
       "end": "2026-10-01T09:00:00",
       "event": "2026牛客国庆集训派对day1 [ACM]",
@@ -676,6 +631,21 @@
       "resource": "naukri.com/code360",
       "resource_id": 136,
       "start": "2026-10-01T15:01:00"
+    },
+    {
+      "duration": 5460,
+      "end": "2026-10-01T17:01:00",
+      "event": "Beginner Contest 122",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/beginner-contest-122",
+      "id": 70467595,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-10-01T15:30:00"
     },
     {
       "duration": 18000,
@@ -1265,7 +1235,7 @@
     {
       "duration": 10800,
       "end": "2026-10-10T18:05:00",
-      "event": "Codeforces Round (Div. 1 + Div. 2)",
+      "event": "DeepInfra Round 1 (Codeforces Round, Div. 1 + Div. 2)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2271",
       "id": 70471347,
