@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-29T19:42:29Z",
-  "count": 154,
+  "lastUpdated": "2026-09-29T23:17:05Z",
+  "count": 153,
   "contests": [
     {
       "duration": 31536000,
@@ -130,8 +130,8 @@
       "href": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection",
       "id": 69383566,
       "n_problems": null,
-      "n_statistics": 4534,
-      "parsed_at": "2026-09-29T01:15:12.618555",
+      "n_statistics": 4576,
+      "parsed_at": "2026-09-29T20:04:08.820756",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -181,21 +181,6 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-09-21T07:00:00"
-    },
-    {
-      "duration": 568740,
-      "end": "2026-09-29T20:59:00",
-      "event": "Углублённые рекомендательные системы (дубликат). ДЗ по теме Нейронные сети для ранжирования",
-      "host": "cups.online",
-      "href": "https://cups.online/rounds/1749",
-      "id": 66788154,
-      "n_problems": 0,
-      "n_statistics": 1,
-      "parsed_at": "2026-04-28T05:11:06.561956",
-      "problems": null,
-      "resource": "cups.online",
-      "resource_id": 138,
-      "start": "2026-09-23T07:00:00"
     },
     {
       "duration": 6083593,
@@ -249,9 +234,9 @@
       "host": "dmoj.ca",
       "href": "https://dmoj.ca/contest/waterloo2026f",
       "id": 70812215,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 5,
+      "n_statistics": 4,
+      "parsed_at": "2026-09-29T19:55:09.918213",
       "problems": null,
       "resource": "dmoj.ca",
       "resource_id": 77,
