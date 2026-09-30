@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-30T19:43:49Z",
-  "count": 155,
+  "lastUpdated": "2026-09-30T23:19:18Z",
+  "count": 156,
   "contests": [
     {
       "duration": 31536000,
@@ -40,8 +40,8 @@
       "href": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2",
       "id": 66453357,
       "n_problems": null,
-      "n_statistics": 2223,
-      "parsed_at": "2026-09-28T17:05:09.687556",
+      "n_statistics": 2263,
+      "parsed_at": "2026-09-30T22:26:09.609515",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -55,8 +55,8 @@
       "href": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
       "id": 66453356,
       "n_problems": null,
-      "n_statistics": 3423,
-      "parsed_at": "2026-09-28T17:06:09.875020",
+      "n_statistics": 3492,
+      "parsed_at": "2026-09-30T22:27:09.383354",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -175,8 +175,8 @@
       "href": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
       "id": 70662440,
       "n_problems": null,
-      "n_statistics": 1018,
-      "parsed_at": "2026-09-30T04:15:11.276069",
+      "n_statistics": 1136,
+      "parsed_at": "2026-09-30T21:10:09.692344",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -511,6 +511,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-09-30T06:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-10-01T01:30:00",
+      "event": "UTPC Contest 9-30-2026. UTPC_Admin",
+      "host": "codeforces.com/gyms",
+      "href": "https://codeforces.com/gym/106733",
+      "id": 70867564,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com/gyms",
+      "resource_id": 64,
+      "start": "2026-09-30T23:30:00"
     },
     {
       "duration": 18000,
