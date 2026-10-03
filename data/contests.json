@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-03T18:26:07Z",
-  "count": 156,
+  "lastUpdated": "2026-10-03T22:32:52Z",
+  "count": 154,
   "contests": [
     {
       "duration": 31536000,
@@ -76,21 +76,6 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-04-13T07:38:14"
-    },
-    {
-      "duration": 8726400,
-      "end": "2026-10-03T18:49:57",
-      "event": "Testing Approx Problems",
-      "host": "repovive.com",
-      "href": "https://repovive.com/contests",
-      "id": 70697634,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "repovive.com",
-      "resource_id": 180,
-      "start": "2026-06-24T18:49:57"
     },
     {
       "duration": 6594188,
@@ -574,36 +559,6 @@
     },
     {
       "duration": 43200,
-      "end": "2026-10-03T21:00:00",
-      "event": "ALPOC'26 - Qualification Round (unrated, icpc, team)",
-      "host": "algoleague.com",
-      "href": "https://algoleague.com/contest/alpoc26-qualification-round-2/",
-      "id": 70434115,
-      "n_problems": 12,
-      "n_statistics": 45,
-      "parsed_at": "2026-10-03T18:16:09.430899",
-      "problems": null,
-      "resource": "algoleague.com",
-      "resource_id": 170,
-      "start": "2026-10-03T09:00:00"
-    },
-    {
-      "duration": 28800,
-      "end": "2026-10-03T22:00:00",
-      "event": "CubeCTF 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3352/",
-      "id": 69189776,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-10-03T14:00:00"
-    },
-    {
-      "duration": 43200,
       "end": "2026-10-04T03:00:00",
       "event": "CDCTF 2026",
       "host": "ctftime.org",
@@ -1006,6 +961,21 @@
       "resource": "uoj.ac",
       "resource_id": 172,
       "start": "2026-10-06T10:00:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2026-10-06T17:05:00",
+      "event": "Repovive Math Contest Round 1",
+      "host": "repovive.com",
+      "href": "https://repovive.com/contests",
+      "id": 70950441,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "repovive.com",
+      "resource_id": 180,
+      "start": "2026-10-06T14:35:00"
     },
     {
       "duration": 18000,
