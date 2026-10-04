@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-04T18:28:19Z",
-  "count": 140,
+  "lastUpdated": "2026-10-04T22:36:52Z",
+  "count": 139,
   "contests": [
     {
       "duration": 31536000,
@@ -85,8 +85,8 @@
       "href": "https://www.kaggle.com/competitions/kaggriculture",
       "id": 69223579,
       "n_problems": null,
-      "n_statistics": 10225,
-      "parsed_at": "2026-10-04T02:10:09.712595",
+      "n_statistics": 10224,
+      "parsed_at": "2026-10-04T20:30:12.246652",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -140,7 +140,7 @@
     {
       "duration": 6083593,
       "end": "2026-12-02T23:59:00",
-      "event": "Google - The Gemma 4 Developer Agent Competition [artificial intelligence, coding, custom metric]",
+      "event": "Google - The Gemma 4 Developer Agent Competition [coding, artificial intelligence, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
       "id": 70662440,
@@ -196,21 +196,6 @@
       "resource": "dmoj.ca",
       "resource_id": 77,
       "start": "2026-09-28T04:00:00"
-    },
-    {
-      "duration": 572340,
-      "end": "2026-10-04T19:59:00",
-      "event": "USACO 2016 January",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/tamflhif9t5afal2sld5grmun8",
-      "id": 70746853,
-      "n_problems": 12,
-      "n_statistics": 22,
-      "parsed_at": "2026-10-04T15:28:10.086649",
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-09-28T05:00:00"
     },
     {
       "duration": 658740,
@@ -455,7 +440,7 @@
     {
       "duration": 8810939,
       "end": "2027-01-08T23:59:59",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Playground [games, artificial intelligence, reinforcement learning, custom metric]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Playground [reinforcement learning, games, artificial intelligence, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground",
       "id": 70816390,
@@ -496,21 +481,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-10-01T00:00:00"
-    },
-    {
-      "duration": 179908,
-      "end": "2026-10-04T20:29:00",
-      "event": "Placement Prep Weekends - 10",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/PLACEPREP10",
-      "id": 70831805,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-10-02T18:30:32"
     },
     {
       "duration": 18000,
@@ -1299,6 +1269,21 @@
       "host": "ctftime.org",
       "href": "https://ctftime.org/event/3364/",
       "id": 68834290,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-10-17T09:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-10-18T09:00:00",
+      "event": "SOLAR CTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3471/",
+      "id": 70978745,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
