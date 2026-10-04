@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-03T22:32:52Z",
-  "count": 154,
+  "lastUpdated": "2026-10-04T03:27:24Z",
+  "count": 155,
   "contests": [
     {
       "duration": 31536000,
@@ -86,7 +86,7 @@
       "id": 69223579,
       "n_problems": null,
       "n_statistics": 10225,
-      "parsed_at": "2026-10-03T07:50:09.482710",
+      "parsed_at": "2026-10-04T02:10:09.712595",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -356,7 +356,7 @@
       "id": 70400293,
       "n_problems": 0,
       "n_statistics": 23,
-      "parsed_at": "2026-10-03T00:18:27.884253",
+      "parsed_at": "2026-10-04T00:23:08.532089",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -490,8 +490,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e10",
       "id": 70871814,
       "n_problems": null,
-      "n_statistics": 548,
-      "parsed_at": "2026-10-03T17:36:09.160792",
+      "n_statistics": 587,
+      "parsed_at": "2026-10-04T01:03:11.014576",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -528,21 +528,6 @@
       "start": "2026-10-02T18:30:32"
     },
     {
-      "duration": 18000,
-      "end": "2026-10-03T23:00:00",
-      "event": "The 5th Universal Cup. Stage 3: Gorkovskaya",
-      "host": "ucup.ac",
-      "href": "https://ucup.ac/",
-      "id": 70566587,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ucup.ac",
-      "resource_id": 139,
-      "start": "2026-10-03T05:00:00"
-    },
-    {
       "duration": 86400,
       "end": "2026-10-04T05:30:00",
       "event": "Lun4R CTF Final",
@@ -556,51 +541,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-10-03T05:30:00"
-    },
-    {
-      "duration": 43200,
-      "end": "2026-10-04T03:00:00",
-      "event": "CDCTF 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3293/",
-      "id": 68006325,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-10-03T15:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-10-03T23:00:00",
-      "event": "ICPC North America Qualifier 2026",
-      "host": "naq26.kattis.com",
-      "href": "https://naq26.kattis.com/contests/naq26",
-      "id": 70448702,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kattis.com",
-      "resource_id": 168,
-      "start": "2026-10-03T18:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-10-04T00:00:00",
-      "event": "XL Maratón Nacional de Programación Colombia",
-      "host": "uva.onlinejudge.org",
-      "href": "https://onlinejudge.org/index.php?option=com_onlinejudge&amp;Itemid=12&amp;page=show_contest&amp;contest=388",
-      "id": 70926931,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "uva.onlinejudge.org",
-      "resource_id": 3,
-      "start": "2026-10-03T19:00:00"
     },
     {
       "duration": 12600,
@@ -618,30 +558,15 @@
       "start": "2026-10-04T00:30:00"
     },
     {
-      "duration": 0,
-      "end": "2026-10-04T01:00:00",
-      "event": "Problem 1012",
-      "host": "projecteuler.net",
-      "href": "https://projecteuler.net/news",
-      "id": 70391247,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "projecteuler.net",
-      "resource_id": 65,
-      "start": "2026-10-04T01:00:00"
-    },
-    {
       "duration": 5400,
       "end": "2026-10-04T04:00:00",
       "event": "Weekly Contest 522",
       "host": "leetcode.com",
       "href": "https://leetcode.com/contest/weekly-contest-522",
       "id": 70563386,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 4,
+      "n_statistics": 15880,
+      "parsed_at": "2026-10-04T03:07:07.963733",
       "problems": null,
       "resource": "leetcode.com",
       "resource_id": 102,
@@ -1713,6 +1638,21 @@
       "start": "2026-10-20T03:00:00"
     },
     {
+      "duration": 172800,
+      "end": "2026-10-25T00:30:00",
+      "event": "cruXipher 2026 - ATMoS '26, BITS Hyderabad",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3369/",
+      "id": 70958094,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-10-23T00:30:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-10-23T10:00:00",
       "event": "Cloudflight Coding Contest #school",
@@ -1848,6 +1788,21 @@
       "start": "2026-10-24T12:30:00"
     },
     {
+      "duration": 86400,
+      "end": "2026-10-25T18:30:00",
+      "event": "VOID CTF Qualifiers",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3468/",
+      "id": 70958093,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-10-24T18:30:00"
+    },
+    {
       "duration": 25200,
       "end": "2026-10-25T11:00:00",
       "event": "Программирование - профессионалы (ком. 2026)",
@@ -1936,6 +1891,36 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-10-30T14:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-11-01T02:00:00",
+      "event": "2026 Qiangwang Challenge on Cyber Mimic Defense Qualification",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3459/",
+      "id": 70958092,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-10-31T02:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-11-01T09:00:00",
+      "event": "Russian CTF Cup X Qualifier",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3469/",
+      "id": 70954644,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-10-31T09:00:00"
     },
     {
       "duration": 25200,
@@ -2043,6 +2028,21 @@
       "start": "2026-11-06T18:15:00"
     },
     {
+      "duration": 86400,
+      "end": "2026-11-08T12:00:00",
+      "event": "Mimic",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3455/",
+      "id": 70954643,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-11-07T12:00:00"
+    },
+    {
       "duration": 25200,
       "end": "2026-11-08T11:00:00",
       "event": "Программирование - профессионалы (ком. 2026)",
@@ -2073,21 +2073,6 @@
       "start": "2026-11-12T17:00:00"
     },
     {
-      "duration": 34200,
-      "end": "2026-11-14T10:00:00",
-      "event": "International Battle of Hackers 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3390/",
-      "id": 70499287,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-11-14T00:30:00"
-    },
-    {
       "duration": 18000,
       "end": "2026-11-14T17:00:00",
       "event": "Интернет-олимпиада",
@@ -2101,6 +2086,21 @@
       "resource": "nerc.itmo.ru/school",
       "resource_id": 11,
       "start": "2026-11-14T12:00:00"
+    },
+    {
+      "duration": 28800,
+      "end": "2026-11-14T23:30:00",
+      "event": "InIt CTF",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3467/",
+      "id": 70954642,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-11-14T15:30:00"
     },
     {
       "duration": 25200,
@@ -2311,6 +2311,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-12-27T14:00:00"
+    },
+    {
+      "duration": 82800,
+      "end": "2027-03-14T16:00:00",
+      "event": "JerseyCTF VII",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3458/",
+      "id": 70954641,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2027-03-13T17:00:00"
     }
   ]
 }
