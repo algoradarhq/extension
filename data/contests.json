@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-04T22:36:52Z",
-  "count": 139,
+  "lastUpdated": "2026-10-05T03:06:03Z",
+  "count": 140,
   "contests": [
     {
       "duration": 31536000,
@@ -140,13 +140,13 @@
     {
       "duration": 6083593,
       "end": "2026-12-02T23:59:00",
-      "event": "Google - The Gemma 4 Developer Agent Competition [coding, artificial intelligence, custom metric]",
+      "event": "Google - The Gemma 4 Developer Agent Competition [artificial intelligence, coding, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
       "id": 70662440,
       "n_problems": null,
-      "n_statistics": 1656,
-      "parsed_at": "2026-10-04T09:41:09.668404",
+      "n_statistics": 1744,
+      "parsed_at": "2026-10-05T02:35:10.069797",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -340,8 +340,8 @@
       "href": "https://cups.online/rounds/1811",
       "id": 70400293,
       "n_problems": 0,
-      "n_statistics": 23,
-      "parsed_at": "2026-10-04T00:23:08.532089",
+      "n_statistics": 25,
+      "parsed_at": "2026-10-05T00:27:10.132261",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -440,7 +440,7 @@
     {
       "duration": 8810939,
       "end": "2027-01-08T23:59:59",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Playground [reinforcement learning, games, artificial intelligence, custom metric]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Playground [games, artificial intelligence, reinforcement learning, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground",
       "id": 70816390,
@@ -475,8 +475,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e10",
       "id": 70871814,
       "n_problems": null,
-      "n_statistics": 686,
-      "parsed_at": "2026-10-04T15:57:11.163242",
+      "n_statistics": 726,
+      "parsed_at": "2026-10-04T23:24:09.906586",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -574,7 +574,7 @@
     },
     {
       "duration": 7200,
-      "end": "2026-10-05T22:00:00",
+      "end": "2026-10-05T19:00:00",
       "event": "Welcome to METU Contest (unrated, icpc, individual)",
       "host": "algoleague.com",
       "href": "https://algoleague.com/contest/welcome-to-metu-contest/",
@@ -585,7 +585,22 @@
       "problems": null,
       "resource": "algoleague.com",
       "resource_id": 170,
-      "start": "2026-10-05T20:00:00"
+      "start": "2026-10-05T17:00:00"
+    },
+    {
+      "duration": 3000,
+      "end": "2026-10-05T21:50:00",
+      "event": "2026 Fall UT CS104c Midterm #1. m7a1g5i8k8a1r4p0",
+      "host": "codeforces.com/gyms",
+      "href": "https://codeforces.com/gym/106741",
+      "id": 70982438,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com/gyms",
+      "resource_id": 64,
+      "start": "2026-10-05T21:00:00"
     },
     {
       "duration": 14400,
