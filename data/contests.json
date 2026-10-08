@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-08T03:37:53Z",
-  "count": 137,
+  "lastUpdated": "2026-10-08T11:41:12Z",
+  "count": 140,
   "contests": [
     {
       "duration": 31536000,
@@ -115,8 +115,8 @@
       "href": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection",
       "id": 69383566,
       "n_problems": null,
-      "n_statistics": 5394,
-      "parsed_at": "2026-10-07T16:14:10.132597",
+      "n_statistics": 5471,
+      "parsed_at": "2026-10-08T11:03:08.946190",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -176,7 +176,7 @@
       "id": 70812215,
       "n_problems": 5,
       "n_statistics": 13,
-      "parsed_at": "2026-10-07T07:15:11.311903",
+      "parsed_at": "2026-10-08T05:40:09.129326",
       "problems": null,
       "resource": "dmoj.ca",
       "resource_id": 77,
@@ -235,8 +235,8 @@
       "href": "https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground",
       "id": 70816390,
       "n_problems": null,
-      "n_statistics": 223,
-      "parsed_at": "2026-10-07T10:23:10.231846",
+      "n_statistics": 240,
+      "parsed_at": "2026-10-08T10:52:09.844407",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -250,8 +250,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e10",
       "id": 70871814,
       "n_problems": null,
-      "n_statistics": 1094,
-      "parsed_at": "2026-10-08T01:54:09.993505",
+      "n_statistics": 1133,
+      "parsed_at": "2026-10-08T09:29:32.928355",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -738,6 +738,21 @@
       "start": "2026-10-11T11:00:00"
     },
     {
+      "duration": 7200,
+      "end": "2026-10-11T13:00:00",
+      "event": "牛客周赛 Round 165 [IOI]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/141721",
+      "id": 71075851,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-10-11T11:00:00"
+    },
+    {
       "duration": 6000,
       "end": "2026-10-11T13:40:00",
       "event": "AtCoder Beginner Contest 479",
@@ -886,6 +901,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-10-14T14:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-10-14T16:35:00",
+      "event": "Educational Codeforces Round 195 (Rated for Div. 2)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2276",
+      "id": 71078735,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-10-14T14:35:00"
     },
     {
       "duration": 5460,
@@ -1141,6 +1171,21 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-10-18T10:00:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2026-10-18T17:00:00",
+      "event": "SamCoding Round 8 (Div. 3)",
+      "host": "samcoding.uz",
+      "href": "https://samcoding.uz/contest/37",
+      "id": 71078377,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "samcoding.uz",
+      "resource_id": 192,
+      "start": "2026-10-18T14:30:00"
     },
     {
       "duration": 39600,
