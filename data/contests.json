@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-09T19:54:35Z",
-  "count": 144,
+  "lastUpdated": "2026-10-09T23:42:40Z",
+  "count": 145,
   "contests": [
     {
       "duration": 31536000,
@@ -235,8 +235,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e10",
       "id": 70871814,
       "n_problems": null,
-      "n_statistics": 1302,
-      "parsed_at": "2026-10-09T15:17:09.726627",
+      "n_statistics": 1336,
+      "parsed_at": "2026-10-09T22:44:08.578230",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -250,8 +250,8 @@
       "href": "https://basecamp.eolymp.com/contests/mtinvdvjcd18hfs1usvat17lbg",
       "id": 70970615,
       "n_problems": 12,
-      "n_statistics": 20,
-      "parsed_at": "2026-10-09T10:26:09.540709",
+      "n_statistics": 22,
+      "parsed_at": "2026-10-09T21:02:10.101543",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -710,7 +710,7 @@
     {
       "duration": 7200,
       "end": "2026-10-11T20:35:00",
-      "event": "Codeforces Round (Div. 1)",
+      "event": "Codeforces Round 1127 (Div. 1, Based on Mexican Olympiad in Informatics 2026)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2273",
       "id": 70486733,
@@ -725,7 +725,7 @@
     {
       "duration": 7200,
       "end": "2026-10-11T20:35:00",
-      "event": "Codeforces Round (Div. 2)",
+      "event": "Codeforces Round 1127 (Div. 2, Based on Mexican Olympiad in Informatics 2026)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2274",
       "id": 70486734,
@@ -1711,6 +1711,21 @@
       "resource": "nerc.itmo.ru/school",
       "resource_id": 11,
       "start": "2026-11-01T10:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-11-01T15:00:00",
+      "event": "AtCoder Grand Contest 079",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/agc079",
+      "id": 71121587,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-11-01T12:00:00"
     },
     {
       "duration": 86400,
