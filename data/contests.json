@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T03:25:42Z",
+  "lastUpdated": "2026-10-10T10:52:40Z",
   "count": 157,
   "contests": [
     {
@@ -86,7 +86,7 @@
       "id": 69223579,
       "n_problems": null,
       "n_statistics": 10143,
-      "parsed_at": "2026-10-09T10:30:12.721706",
+      "parsed_at": "2026-10-10T04:50:08.477443",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -235,8 +235,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e10",
       "id": 70871814,
       "n_problems": null,
-      "n_statistics": 1336,
-      "parsed_at": "2026-10-09T22:44:08.578230",
+      "n_statistics": 1356,
+      "parsed_at": "2026-10-10T06:11:09.368142",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -250,8 +250,8 @@
       "href": "https://basecamp.eolymp.com/contests/mtinvdvjcd18hfs1usvat17lbg",
       "id": 70970615,
       "n_problems": 12,
-      "n_statistics": 22,
-      "parsed_at": "2026-10-09T21:02:10.101543",
+      "n_statistics": 24,
+      "parsed_at": "2026-10-10T07:39:09.310364",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -424,18 +424,18 @@
     },
     {
       "duration": 18000,
-      "end": "2026-10-10T12:00:00",
+      "end": "2026-10-10T12:15:00",
       "event": "[Online] ICPC Ural Regional Contest Qualifier 2026",
       "host": "acm.timus.ru",
       "href": "https://acm.timus.ru/contest.aspx?id=1765",
       "id": 70918964,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 14,
+      "n_statistics": 29,
+      "parsed_at": "2026-10-10T10:50:08.919285",
       "problems": null,
       "resource": "acm.timus.ru",
       "resource_id": 7,
-      "start": "2026-10-10T07:00:00"
+      "start": "2026-10-10T07:15:00"
     },
     {
       "duration": 28800,
@@ -665,7 +665,7 @@
     {
       "duration": 18000,
       "end": "2026-10-11T13:00:00",
-      "event": "The 2026 ICPC Belarus Qualification // acm.bsu.by/events/icpc2026",
+      "event": "The 2026 ICPC Belarus Qualification",
       "host": "acm.bsu.by",
       "href": "https://acm.bsu.by/contests/288/standings/",
       "id": 70687420,
@@ -1833,21 +1833,6 @@
       "start": "2026-11-01T10:00:00"
     },
     {
-      "duration": 10800,
-      "end": "2026-11-01T15:00:00",
-      "event": "AtCoder Grand Contest 079",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/agc079",
-      "id": 71121587,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-11-01T12:00:00"
-    },
-    {
       "duration": 86400,
       "end": "2026-11-07T10:00:00",
       "event": "HKCERT CTF 2026 (Qualifying Round)",
@@ -1966,6 +1951,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-11-08T04:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-11-08T15:00:00",
+      "event": "AtCoder Grand Contest 079",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/agc079",
+      "id": 71121587,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-11-08T12:00:00"
     },
     {
       "duration": 129600,
