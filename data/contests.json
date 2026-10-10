@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T19:03:09Z",
+  "lastUpdated": "2026-10-10T23:05:37Z",
   "count": 161,
   "contests": [
     {
@@ -100,8 +100,8 @@
       "href": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection",
       "id": 69383566,
       "n_problems": null,
-      "n_statistics": 5617,
-      "parsed_at": "2026-10-10T00:41:09.364170",
+      "n_statistics": 5686,
+      "parsed_at": "2026-10-10T19:30:10.965159",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -235,8 +235,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e10",
       "id": 70871814,
       "n_problems": null,
-      "n_statistics": 1409,
-      "parsed_at": "2026-10-10T13:38:09.431700",
+      "n_statistics": 1445,
+      "parsed_at": "2026-10-10T21:05:09.229768",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -438,21 +438,6 @@
       "start": "2026-10-10T07:00:00"
     },
     {
-      "duration": 18000,
-      "end": "2026-10-10T20:00:00",
-      "event": "North America Qualifier 2026 - BYU contest",
-      "host": "open.kattis.com",
-      "href": "https://open.kattis.com/contests/hibsv9",
-      "id": 71128691,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "open.kattis.com",
-      "resource_id": 91,
-      "start": "2026-10-10T15:00:00"
-    },
-    {
       "duration": 57600,
       "end": "2026-10-11T07:50:00",
       "event": "The 2026 ICPC Belarus Qualification – Practice Session",
@@ -460,8 +445,8 @@
       "href": "https://acm.bsu.by/contests/287/standings/",
       "id": 71145149,
       "n_problems": 3,
-      "n_statistics": 36,
-      "parsed_at": "2026-10-10T19:02:09.133392",
+      "n_statistics": 65,
+      "parsed_at": "2026-10-10T23:02:09.015867",
       "problems": null,
       "resource": "acm.bsu.by",
       "resource_id": 97,
@@ -645,6 +630,21 @@
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
+      "start": "2026-10-11T08:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-10-11T13:00:00",
+      "event": "XIX командный чемпионат школьников",
+      "host": "acm.bsu.by",
+      "href": "https://acm.bsu.by/contests/290/standings/",
+      "id": 71152526,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "acm.bsu.by",
+      "resource_id": 97,
       "start": "2026-10-11T08:00:00"
     },
     {
