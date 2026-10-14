@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-14T14:46:42Z",
-  "count": 148,
+  "lastUpdated": "2026-10-14T19:03:48Z",
+  "count": 147,
   "contests": [
     {
       "duration": 31536000,
@@ -85,8 +85,8 @@
       "href": "https://www.kaggle.com/competitions/kaggriculture",
       "id": 69223579,
       "n_problems": null,
-      "n_statistics": 10142,
-      "parsed_at": "2026-10-14T00:30:12.421045",
+      "n_statistics": 10141,
+      "parsed_at": "2026-10-14T18:50:09.256723",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -100,8 +100,8 @@
       "href": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection",
       "id": 69383566,
       "n_problems": null,
-      "n_statistics": 5939,
-      "parsed_at": "2026-10-13T22:46:09.956434",
+      "n_statistics": 5986,
+      "parsed_at": "2026-10-14T17:35:10.211769",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -296,7 +296,7 @@
       "id": 71149195,
       "n_problems": 12,
       "n_statistics": 15,
-      "parsed_at": "2026-10-14T05:26:34.844314",
+      "parsed_at": "2026-10-14T16:03:11.356879",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -310,57 +310,12 @@
       "href": "https://cups.online/rounds/1805",
       "id": 68505130,
       "n_problems": 3,
-      "n_statistics": 90,
-      "parsed_at": "2026-10-14T13:00:13.689033",
+      "n_statistics": 178,
+      "parsed_at": "2026-10-14T17:09:10.787970",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-10-14T07:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-10-14T16:30:00",
-      "event": "Starters 260 (Rated till 5 Star)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/START260",
-      "id": 71002156,
-      "n_problems": 8,
-      "n_statistics": 8794,
-      "parsed_at": "2026-10-14T14:38:09.842936",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-10-14T14:30:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-10-14T16:35:00",
-      "event": "Educational Codeforces Round 195 (Rated for Div. 2)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2276",
-      "id": 71078735,
-      "n_problems": 7,
-      "n_statistics": 1965,
-      "parsed_at": "2026-10-14T14:41:09.097400",
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-10-14T14:35:00"
-    },
-    {
-      "duration": 5460,
-      "end": "2026-10-14T17:01:00",
-      "event": "Beginner Contest 123",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/beginner-contest-123",
-      "id": 70863772,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-10-14T15:30:00"
     },
     {
       "duration": 25200,
@@ -1204,7 +1159,7 @@
     },
     {
       "duration": 14400,
-      "end": "2026-10-25T10:30:00",
+      "end": "2026-10-25T10:00:00",
       "event": "UOJ Easy Round #15",
       "host": "uoj.ac",
       "href": "https://uoj.ac/contest/115",
@@ -1215,7 +1170,7 @@
       "problems": null,
       "resource": "uoj.ac",
       "resource_id": 172,
-      "start": "2026-10-25T06:30:00"
+      "start": "2026-10-25T06:00:00"
     },
     {
       "duration": 10800,
@@ -1398,6 +1353,21 @@
       "start": "2026-10-28T14:30:00"
     },
     {
+      "duration": 5460,
+      "end": "2026-10-28T17:01:00",
+      "event": "Beginner Contest 124",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/beginner-contest-124",
+      "id": 71272736,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-10-28T15:30:00"
+    },
+    {
       "duration": 28800,
       "end": "2026-10-29T17:00:00",
       "event": "Srdnlen CTF 2026 Finals (Sardinia Cyber Camp)",
@@ -1486,6 +1456,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-10-31T02:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-10-31T12:15:00",
+      "event": "[Online] ICPC UrFU Contest Qualifier 2026",
+      "host": "acm.timus.ru",
+      "href": "https://acm.timus.ru/contest.aspx?id=1768",
+      "id": 71272635,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "acm.timus.ru",
+      "resource_id": 7,
+      "start": "2026-10-31T07:15:00"
     },
     {
       "duration": 86400,
