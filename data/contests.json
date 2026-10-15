@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-15T02:24:57Z",
-  "count": 147,
+  "lastUpdated": "2026-10-15T09:31:02Z",
+  "count": 149,
   "contests": [
     {
       "duration": 31536000,
@@ -50,7 +50,7 @@
     {
       "duration": 19203637,
       "end": "2026-11-02T23:59:00",
-      "event": "ARC Prize 2026 - ARC-AGI-3 [artificial intelligence, general knowledge and reasoning, custom metric]",
+      "event": "ARC Prize 2026 - ARC-AGI-3 [general knowledge and reasoning, artificial intelligence, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
       "id": 66453356,
@@ -100,8 +100,8 @@
       "href": "https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra",
       "id": 70420499,
       "n_problems": null,
-      "n_statistics": 3251,
-      "parsed_at": "2026-10-14T08:48:17.420685",
+      "n_statistics": 3333,
+      "parsed_at": "2026-10-15T06:40:10.359783",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -110,7 +110,7 @@
     {
       "duration": 6083593,
       "end": "2026-12-02T23:59:00",
-      "event": "Google - The Gemma 4 Developer Agent Competition [artificial intelligence, coding, custom metric]",
+      "event": "Google - The Gemma 4 Developer Agent Competition [coding, artificial intelligence, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
       "id": 70662440,
@@ -185,7 +185,7 @@
     {
       "duration": 8810939,
       "end": "2027-01-08T23:59:59",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Playground [games, artificial intelligence, reinforcement learning, custom metric]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Playground [reinforcement learning, games, artificial intelligence, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground",
       "id": 70816390,
@@ -205,8 +205,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e10",
       "id": 70871814,
       "n_problems": null,
-      "n_statistics": 1852,
-      "parsed_at": "2026-10-14T21:56:11.267789",
+      "n_statistics": 1874,
+      "parsed_at": "2026-10-15T05:23:09.546328",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -265,8 +265,8 @@
       "href": "https://basecamp.eolymp.com/contests/8ha88h6f5h2n31g09se6so84ko",
       "id": 71149195,
       "n_problems": 12,
-      "n_statistics": 15,
-      "parsed_at": "2026-10-14T16:03:11.356879",
+      "n_statistics": 17,
+      "parsed_at": "2026-10-15T02:40:09.430012",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -280,8 +280,8 @@
       "href": "https://cups.online/rounds/1805",
       "id": 68505130,
       "n_problems": 3,
-      "n_statistics": 257,
-      "parsed_at": "2026-10-15T01:27:10.442890",
+      "n_statistics": 266,
+      "parsed_at": "2026-10-15T05:35:09.866121",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -331,6 +331,21 @@
       "resource": "luogu.com.cn",
       "resource_id": 162,
       "start": "2026-10-15T05:00:00"
+    },
+    {
+      "duration": 259200,
+      "end": "2026-10-18T10:00:00",
+      "event": "AHC GenAI Rules Trial Contest 2026",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/ahc_genai_test_2026",
+      "id": 71291035,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-10-15T10:00:00"
     },
     {
       "duration": 7200,
@@ -1051,6 +1066,21 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-10-24T11:05:00"
+    },
+    {
+      "duration": 6000,
+      "end": "2026-10-24T13:40:00",
+      "event": "SMBC Programming Contest #2 (AtCoder Beginner Contest 481）",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/abc481",
+      "id": 71292652,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-10-24T12:00:00"
     },
     {
       "duration": 86400,
