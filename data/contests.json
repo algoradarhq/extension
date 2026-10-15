@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-15T14:32:25Z",
-  "count": 147,
+  "lastUpdated": "2026-10-15T18:45:51Z",
+  "count": 149,
   "contests": [
     {
       "duration": 31536000,
@@ -50,7 +50,7 @@
     {
       "duration": 19203637,
       "end": "2026-11-02T23:59:00",
-      "event": "ARC Prize 2026 - ARC-AGI-3 [artificial intelligence, general knowledge and reasoning, custom metric]",
+      "event": "ARC Prize 2026 - ARC-AGI-3 [general knowledge and reasoning, artificial intelligence, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
       "id": 66453356,
@@ -110,13 +110,13 @@
     {
       "duration": 6083593,
       "end": "2026-12-02T23:59:00",
-      "event": "Google - The Gemma 4 Developer Agent Competition [artificial intelligence, coding, custom metric]",
+      "event": "Google - The Gemma 4 Developer Agent Competition [coding, artificial intelligence, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
       "id": 70662440,
       "n_problems": null,
-      "n_statistics": 2792,
-      "parsed_at": "2026-10-14T23:13:09.473492",
+      "n_statistics": 2858,
+      "parsed_at": "2026-10-15T16:07:09.427879",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -185,7 +185,7 @@
     {
       "duration": 8810939,
       "end": "2027-01-08T23:59:59",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Playground [games, artificial intelligence, reinforcement learning, custom metric]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Playground [reinforcement learning, games, artificial intelligence, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground",
       "id": 70816390,
@@ -280,8 +280,8 @@
       "href": "https://cups.online/rounds/1805",
       "id": 68505130,
       "n_problems": 3,
-      "n_statistics": 353,
-      "parsed_at": "2026-10-15T13:51:11.923623",
+      "n_statistics": 430,
+      "parsed_at": "2026-10-15T17:59:10.866833",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -295,8 +295,8 @@
       "href": "https://www.kaggle.com/competitions/name-that-llm",
       "id": 71276398,
       "n_problems": null,
-      "n_statistics": 2,
-      "parsed_at": "2026-10-14T20:13:08.574718",
+      "n_statistics": 360,
+      "parsed_at": "2026-10-15T18:22:09.391141",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -309,28 +309,13 @@
       "host": "atcoder.jp",
       "href": "https://atcoder.jp/contests/ahc_genai_test_2026",
       "id": 71291035,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 1,
+      "n_statistics": 36,
+      "parsed_at": "2026-10-15T14:48:11.070403",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-10-15T10:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-10-15T17:01:00",
-      "event": "Weekly Contest 252",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/weekly-contest-252",
-      "id": 71089108,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-10-15T15:01:00"
     },
     {
       "duration": 5999,
@@ -361,6 +346,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-10-16T11:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-10-16T16:00:00",
+      "event": "ICPC Jamoa shakllantirish online musobaqasi",
+      "host": "robocontest.uz",
+      "href": "https://robocontest.uz/contests/4082",
+      "id": 71300914,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "robocontest.uz",
+      "resource_id": 137,
+      "start": "2026-10-16T14:00:00"
     },
     {
       "duration": 179912,
@@ -751,6 +751,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-10-21T14:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-10-22T17:01:00",
+      "event": "Weekly Contest 253",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/weekly-contest-253",
+      "id": 71303118,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-10-22T15:01:00"
     },
     {
       "duration": 172800,
@@ -1546,6 +1561,21 @@
       "resource": "nerc.itmo.ru/school",
       "resource_id": 11,
       "start": "2026-11-01T10:00:00"
+    },
+    {
+      "duration": 604800,
+      "end": "2026-11-09T08:00:00",
+      "event": "Fall Challenge 2026",
+      "host": "codingame.com",
+      "href": "https://www.codingame.com/contests/fall-challenge-2026",
+      "id": 71300485,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codingame.com",
+      "resource_id": 81,
+      "start": "2026-11-02T08:00:00"
     },
     {
       "duration": 86400,
