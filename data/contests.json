@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-16T18:31:36Z",
-  "count": 154,
+  "lastUpdated": "2026-10-16T22:19:41Z",
+  "count": 153,
   "contests": [
     {
       "duration": 31536000,
@@ -50,7 +50,7 @@
     {
       "duration": 19203637,
       "end": "2026-11-02T23:59:00",
-      "event": "ARC Prize 2026 - ARC-AGI-3 [general knowledge and reasoning, artificial intelligence, custom metric]",
+      "event": "ARC Prize 2026 - ARC-AGI-3 [artificial intelligence, general knowledge and reasoning, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
       "id": 66453356,
@@ -110,7 +110,7 @@
     {
       "duration": 6083593,
       "end": "2026-12-02T23:59:00",
-      "event": "Google - The Gemma 4 Developer Agent Competition [coding, artificial intelligence, custom metric]",
+      "event": "Google - The Gemma 4 Developer Agent Competition [artificial intelligence, coding, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
       "id": 70662440,
@@ -185,7 +185,7 @@
     {
       "duration": 8810939,
       "end": "2027-01-08T23:59:59",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Playground [reinforcement learning, games, artificial intelligence, custom metric]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Playground [games, artificial intelligence, reinforcement learning, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground",
       "id": 70816390,
@@ -205,8 +205,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e10",
       "id": 70871814,
       "n_problems": null,
-      "n_statistics": 2009,
-      "parsed_at": "2026-10-16T11:13:09.373093",
+      "n_statistics": 2054,
+      "parsed_at": "2026-10-16T18:40:13.482011",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -265,27 +265,12 @@
       "href": "https://basecamp.eolymp.com/contests/8ha88h6f5h2n31g09se6so84ko",
       "id": 71149195,
       "n_problems": 12,
-      "n_statistics": 26,
-      "parsed_at": "2026-10-16T10:29:11.156441",
+      "n_statistics": 27,
+      "parsed_at": "2026-10-16T21:06:10.601166",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-10-12T05:00:00"
-    },
-    {
-      "duration": 223140,
-      "end": "2026-10-16T20:59:00",
-      "event": "Russian Olympiad in Artificial Intelligence 2026 [ai]. Main stage, non-proctored round",
-      "host": "cups.online",
-      "href": "https://cups.online/rounds/1805",
-      "id": 68505130,
-      "n_problems": 3,
-      "n_statistics": 616,
-      "parsed_at": "2026-10-16T14:42:10.613509",
-      "problems": null,
-      "resource": "cups.online",
-      "resource_id": 138,
-      "start": "2026-10-14T07:00:00"
     },
     {
       "duration": 7987440,
@@ -310,8 +295,8 @@
       "href": "https://atcoder.jp/contests/ahc_genai_test_2026",
       "id": 71291035,
       "n_problems": 1,
-      "n_statistics": 79,
-      "parsed_at": "2026-10-16T15:11:15.635391",
+      "n_statistics": 85,
+      "parsed_at": "2026-10-16T20:06:11.220313",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
@@ -331,6 +316,21 @@
       "resource": "doj.kr",
       "resource_id": 194,
       "start": "2026-10-15T21:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-10-16T23:00:00",
+      "event": "Alberta Collegiate Programming Contest 2026 Div 1",
+      "host": "acpc26.kattis.com",
+      "href": "https://acpc26.kattis.com/contests/acpc26",
+      "id": 71278644,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kattis.com",
+      "resource_id": 168,
+      "start": "2026-10-16T18:00:00"
     },
     {
       "duration": 179912,
@@ -438,21 +438,6 @@
       "start": "2026-10-17T09:00:00"
     },
     {
-      "duration": 18000,
-      "end": "2026-10-17T16:00:00",
-      "event": "The 2026 UK & Ireland Programming Contest - Open",
-      "host": "open.kattis.com",
-      "href": "https://open.kattis.com/contests/ukiepc26open",
-      "id": 71335443,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "open.kattis.com",
-      "resource_id": 91,
-      "start": "2026-10-17T11:00:00"
-    },
-    {
       "duration": 6000,
       "end": "2026-10-17T13:40:00",
       "event": "AtCoder Beginner Contest 480",
@@ -511,21 +496,6 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-10-17T14:35:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-10-17T23:00:00",
-      "event": "Alberta Collegiate Programming Contest 2026 Div 1",
-      "host": "acpc26.kattis.com",
-      "href": "https://acpc26.kattis.com/contests/acpc26",
-      "id": 71278644,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kattis.com",
-      "resource_id": 168,
-      "start": "2026-10-17T18:00:00"
     },
     {
       "duration": 12600,
@@ -781,6 +751,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-10-23T00:30:00"
+    },
+    {
+      "duration": 21600,
+      "end": "2026-10-23T11:30:00",
+      "event": "CREST CTF 2.0",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3477/",
+      "id": 71339623,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-10-23T05:30:00"
     },
     {
       "duration": 7200,
