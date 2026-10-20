@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-20T14:33:52Z",
-  "count": 150,
+  "lastUpdated": "2026-10-20T18:49:29Z",
+  "count": 148,
   "contests": [
     {
       "duration": 31536000,
@@ -100,8 +100,8 @@
       "href": "https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra",
       "id": 70420499,
       "n_problems": null,
-      "n_statistics": 3604,
-      "parsed_at": "2026-10-19T20:00:12.887972",
+      "n_statistics": 3668,
+      "parsed_at": "2026-10-20T17:52:09.328786",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -190,8 +190,8 @@
       "href": "https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground",
       "id": 70816390,
       "n_problems": null,
-      "n_statistics": 439,
-      "parsed_at": "2026-10-19T16:11:09.802393",
+      "n_statistics": 455,
+      "parsed_at": "2026-10-20T16:40:09.936399",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -316,36 +316,6 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-10-19T05:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-10-20T17:00:00",
-      "event": "Индивидуальные тренировки 2026. День 27",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/101859/enter/?retPage=",
-      "id": 71435677,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-10-20T12:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-10-20T16:35:00",
-      "event": "repovive starter round 10",
-      "host": "repovive.com",
-      "href": "https://repovive.com/contests",
-      "id": 71390456,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "repovive.com",
-      "resource_id": 180,
-      "start": "2026-10-20T14:35:00"
     },
     {
       "duration": 7200,
