@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-21T19:01:54Z",
-  "count": 152,
+  "lastUpdated": "2026-10-21T22:53:43Z",
+  "count": 154,
   "contests": [
     {
       "duration": 31536000,
@@ -318,6 +318,21 @@
       "start": "2026-10-19T05:00:00"
     },
     {
+      "duration": 23338736,
+      "end": "2027-07-18T23:59:00",
+      "event": "Squares in Squares [optimization, mathematics, math, custom metric]",
+      "host": "kaggle.com",
+      "href": "https://www.kaggle.com/competitions/squares-in-squares",
+      "id": 71502149,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kaggle.com",
+      "resource_id": 74,
+      "start": "2026-10-21T21:00:04"
+    },
+    {
       "duration": 18000,
       "end": "2026-10-22T10:00:00",
       "event": "[ICPC2019 Xuzhou R] ICPC 2019 区域赛徐州站重现赛 [guzhi, icpc, squad]",
@@ -331,6 +346,21 @@
       "resource": "luogu.com.cn",
       "resource_id": 162,
       "start": "2026-10-22T05:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-10-22T17:00:00",
+      "event": "Индивидуальные тренировки 2026. День 28",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/102033/enter/?retPage=",
+      "id": 71502852,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-10-22T12:00:00"
     },
     {
       "duration": 7200,
@@ -1038,8 +1068,8 @@
       "start": "2026-10-25T14:30:00"
     },
     {
-      "duration": 9000,
-      "end": "2026-10-25T17:05:00",
+      "duration": 9060,
+      "end": "2026-10-25T17:36:00",
       "event": "repovive math round 3",
       "host": "repovive.com",
       "href": "https://repovive.com/contests",
@@ -1050,7 +1080,7 @@
       "problems": null,
       "resource": "repovive.com",
       "resource_id": 180,
-      "start": "2026-10-25T14:35:00"
+      "start": "2026-10-25T15:05:00"
     },
     {
       "duration": 8100,
