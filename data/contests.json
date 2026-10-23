@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-23T18:47:36Z",
-  "count": 150,
+  "lastUpdated": "2026-10-23T22:44:53Z",
+  "count": 151,
   "contests": [
     {
       "duration": 31536000,
@@ -190,8 +190,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e10",
       "id": 70871814,
       "n_problems": null,
-      "n_statistics": 2800,
-      "parsed_at": "2026-10-23T14:34:09.744803",
+      "n_statistics": 2830,
+      "parsed_at": "2026-10-23T22:01:08.275637",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -295,8 +295,8 @@
       "href": "https://basecamp.eolymp.com/contests/m812rcf7691q17lmj5stmvg4nc",
       "id": 71369271,
       "n_problems": 12,
-      "n_statistics": 25,
-      "parsed_at": "2026-10-23T10:27:11.487198",
+      "n_statistics": 26,
+      "parsed_at": "2026-10-23T21:04:09.642832",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -325,8 +325,8 @@
       "href": "https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation",
       "id": 71529627,
       "n_problems": null,
-      "n_statistics": 48,
-      "parsed_at": "2026-10-23T00:01:09.271842",
+      "n_statistics": 461,
+      "parsed_at": "2026-10-23T21:41:10.120032",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -1936,6 +1936,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-11-21T06:30:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-11-22T09:00:00",
+      "event": "Cyber Ninja CTF 2026 - BLACKOUT",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3490/",
+      "id": 71566276,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-11-21T09:00:00"
     },
     {
       "duration": 28800,
