@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-24T02:34:25Z",
-  "count": 151,
+  "lastUpdated": "2026-10-24T09:12:35Z",
+  "count": 150,
   "contests": [
     {
       "duration": 31536000,
@@ -95,13 +95,13 @@
     {
       "duration": 6083593,
       "end": "2026-12-02T23:59:00",
-      "event": "Google - The Gemma 4 Developer Agent Competition [artificial intelligence, coding, custom metric]",
+      "event": "Google - The Gemma 4 Developer Agent Competition [coding, artificial intelligence, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
       "id": 70662440,
       "n_problems": null,
-      "n_statistics": 3502,
-      "parsed_at": "2026-10-23T10:06:09.843885",
+      "n_statistics": 3618,
+      "parsed_at": "2026-10-24T03:00:16.419444",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -170,7 +170,7 @@
     {
       "duration": 8810939,
       "end": "2027-01-08T23:59:59",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Playground [games, artificial intelligence, reinforcement learning, custom metric]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Playground [reinforcement learning, games, artificial intelligence, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground",
       "id": 70816390,
@@ -190,8 +190,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e10",
       "id": 70871814,
       "n_problems": null,
-      "n_statistics": 2830,
-      "parsed_at": "2026-10-23T22:01:08.275637",
+      "n_statistics": 2849,
+      "parsed_at": "2026-10-24T05:28:10.739515",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -200,7 +200,7 @@
     {
       "duration": 7964113,
       "end": "2027-01-06T23:59:00",
-      "event": "NFL Big Data Bowl 2027 [football, sports, data analytics]",
+      "event": "NFL Big Data Bowl 2027 [data analytics, football, sports]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2027",
       "id": 71034304,
@@ -295,8 +295,8 @@
       "href": "https://basecamp.eolymp.com/contests/m812rcf7691q17lmj5stmvg4nc",
       "id": 71369271,
       "n_problems": 12,
-      "n_statistics": 26,
-      "parsed_at": "2026-10-23T21:04:09.642832",
+      "n_statistics": 27,
+      "parsed_at": "2026-10-24T07:40:09.410288",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -421,21 +421,6 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-10-23T18:30:17"
-    },
-    {
-      "duration": 12600,
-      "end": "2026-10-24T04:00:00",
-      "event": "【LGR-312-Div.3】洛谷基础赛 #41 & 奶龙 OI Round 3 [rated, ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/345405",
-      "id": 71169880,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-10-24T00:30:00"
     },
     {
       "duration": 97200,
@@ -693,9 +678,9 @@
       "start": "2026-10-25T00:00:00"
     },
     {
-      "duration": 10800,
+      "duration": 16200,
       "end": "2026-11-01T01:00:00",
-      "event": "DOJ Contest 9",
+      "event": "DOJ Contest++ 9",
       "host": "doj.kr",
       "href": "https://doj.kr/en/contests/dc9",
       "id": 71147710,
