@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-25T22:10:18Z",
-  "count": 121,
+  "lastUpdated": "2026-10-26T02:22:03Z",
+  "count": 125,
   "contests": [
     {
       "duration": 31536000,
@@ -95,7 +95,7 @@
     {
       "duration": 6083593,
       "end": "2026-12-02T23:59:00",
-      "event": "Google - The Gemma 4 Developer Agent Competition [artificial intelligence, coding, custom metric]",
+      "event": "Google - The Gemma 4 Developer Agent Competition [coding, artificial intelligence, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
       "id": 70662440,
@@ -125,7 +125,7 @@
     {
       "duration": 8810939,
       "end": "2027-01-08T23:59:59",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Playground [games, artificial intelligence, reinforcement learning, custom metric]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Playground [reinforcement learning, games, artificial intelligence, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground",
       "id": 70816390,
@@ -145,8 +145,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e10",
       "id": 70871814,
       "n_problems": null,
-      "n_statistics": 3026,
-      "parsed_at": "2026-10-25T18:43:09.319436",
+      "n_statistics": 3055,
+      "parsed_at": "2026-10-26T02:10:07.737326",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -155,7 +155,7 @@
     {
       "duration": 7964113,
       "end": "2027-01-06T23:59:00",
-      "event": "NFL Big Data Bowl 2027 [football, sports, data analytics]",
+      "event": "NFL Big Data Bowl 2027 [data analytics, football, sports]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2027",
       "id": 71034304,
@@ -190,27 +190,12 @@
       "href": "https://www.kaggle.com/competitions/name-that-llm",
       "id": 71276398,
       "n_problems": null,
-      "n_statistics": 3063,
-      "parsed_at": "2026-10-25T00:22:09.397404",
+      "n_statistics": 3245,
+      "parsed_at": "2026-10-25T22:34:09.015515",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-10-14T13:15:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2026-10-26T01:00:00",
-      "event": "DOJ Contest 8 (2026 GSHS CS Seminar)",
-      "host": "doj.kr",
-      "href": "https://doj.kr/en/contests/dc8",
-      "id": 71147709,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "doj.kr",
-      "resource_id": 194,
-      "start": "2026-10-18T01:00:00"
     },
     {
       "duration": 3600000,
@@ -296,7 +281,7 @@
       "id": 71630937,
       "n_problems": null,
       "n_statistics": null,
-      "parsed_at": "2026-10-25T22:00:21.225582",
+      "parsed_at": "2026-10-25T23:42:31.498594",
       "problems": null,
       "resource": "codearena.uz",
       "resource_id": 196,
@@ -1308,6 +1293,21 @@
       "start": "2026-11-14T14:00:00"
     },
     {
+      "duration": 10800,
+      "end": "2026-11-14T17:00:00",
+      "event": "CONTEST #2",
+      "host": "hsin.hr/coci",
+      "href": "https://hsin.hr/coci/",
+      "id": 71638778,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "hsin.hr/coci",
+      "resource_id": 23,
+      "start": "2026-11-14T14:00:00"
+    },
+    {
       "duration": 28800,
       "end": "2026-11-14T23:30:00",
       "event": "InIt CTF",
@@ -1503,6 +1503,21 @@
       "start": "2026-11-22T12:00:00"
     },
     {
+      "duration": 9000,
+      "end": "2026-11-27T17:05:00",
+      "event": "Kotlin Heroes: Episode 15",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2282",
+      "id": 71639714,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-11-27T14:35:00"
+    },
+    {
       "duration": 86400,
       "end": "2026-11-28T18:00:00",
       "event": "LakeCTF Quals 26-27",
@@ -1653,6 +1668,21 @@
       "start": "2026-12-12T14:00:00"
     },
     {
+      "duration": 10800,
+      "end": "2026-12-12T17:00:00",
+      "event": "CONTEST #3",
+      "host": "hsin.hr/coci",
+      "href": "https://hsin.hr/coci/",
+      "id": 71638779,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "hsin.hr/coci",
+      "resource_id": 23,
+      "start": "2026-12-12T14:00:00"
+    },
+    {
       "duration": 129600,
       "end": "2026-12-19T07:00:00",
       "event": "BSides Algiers 2026",
@@ -1728,6 +1758,21 @@
       "start": "2027-01-23T14:00:00"
     },
     {
+      "duration": 10800,
+      "end": "2027-01-23T17:00:00",
+      "event": "CONTEST #4",
+      "host": "hsin.hr/coci",
+      "href": "https://hsin.hr/coci/",
+      "id": 71638780,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "hsin.hr/coci",
+      "resource_id": 23,
+      "start": "2027-01-23T14:00:00"
+    },
+    {
       "duration": 22464000,
       "end": "2027-10-12T15:27:00",
       "event": "Russian Olympiad in Artificial Intelligence 2027 [ai]. Тренировочный раунд",
@@ -1764,6 +1809,21 @@
       "host": "hsin.hr/coci",
       "href": "https://hsin.hr/coci/",
       "id": 71117428,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "hsin.hr/coci",
+      "resource_id": 23,
+      "start": "2027-02-20T14:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2027-02-20T17:00:00",
+      "event": "CONTEST #5",
+      "host": "hsin.hr/coci",
+      "href": "https://hsin.hr/coci/",
+      "id": 71638781,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
