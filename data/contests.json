@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T02:57:18Z",
+  "lastUpdated": "2026-10-27T10:07:18Z",
   "count": 125,
   "contests": [
     {
@@ -145,8 +145,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e10",
       "id": 70871814,
       "n_problems": null,
-      "n_statistics": 3166,
-      "parsed_at": "2026-10-27T00:31:09.166397",
+      "n_statistics": 3192,
+      "parsed_at": "2026-10-27T07:58:09.809905",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -325,8 +325,8 @@
       "href": "https://basecamp.eolymp.com/contests/15d394vsgh3c1da8i6rmrdn1dc",
       "id": 71594793,
       "n_problems": 12,
-      "n_statistics": 8,
-      "parsed_at": "2026-10-26T21:37:10.410857",
+      "n_statistics": 9,
+      "parsed_at": "2026-10-27T08:14:08.667606",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
