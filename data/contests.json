@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-27T19:44:53Z",
-  "count": 126,
+  "lastUpdated": "2026-10-27T23:21:17Z",
+  "count": 130,
   "contests": [
     {
       "duration": 31536000,
@@ -130,8 +130,8 @@
       "href": "https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground",
       "id": 70816390,
       "n_problems": null,
-      "n_statistics": 539,
-      "parsed_at": "2026-10-26T19:34:09.790504",
+      "n_statistics": 553,
+      "parsed_at": "2026-10-27T20:03:09.447704",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -145,8 +145,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e10",
       "id": 70871814,
       "n_problems": null,
-      "n_statistics": 3242,
-      "parsed_at": "2026-10-27T15:25:10.083002",
+      "n_statistics": 3291,
+      "parsed_at": "2026-10-27T22:52:08.856797",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -1293,6 +1293,21 @@
       "start": "2026-11-14T14:00:00"
     },
     {
+      "duration": 10800,
+      "end": "2026-11-14T17:00:00",
+      "event": "CONTEST #2",
+      "host": "hsin.hr/coci",
+      "href": "https://hsin.hr/coci/",
+      "id": 71708546,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "hsin.hr/coci",
+      "resource_id": 23,
+      "start": "2026-11-14T14:00:00"
+    },
+    {
       "duration": 28800,
       "end": "2026-11-14T23:30:00",
       "event": "InIt CTF",
@@ -1683,6 +1698,21 @@
       "start": "2026-12-12T14:00:00"
     },
     {
+      "duration": 10800,
+      "end": "2026-12-12T17:00:00",
+      "event": "CONTEST #3",
+      "host": "hsin.hr/coci",
+      "href": "https://hsin.hr/coci/",
+      "id": 71708547,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "hsin.hr/coci",
+      "resource_id": 23,
+      "start": "2026-12-12T14:00:00"
+    },
+    {
       "duration": 129600,
       "end": "2026-12-19T07:00:00",
       "event": "BSides Algiers 2026",
@@ -1758,6 +1788,21 @@
       "start": "2027-01-23T14:00:00"
     },
     {
+      "duration": 10800,
+      "end": "2027-01-23T17:00:00",
+      "event": "CONTEST #4",
+      "host": "hsin.hr/coci",
+      "href": "https://hsin.hr/coci/",
+      "id": 71708548,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "hsin.hr/coci",
+      "resource_id": 23,
+      "start": "2027-01-23T14:00:00"
+    },
+    {
       "duration": 22464000,
       "end": "2027-10-12T15:27:00",
       "event": "Russian Olympiad in Artificial Intelligence 2027 [ai]. Тренировочный раунд",
@@ -1794,6 +1839,21 @@
       "host": "hsin.hr/coci",
       "href": "https://hsin.hr/coci/",
       "id": 71117428,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "hsin.hr/coci",
+      "resource_id": 23,
+      "start": "2027-02-20T14:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2027-02-20T17:00:00",
+      "event": "CONTEST #5",
+      "host": "hsin.hr/coci",
+      "href": "https://hsin.hr/coci/",
+      "id": 71708549,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
