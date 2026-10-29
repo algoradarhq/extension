@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T19:57:29Z",
+  "lastUpdated": "2026-10-29T23:46:20Z",
   "count": 127,
   "contests": [
     {
@@ -40,8 +40,8 @@
       "href": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2",
       "id": 66453357,
       "n_problems": null,
-      "n_statistics": 3414,
-      "parsed_at": "2026-10-27T14:38:10.729835",
+      "n_statistics": 3507,
+      "parsed_at": "2026-10-29T19:59:09.949355",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -55,8 +55,8 @@
       "href": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
       "id": 66453356,
       "n_problems": null,
-      "n_statistics": 4885,
-      "parsed_at": "2026-10-27T14:39:11.830795",
+      "n_statistics": 4952,
+      "parsed_at": "2026-10-29T20:01:11.111306",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -85,8 +85,8 @@
       "href": "https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra",
       "id": 70420499,
       "n_problems": null,
-      "n_statistics": 4270,
-      "parsed_at": "2026-10-28T22:40:09.274970",
+      "n_statistics": 4334,
+      "parsed_at": "2026-10-29T20:32:11.786088",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -95,7 +95,7 @@
     {
       "duration": 6083593,
       "end": "2026-12-02T23:59:00",
-      "event": "Google - The Gemma 4 Developer Agent Competition [artificial intelligence, coding, custom metric]",
+      "event": "Google - The Gemma 4 Developer Agent Competition [coding, artificial intelligence, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
       "id": 70662440,
@@ -125,13 +125,13 @@
     {
       "duration": 8810939,
       "end": "2027-01-08T23:59:59",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Playground [games, artificial intelligence, reinforcement learning, custom metric]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Playground [reinforcement learning, games, artificial intelligence, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground",
       "id": 70816390,
       "n_problems": null,
-      "n_statistics": 563,
-      "parsed_at": "2026-10-28T20:32:08.855655",
+      "n_statistics": 572,
+      "parsed_at": "2026-10-29T21:01:10.939805",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -155,7 +155,7 @@
     {
       "duration": 7964113,
       "end": "2027-01-06T23:59:00",
-      "event": "NFL Big Data Bowl 2027 [football, sports, data analytics]",
+      "event": "NFL Big Data Bowl 2027 [data analytics, football, sports]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2027",
       "id": 71034304,
@@ -708,6 +708,21 @@
       "start": "2026-11-01T14:30:00"
     },
     {
+      "duration": 9000,
+      "end": "2026-11-01T17:05:00",
+      "event": "Repovive Premier Round 10",
+      "host": "repovive.com",
+      "href": "https://repovive.com/contests",
+      "id": 71390453,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "repovive.com",
+      "resource_id": 180,
+      "start": "2026-11-01T14:35:00"
+    },
+    {
       "duration": 604800,
       "end": "2026-11-09T08:00:00",
       "event": "Fall Challenge 2026",
@@ -1171,21 +1186,6 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-11-08T12:00:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2026-11-08T17:05:00",
-      "event": "Repovive Premier Round 10",
-      "host": "repovive.com",
-      "href": "https://repovive.com/contests",
-      "id": 71390453,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "repovive.com",
-      "resource_id": 180,
-      "start": "2026-11-08T14:35:00"
     },
     {
       "duration": 5460,
