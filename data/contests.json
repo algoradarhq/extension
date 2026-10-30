@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T19:46:21Z",
+  "lastUpdated": "2026-10-30T23:22:21Z",
   "count": 137,
   "contests": [
     {
@@ -95,7 +95,7 @@
     {
       "duration": 6083593,
       "end": "2026-12-02T23:59:00",
-      "event": "Google - The Gemma 4 Developer Agent Competition [artificial intelligence, coding, custom metric]",
+      "event": "Google - The Gemma 4 Developer Agent Competition [coding, artificial intelligence, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
       "id": 70662440,
@@ -125,13 +125,13 @@
     {
       "duration": 8810939,
       "end": "2027-01-08T23:59:59",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Playground [games, artificial intelligence, reinforcement learning, custom metric]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Playground [reinforcement learning, games, artificial intelligence, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground",
       "id": 70816390,
       "n_problems": null,
-      "n_statistics": 572,
-      "parsed_at": "2026-10-29T21:01:10.939805",
+      "n_statistics": 583,
+      "parsed_at": "2026-10-30T21:30:14.296716",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -155,7 +155,7 @@
     {
       "duration": 7964113,
       "end": "2027-01-06T23:59:00",
-      "event": "NFL Big Data Bowl 2027 [football, sports, data analytics]",
+      "event": "NFL Big Data Bowl 2027 [data analytics, football, sports]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2027",
       "id": 71034304,
@@ -311,7 +311,7 @@
       "id": 71594793,
       "n_problems": 12,
       "n_statistics": 24,
-      "parsed_at": "2026-10-30T10:29:09.588787",
+      "parsed_at": "2026-10-30T21:05:10.089778",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
