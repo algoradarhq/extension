@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-31T10:39:43Z",
-  "count": 136,
+  "lastUpdated": "2026-10-31T18:55:24Z",
+  "count": 132,
   "contests": [
     {
       "duration": 31536000,
@@ -85,8 +85,8 @@
       "href": "https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra",
       "id": 70420499,
       "n_problems": null,
-      "n_statistics": 4392,
-      "parsed_at": "2026-10-30T18:24:09.579679",
+      "n_statistics": 4450,
+      "parsed_at": "2026-10-31T16:16:09.445710",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -95,7 +95,7 @@
     {
       "duration": 6083593,
       "end": "2026-12-02T23:59:00",
-      "event": "Google - The Gemma 4 Developer Agent Competition [coding, artificial intelligence, custom metric]",
+      "event": "Google - The Gemma 4 Developer Agent Competition [artificial intelligence, coding, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
       "id": 70662440,
@@ -125,7 +125,7 @@
     {
       "duration": 8810939,
       "end": "2027-01-08T23:59:59",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Playground [reinforcement learning, games, artificial intelligence, custom metric]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Playground [games, artificial intelligence, reinforcement learning, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground",
       "id": 70816390,
@@ -145,8 +145,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e10",
       "id": 70871814,
       "n_problems": null,
-      "n_statistics": 3650,
-      "parsed_at": "2026-10-31T08:49:09.538239",
+      "n_statistics": 3695,
+      "parsed_at": "2026-10-31T16:17:08.137958",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -155,7 +155,7 @@
     {
       "duration": 7964113,
       "end": "2027-01-06T23:59:00",
-      "event": "NFL Big Data Bowl 2027 [data analytics, football, sports]",
+      "event": "NFL Big Data Bowl 2027 [football, sports, data analytics]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2027",
       "id": 71034304,
@@ -175,8 +175,8 @@
       "href": "https://www.kaggle.com/competitions/name-that-llm",
       "id": 71276398,
       "n_problems": null,
-      "n_statistics": 3921,
-      "parsed_at": "2026-10-30T13:34:11.275991",
+      "n_statistics": 4040,
+      "parsed_at": "2026-10-31T11:46:09.297021",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -280,8 +280,8 @@
       "href": "https://basecamp.eolymp.com/contests/15d394vsgh3c1da8i6rmrdn1dc",
       "id": 71594793,
       "n_problems": 12,
-      "n_statistics": 24,
-      "parsed_at": "2026-10-31T07:42:10.758955",
+      "n_statistics": 25,
+      "parsed_at": "2026-10-31T18:19:08.973280",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -363,21 +363,6 @@
       "start": "2026-10-31T04:15:00"
     },
     {
-      "duration": 18000,
-      "end": "2026-10-31T12:45:00",
-      "event": "[Online] ICPC UrFU Contest Qualifier 2026",
-      "host": "acm.timus.ru",
-      "href": "https://acm.timus.ru/contest.aspx?id=1768",
-      "id": 71272635,
-      "n_problems": 14,
-      "n_statistics": 8,
-      "parsed_at": "2026-10-31T10:38:09.898097",
-      "problems": null,
-      "resource": "acm.timus.ru",
-      "resource_id": 7,
-      "start": "2026-10-31T07:45:00"
-    },
-    {
       "duration": 86400,
       "end": "2026-11-01T09:00:00",
       "event": "Russian CTF Cup X Qualifier",
@@ -391,21 +376,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-10-31T09:00:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2026-10-31T12:00:00",
-      "event": "2026 GSHS 2학년 1반 2학기 PS 대회 Open Contest",
-      "host": "doj.kr",
-      "href": "https://doj.kr/en/contests/2026-gshs-2-1-2-ps-open-contest",
-      "id": 71612684,
-      "n_problems": 15,
-      "n_statistics": 5,
-      "parsed_at": "2026-10-31T10:35:09.807087",
-      "problems": null,
-      "resource": "doj.kr",
-      "resource_id": 194,
-      "start": "2026-10-31T09:30:00"
     },
     {
       "duration": 860400,
@@ -423,36 +393,6 @@
       "start": "2026-10-31T11:00:00"
     },
     {
-      "duration": 6000,
-      "end": "2026-10-31T13:40:00",
-      "event": "AtCoder Beginner Contest 482",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/abc482",
-      "id": 71222373,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-10-31T12:00:00"
-    },
-    {
-      "duration": 0,
-      "end": "2026-10-31T13:00:00",
-      "event": "Problem 1017",
-      "host": "projecteuler.net",
-      "href": "https://projecteuler.net/news",
-      "id": 71038015,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "projecteuler.net",
-      "resource_id": 65,
-      "start": "2026-10-31T13:00:00"
-    },
-    {
       "duration": 28800,
       "end": "2026-10-31T21:00:00",
       "event": "StealthCup 2026",
@@ -466,21 +406,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-10-31T13:00:00"
-    },
-    {
-      "duration": 8100,
-      "end": "2026-10-31T16:50:00",
-      "event": "Codeforces Round 1131 (Div. 3)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2278",
-      "id": 71358566,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-10-31T14:35:00"
     },
     {
       "duration": 18000,
@@ -1861,6 +1786,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-12-19T12:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-12-26T09:00:00",
+      "event": "Car2n Cup@Double or Nothing: Toy Division",
+      "host": "doj.kr",
+      "href": "https://doj.kr/en/contests/car2n-toy",
+      "id": 71836660,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "doj.kr",
+      "resource_id": 194,
+      "start": "2026-12-26T04:00:00"
     },
     {
       "duration": 86400,
