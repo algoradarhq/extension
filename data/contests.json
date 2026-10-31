@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-30T23:22:21Z",
-  "count": 137,
+  "lastUpdated": "2026-10-31T03:20:28Z",
+  "count": 139,
   "contests": [
     {
       "duration": 31536000,
@@ -145,8 +145,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e10",
       "id": 70871814,
       "n_problems": null,
-      "n_statistics": 3586,
-      "parsed_at": "2026-10-30T17:55:11.944317",
+      "n_statistics": 3613,
+      "parsed_at": "2026-10-31T01:22:10.067061",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -220,8 +220,8 @@
       "href": "https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation",
       "id": 71529627,
       "n_problems": null,
-      "n_statistics": 1621,
-      "parsed_at": "2026-10-30T05:21:13.467652",
+      "n_statistics": 1731,
+      "parsed_at": "2026-10-31T03:01:09.311541",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -511,6 +511,36 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-10-31T14:35:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-10-31T21:15:00",
+      "event": "ICPC NA Central Division 2026 Division 2 - Open",
+      "host": "open.kattis.com",
+      "href": "https://open.kattis.com/contests/nacentral26d2open",
+      "id": 71815768,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "open.kattis.com",
+      "resource_id": 91,
+      "start": "2026-10-31T16:15:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-10-31T21:15:00",
+      "event": "ICPC NA Central Division 2026 Division 1 - Open",
+      "host": "open.kattis.com",
+      "href": "https://open.kattis.com/contests/nacentral26d1open",
+      "id": 71815769,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "open.kattis.com",
+      "resource_id": 91,
+      "start": "2026-10-31T16:15:00"
     },
     {
       "duration": 14400,
