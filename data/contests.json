@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-01T03:19:53Z",
-  "count": 131,
+  "lastUpdated": "2026-11-01T11:34:27Z",
+  "count": 124,
   "contests": [
     {
       "duration": 31536000,
@@ -95,7 +95,7 @@
     {
       "duration": 6083593,
       "end": "2026-12-02T23:59:00",
-      "event": "Google - The Gemma 4 Developer Agent Competition [artificial intelligence, coding, custom metric]",
+      "event": "Google - The Gemma 4 Developer Agent Competition [coding, artificial intelligence, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
       "id": 70662440,
@@ -125,7 +125,7 @@
     {
       "duration": 8810939,
       "end": "2027-01-08T23:59:59",
-      "event": "The Pokémon Company - PTCG AI Battle Challenge Playground [games, artificial intelligence, reinforcement learning, custom metric]",
+      "event": "The Pokémon Company - PTCG AI Battle Challenge Playground [artificial intelligence, games, reinforcement learning, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground",
       "id": 70816390,
@@ -160,8 +160,8 @@
       "href": "https://www.kaggle.com/competitions/name-that-llm",
       "id": 71276398,
       "n_problems": null,
-      "n_statistics": 4040,
-      "parsed_at": "2026-10-31T11:46:09.297021",
+      "n_statistics": 4149,
+      "parsed_at": "2026-11-01T09:58:09.403751",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -200,7 +200,7 @@
     {
       "duration": 7797514,
       "end": "2027-01-20T23:59:00",
-      "event": "Google Quantum AI - Verifiable Quantum Circuit Compilation [physics, computer science, custom metric]",
+      "event": "Google Quantum AI - Verifiable Quantum Circuit Compilation [computer science, physics, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation",
       "id": 71529627,
@@ -236,7 +236,7 @@
       "id": 71594793,
       "n_problems": 12,
       "n_statistics": 25,
-      "parsed_at": "2026-10-31T18:19:08.973280",
+      "parsed_at": "2026-11-01T04:55:44.883021",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -255,21 +255,6 @@
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
-      "start": "2026-10-30T10:00:00"
-    },
-    {
-      "duration": 172800,
-      "end": "2026-11-01T10:00:00",
-      "event": "CTF@AC26 - Finals",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3463/",
-      "id": 71376037,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
       "start": "2026-10-30T10:00:00"
     },
     {
@@ -303,21 +288,6 @@
       "start": "2026-10-31T04:15:00"
     },
     {
-      "duration": 86400,
-      "end": "2026-11-01T09:00:00",
-      "event": "Russian CTF Cup X Qualifier",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3469/",
-      "id": 70954644,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-10-31T09:00:00"
-    },
-    {
       "duration": 860400,
       "end": "2026-11-10T10:00:00",
       "event": "CSP-S 2026 自测（民间数据） [ioi]",
@@ -340,8 +310,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e11",
       "id": 71852891,
       "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_statistics": 34,
+      "parsed_at": "2026-11-01T06:00:13.587104",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -363,36 +333,6 @@
       "start": "2026-11-01T01:00:00"
     },
     {
-      "duration": 5400,
-      "end": "2026-11-01T04:00:00",
-      "event": "Weekly Contest 526",
-      "host": "leetcode.com",
-      "href": "https://leetcode.com/contest/weekly-contest-526",
-      "id": 71453079,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "leetcode.com",
-      "resource_id": 102,
-      "start": "2026-11-01T02:30:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-11-01T09:00:00",
-      "event": "2026 年 CaMeL AI 杯上海市临港五校程序设计邀请赛（重现赛） [guzhi, icpc]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/367488",
-      "id": 71553189,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-11-01T05:00:00"
-    },
-    {
       "duration": 18000,
       "end": "2026-11-01T13:00:00",
       "event": "Вторая командная олимпиада",
@@ -406,21 +346,6 @@
       "resource": "acmp.ru",
       "resource_id": 5,
       "start": "2026-11-01T08:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-11-01T12:00:00",
-      "event": "FMI NO STRESS 15",
-      "host": "kilonova.ro",
-      "href": "https://kilonova.ro/contests/3529",
-      "id": 71620363,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kilonova.ro",
-      "resource_id": 175,
-      "start": "2026-11-01T09:00:00"
     },
     {
       "duration": 18000,
@@ -444,9 +369,9 @@
       "host": "basecamp.eolymp.com",
       "href": "https://basecamp.eolymp.com/contests/erlo0vclq14dtcjgj7ub465dj8",
       "id": 71418630,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 5,
+      "n_statistics": 73,
+      "parsed_at": "2026-11-01T11:34:10.336157",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -978,6 +903,21 @@
       "start": "2026-11-08T07:00:00"
     },
     {
+      "duration": 10800,
+      "end": "2026-11-08T11:00:00",
+      "event": "Третья личная олимпиада",
+      "host": "acmp.ru",
+      "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46931",
+      "id": 71858972,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "acmp.ru",
+      "resource_id": 5,
+      "start": "2026-11-08T08:00:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-11-08T13:00:00",
       "event": "牛客周赛 Round 169 [IOI]",
@@ -1008,8 +948,8 @@
       "start": "2026-11-08T11:05:00"
     },
     {
-      "duration": 10800,
-      "end": "2026-11-08T15:00:00",
+      "duration": 12600,
+      "end": "2026-11-08T15:30:00",
       "event": "AtCoder Grand Contest 079",
       "host": "atcoder.jp",
       "href": "https://atcoder.jp/contests/agc079",
@@ -1143,21 +1083,6 @@
       "start": "2026-11-14T14:00:00"
     },
     {
-      "duration": 10800,
-      "end": "2026-11-14T17:00:00",
-      "event": "CONTEST #2",
-      "host": "hsin.hr/coci",
-      "href": "https://hsin.hr/coci/",
-      "id": 71855158,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "hsin.hr/coci",
-      "resource_id": 23,
-      "start": "2026-11-14T14:00:00"
-    },
-    {
       "duration": 28800,
       "end": "2026-11-14T23:30:00",
       "event": "InIt CTF",
@@ -1171,6 +1096,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-11-14T15:30:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-11-15T13:00:00",
+      "event": "Третья командная олимпиада",
+      "host": "acmp.ru",
+      "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46932",
+      "id": 71858973,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "acmp.ru",
+      "resource_id": 5,
+      "start": "2026-11-15T08:00:00"
     },
     {
       "duration": 18000,
@@ -1698,21 +1638,6 @@
       "start": "2026-12-12T14:00:00"
     },
     {
-      "duration": 10800,
-      "end": "2026-12-12T17:00:00",
-      "event": "CONTEST #3",
-      "host": "hsin.hr/coci",
-      "href": "https://hsin.hr/coci/",
-      "id": 71855159,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "hsin.hr/coci",
-      "resource_id": 23,
-      "start": "2026-12-12T14:00:00"
-    },
-    {
       "duration": 129600,
       "end": "2026-12-19T07:00:00",
       "event": "BSides Algiers 2026",
@@ -1803,21 +1728,6 @@
       "start": "2027-01-23T14:00:00"
     },
     {
-      "duration": 10800,
-      "end": "2027-01-23T17:00:00",
-      "event": "CONTEST #4",
-      "host": "hsin.hr/coci",
-      "href": "https://hsin.hr/coci/",
-      "id": 71855160,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "hsin.hr/coci",
-      "resource_id": 23,
-      "start": "2027-01-23T14:00:00"
-    },
-    {
       "duration": 22464000,
       "end": "2027-10-12T15:27:00",
       "event": "Russian Olympiad in Artificial Intelligence 2027 [ai]. Тренировочный раунд",
@@ -1854,21 +1764,6 @@
       "host": "hsin.hr/coci",
       "href": "https://hsin.hr/coci/",
       "id": 71117428,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "hsin.hr/coci",
-      "resource_id": 23,
-      "start": "2027-02-20T14:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2027-02-20T17:00:00",
-      "event": "CONTEST #5",
-      "host": "hsin.hr/coci",
-      "href": "https://hsin.hr/coci/",
-      "id": 71855161,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
