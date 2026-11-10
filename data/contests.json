@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-09T23:38:17Z",
-  "count": 127,
+  "lastUpdated": "2026-11-10T05:17:30Z",
+  "count": 126,
   "contests": [
     {
       "duration": 31536000,
@@ -16,21 +16,6 @@
       "resource": "datsteam.dev",
       "resource_id": 174,
       "start": "2025-11-13T00:00:00"
-    },
-    {
-      "duration": 19808447,
-      "end": "2026-11-09T23:59:00",
-      "event": "ARC Prize 2026 - Paper Track [artificial intelligence, general knowledge and reasoning]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/arc-prize-2026-paper-track",
-      "id": 66453358,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2026-03-25T17:38:13"
     },
     {
       "duration": 31536004,
@@ -70,8 +55,8 @@
       "href": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
       "id": 70662440,
       "n_problems": null,
-      "n_statistics": 5179,
-      "parsed_at": "2026-11-09T07:50:10.030508",
+      "n_statistics": 5232,
+      "parsed_at": "2026-11-10T00:45:11.851271",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -100,8 +85,8 @@
       "href": "https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground",
       "id": 70816390,
       "n_problems": null,
-      "n_statistics": 661,
-      "parsed_at": "2026-11-09T01:51:10.054152",
+      "n_statistics": 680,
+      "parsed_at": "2026-11-10T02:20:11.062476",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -160,8 +145,8 @@
       "href": "https://www.kaggle.com/competitions/squares-in-squares",
       "id": 71502149,
       "n_problems": null,
-      "n_statistics": 1750,
-      "parsed_at": "2026-11-07T08:00:14.305293",
+      "n_statistics": 1871,
+      "parsed_at": "2026-11-10T00:50:09.683773",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -175,8 +160,8 @@
       "href": "https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation",
       "id": 71529627,
       "n_problems": null,
-      "n_statistics": 2665,
-      "parsed_at": "2026-11-09T03:41:09.241867",
+      "n_statistics": 2720,
+      "parsed_at": "2026-11-10T01:21:10.516694",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -198,8 +183,8 @@
       "start": "2026-10-31T00:00:00"
     },
     {
-      "duration": 884700,
-      "end": "2026-11-10T10:00:00",
+      "duration": 1143900,
+      "end": "2026-11-13T10:00:00",
       "event": "CSP-J 2026 自测（官方数据） [ioi]",
       "host": "luogu.com.cn",
       "href": "https://www.luogu.com.cn/contest/369911",
@@ -228,8 +213,8 @@
       "start": "2026-10-31T06:30:00"
     },
     {
-      "duration": 860400,
-      "end": "2026-11-10T10:00:00",
+      "duration": 1119600,
+      "end": "2026-11-13T10:00:00",
       "event": "CSP-S 2026 自测（官方数据） [ioi]",
       "host": "luogu.com.cn",
       "href": "https://www.luogu.com.cn/contest/369912",
@@ -311,7 +296,7 @@
       "id": 72056679,
       "n_problems": null,
       "n_statistics": null,
-      "parsed_at": "2026-11-09T22:03:09.701879",
+      "parsed_at": "2026-11-10T04:28:08.807655",
       "problems": null,
       "resource": "codearena.uz",
       "resource_id": 196,
@@ -468,6 +453,21 @@
       "start": "2026-11-11T15:30:00"
     },
     {
+      "duration": 7200,
+      "end": "2026-11-12T02:30:00",
+      "event": "UTPC x WiCS Contest 11-11-2026. UTPC_Admin",
+      "host": "codeforces.com/gyms",
+      "href": "https://codeforces.com/gym/106821",
+      "id": 72171583,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com/gyms",
+      "resource_id": 64,
+      "start": "2026-11-12T00:30:00"
+    },
+    {
       "duration": 18000,
       "end": "2026-11-12T10:00:00",
       "event": "[FJCPC 2026] 2026 年福建省大学生程序设计竞赛重现赛 [guzhi, icpc, squad]",
@@ -594,21 +594,6 @@
       "host": "hsin.hr/coci",
       "href": "https://hsin.hr/coci/",
       "id": 71117425,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "hsin.hr/coci",
-      "resource_id": 23,
-      "start": "2026-11-14T14:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-11-14T17:00:00",
-      "event": "CONTEST #2",
-      "host": "hsin.hr/coci",
-      "href": "https://hsin.hr/coci/",
-      "id": 72164578,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
@@ -841,6 +826,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-11-18T14:30:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-11-19T10:00:00",
+      "event": "[ICPC2026 Nanchang I] ICPC 2026 邀请赛南昌站重现赛 [guzhi, icpc, squad]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/372198",
+      "id": 72170239,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-11-19T05:00:00"
     },
     {
       "duration": 172800,
@@ -1113,6 +1113,21 @@
       "start": "2026-11-21T22:00:00"
     },
     {
+      "duration": 5400,
+      "end": "2026-11-22T04:00:00",
+      "event": "Weekly Contest 529",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/weekly-contest-529",
+      "id": 72170754,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2026-11-22T02:30:00"
+    },
+    {
       "duration": 25200,
       "end": "2026-11-22T11:00:00",
       "event": "Программирование - профессионалы (ком. 2026)",
@@ -1186,6 +1201,21 @@
       "resource": "challenge.ucup.ac",
       "resource_id": 183,
       "start": "2026-11-24T12:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-11-26T10:00:00",
+      "event": "[CCPC 2026 长春站] CCPC 2026 长春站重现赛 [guzhi, icpc, squad]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/372200",
+      "id": 72170237,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-11-26T05:00:00"
     },
     {
       "duration": 9000,
@@ -1563,21 +1593,6 @@
       "start": "2026-12-12T14:00:00"
     },
     {
-      "duration": 10800,
-      "end": "2026-12-12T17:00:00",
-      "event": "CONTEST #3",
-      "host": "hsin.hr/coci",
-      "href": "https://hsin.hr/coci/",
-      "id": 72164579,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "hsin.hr/coci",
-      "resource_id": 23,
-      "start": "2026-12-12T14:00:00"
-    },
-    {
       "duration": 18000,
       "end": "2026-12-13T12:00:00",
       "event": "NERC, Northern Eurasia Finals",
@@ -1728,21 +1743,6 @@
       "start": "2027-01-23T14:00:00"
     },
     {
-      "duration": 10800,
-      "end": "2027-01-23T17:00:00",
-      "event": "CONTEST #4",
-      "host": "hsin.hr/coci",
-      "href": "https://hsin.hr/coci/",
-      "id": 72164580,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "hsin.hr/coci",
-      "resource_id": 23,
-      "start": "2027-01-23T14:00:00"
-    },
-    {
       "duration": 22464000,
       "end": "2027-10-12T15:27:00",
       "event": "Russian Olympiad in Artificial Intelligence 2027 [ai]. Тренировочный раунд",
@@ -1794,21 +1794,6 @@
       "host": "hsin.hr/coci",
       "href": "https://hsin.hr/coci/",
       "id": 71117428,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "hsin.hr/coci",
-      "resource_id": 23,
-      "start": "2027-02-20T14:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2027-02-20T17:00:00",
-      "event": "CONTEST #5",
-      "host": "hsin.hr/coci",
-      "href": "https://hsin.hr/coci/",
-      "id": 72164581,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
