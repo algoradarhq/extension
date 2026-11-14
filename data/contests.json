@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-13T21:04:56Z",
-  "count": 125,
+  "lastUpdated": "2026-11-14T04:07:00Z",
+  "count": 127,
   "contests": [
     {
       "duration": 31536004,
@@ -258,6 +258,21 @@
       "start": "2026-11-12T17:00:00"
     },
     {
+      "duration": 63900,
+      "end": "2026-11-14T08:45:34",
+      "event": "ICPC 2026–2027 Georgia Regional Contest. Practice Session",
+      "host": "nerc.itmo.ru",
+      "href": "https://nerc.itmo.ru/archive/2026/georgia/standings.html",
+      "id": 72298130,
+      "n_problems": 5,
+      "n_statistics": 40,
+      "parsed_at": "2026-11-14T04:04:05.770088",
+      "problems": null,
+      "resource": "nerc.itmo.ru",
+      "resource_id": 104,
+      "start": "2026-11-13T15:00:34"
+    },
+    {
       "duration": 16200,
       "end": "2026-11-14T05:00:00",
       "event": "【LGR-314】洛谷 NOIP 2026 模拟赛 [rated, oi]",
@@ -315,6 +330,21 @@
       "problems": null,
       "resource": "hsin.hr/coci",
       "resource_id": 23,
+      "start": "2026-11-14T14:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-11-14T16:00:00",
+      "event": "The 2026 ICPC Belarus Regional Contest (XXIX NERC Western Subregional) – Practice Session",
+      "host": "acm.bsu.by",
+      "href": "https://acm.bsu.by/contests/301/standings/",
+      "id": 72299890,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "acm.bsu.by",
+      "resource_id": 97,
       "start": "2026-11-14T14:00:00"
     },
     {
