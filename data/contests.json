@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-15T20:01:30Z",
-  "count": 117,
+  "lastUpdated": "2026-11-16T03:53:07Z",
+  "count": 119,
   "contests": [
     {
       "duration": 31536004,
@@ -145,8 +145,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e11",
       "id": 71852891,
       "n_problems": null,
-      "n_statistics": 1869,
-      "parsed_at": "2026-11-15T16:16:11.713261",
+      "n_statistics": 1904,
+      "parsed_at": "2026-11-15T23:29:07.216726",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -829,6 +829,21 @@
     },
     {
       "duration": 7200,
+      "end": "2026-11-22T13:00:00",
+      "event": "牛客周赛 Round 171 [IOI]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/144189",
+      "id": 72369430,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-11-22T11:00:00"
+    },
+    {
+      "duration": 7200,
       "end": "2026-11-22T14:00:00",
       "event": "Weekend Practice #32",
       "host": "basecamp.eolymp.com",
@@ -1081,6 +1096,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-11-29T10:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-11-29T13:00:00",
+      "event": "牛客周赛 Round 172 [IOI]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/144191",
+      "id": 72369432,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-11-29T11:00:00"
     },
     {
       "duration": 7200,
