@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-20T01:31:26Z",
-  "count": 128,
+  "lastUpdated": "2026-11-20T13:43:44Z",
+  "count": 129,
   "contests": [
     {
       "duration": 31536004,
@@ -55,8 +55,8 @@
       "href": "https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground",
       "id": 70816390,
       "n_problems": null,
-      "n_statistics": 759,
-      "parsed_at": "2026-11-19T06:41:09.047050",
+      "n_statistics": 773,
+      "parsed_at": "2026-11-20T07:10:11.739647",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -145,8 +145,8 @@
       "href": "https://www.kaggle.com/competitions/playground-series-s6e11",
       "id": 71852891,
       "n_problems": null,
-      "n_statistics": 2375,
-      "parsed_at": "2026-11-19T21:14:14.460289",
+      "n_statistics": 2425,
+      "parsed_at": "2026-11-20T11:40:11.250755",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -206,7 +206,7 @@
       "id": 72340436,
       "n_problems": 12,
       "n_statistics": 9,
-      "parsed_at": "2026-11-19T23:49:09.698066",
+      "parsed_at": "2026-11-20T10:25:10.638202",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -220,8 +220,8 @@
       "href": "https://www.kaggle.com/competitions/santa-2026",
       "id": 72433206,
       "n_problems": null,
-      "n_statistics": 1401,
-      "parsed_at": "2026-11-19T17:30:04.731314",
+      "n_statistics": 1747,
+      "parsed_at": "2026-11-20T10:47:05.815939",
       "problems": null,
       "resource": "kaggle.com",
       "resource_id": 74,
@@ -348,36 +348,6 @@
       "start": "2026-11-20T10:00:00"
     },
     {
-      "duration": 7200,
-      "end": "2026-11-20T13:00:00",
-      "event": "AtCoder 企業対抗リーグ 2026 第3戦",
-      "host": "atcoder.jp?lang=ja",
-      "href": "https://atcoder.jp/contests/c-league2026-3",
-      "id": 71748226,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-11-20T11:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-11-20T13:00:00",
-      "event": "AtCoder 企業対抗リーグ 2026 第3戦(オープンコンテスト)",
-      "host": "atcoder.jp?lang=ja",
-      "href": "https://atcoder.jp/contests/c-league2026-3-open",
-      "id": 71748227,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-11-20T11:00:00"
-    },
-    {
       "duration": 10800,
       "end": "2026-11-20T14:00:00",
       "event": "牛客挑战赛94 [ACM]",
@@ -395,7 +365,7 @@
     {
       "duration": 7200,
       "end": "2026-11-20T16:30:00",
-      "event": "SamCoding Round 12 (Div. 3)",
+      "event": "SamCoding Round 12 (Div. 2)",
       "host": "samcoding.uz",
       "href": "https://samcoding.uz/contest/57",
       "id": 72154522,
@@ -631,6 +601,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-11-21T22:00:00"
+    },
+    {
+      "duration": 16200,
+      "end": "2026-11-22T04:30:00",
+      "event": "LXQ OI Round 2 && 胡桃杯 Round 1 [rated, oi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/372048",
+      "id": 72510238,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-11-22T00:00:00"
     },
     {
       "duration": 6000,
@@ -1278,6 +1263,21 @@
       "start": "2026-12-05T05:00:00"
     },
     {
+      "duration": 43200,
+      "end": "2026-12-05T21:00:00",
+      "event": "AlgoMETU'27 Qualification Round (unrated, icpc, individual)",
+      "host": "algoleague.com",
+      "href": "https://algoleague.com/contest/algometu27-qualification-round/",
+      "id": 72512160,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "algoleague.com",
+      "resource_id": 170,
+      "start": "2026-12-05T09:00:00"
+    },
+    {
       "duration": 6000,
       "end": "2026-12-05T13:40:00",
       "event": "AtCoder Beginner Contest 487",
@@ -1531,6 +1531,21 @@
       "resource": "hsin.hr/coci",
       "resource_id": 23,
       "start": "2026-12-12T14:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-12-13T10:00:00",
+      "event": "第二届“⌬杯”蓝桥杯省赛模拟赛 [oi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/372249",
+      "id": 72501795,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-12-13T06:00:00"
     },
     {
       "duration": 18000,
